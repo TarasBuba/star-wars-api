@@ -1,0 +1,368 @@
+[
+  {
+    "id": 1,
+    "name": "AT-AT Walker",
+    "model": "All Terrain Armored Transport",
+    "manufacturer": "Kuat Drive Yards",
+    "class": "Walker",
+    "cost_in_credits": 300000,
+    "length": 20.6,
+    "max_atmosphering_speed": 60,
+    "crew": 5,
+    "passengers": 40,
+    "cargo_capacity": 1000,
+    "armor": "Reinforced durasteel hull",
+    "armament": [
+      "Medium blaster cannons (2x)",
+      "Heavy laser cannons (2x)"
+    ],
+    "vehicle_class": "assault walker",
+    "affiliation": [
+      "Galactic Empire"
+    ],
+    "canon": true,
+    "url": "http://localhost:3001/vehicles/1"
+  },
+  {
+    "id": 2,
+    "name": "AT-ST Walker",
+    "model": "All Terrain Scout Transport",
+    "manufacturer": "Kuat Drive Yards",
+    "class": "Walker",
+    "cost_in_credits": 60000,
+    "length": 8.6,
+    "max_atmosphering_speed": 90,
+    "crew": 2,
+    "passengers": 0,
+    "cargo_capacity": 200,
+    "armor": "Durasteel hull",
+    "armament": [
+      "Medium blaster cannon (chin-mounted)",
+      "Concussion grenade launcher",
+      "Blaster cannons (side-mounted 2x)"
+    ],
+    "vehicle_class": "scout walker",
+    "affiliation": [
+      "Galactic Empire"
+    ],
+    "canon": true,
+    "url": "http://localhost:3001/vehicles/2"
+  },
+  {
+    "id": 3,
+    "name": "74-Z Speeder Bike",
+    "model": "74-Z military speeder bike",
+    "manufacturer": "Aratech Repulsor Company",
+    "class": "Speeder bike",
+    "cost_in_credits": 8000,
+    "length": 3.0,
+    "max_atmosphering_speed": 500,
+    "crew": 1,
+    "passengers": 1,
+    "cargo_capacity": 4,
+    "armor": null,
+    "armament": [
+      "Laser cannon (forward-mounted)"
+    ],
+    "vehicle_class": "speeder bike",
+    "affiliation": [
+      "Galactic Empire",
+      "Rebel Alliance"
+    ],
+    "canon": true,
+    "url": "http://localhost:3001/vehicles/3"
+  },
+  {
+    "id": 4,
+    "name": "AAT Battle Tank",
+    "model": "Armored Assault Tank",
+    "manufacturer": "Baktoid Armor Workshop",
+    "class": "Tank",
+    "cost_in_credits": null,
+    "length": 9.75,
+    "max_atmosphering_speed": 55,
+    "crew": 4,
+    "passengers": 6,
+    "cargo_capacity": null,
+    "armor": "Metallite hull plating",
+    "armament": [
+      "Heavy laser cannon",
+      "Energy ball launchers (2x)",
+      "Blaster cannons (4x)"
+    ],
+    "vehicle_class": "repulsorlift tank",
+    "affiliation": [
+      "Trade Federation",
+      "Confederacy of Independent Systems"
+    ],
+    "canon": true,
+    "url": "http://localhost:3001/vehicles/4"
+  },
+  {
+    "id": 5,
+    "name": "LAAT Gunship",
+    "model": "Low Altitude Assault Transport/infantry",
+    "manufacturer": "Rothana Heavy Engineering",
+    "class": "Gunship",
+    "cost_in_credits": null,
+    "length": 17.4,
+    "max_atmosphering_speed": 620,
+    "crew": 4,
+    "passengers": 30,
+    "cargo_capacity": 1000,
+    "armor": "Reinforced hull",
+    "armament": [
+      "Anti-personnel laser turrets (3x)",
+      "Mass-driver missile launchers (2x)",
+      "Light air-to-air rockets (4x)",
+      "Composite beam laser"
+    ],
+    "vehicle_class": "gunship",
+    "affiliation": [
+      "Galactic Republic",
+      "Grand Army of the Republic"
+    ],
+    "canon": true,
+    "url": "http://localhost:3001/vehicles/5"
+  },
+  {
+    "id": 6,
+    "name": "Snowspeeder",
+    "model": "T-47 airspeeder",
+    "manufacturer": "Incom Corporation",
+    "class": "Airspeeder",
+    "cost_in_credits": null,
+    "length": 5.3,
+    "max_atmosphering_speed": 1100,
+    "crew": 2,
+    "passengers": 0,
+    "cargo_capacity": 10,
+    "armor": "Composite hull",
+    "armament": [
+      "Laser cannons (2x)",
+      "Harpoon gun with tow cable"
+    ],
+    "vehicle_class": "airspeeder",
+    "affiliation": [
+      "Rebel Alliance"
+    ],
+    "canon": true,
+    "url": "http://localhost:3001/vehicles/6"
+  },
+  {
+    "id": 7,
+    "name": "Hailfire Droid",
+    "model": "IG-227 Hailfire-class droid tank",
+    "manufacturer": "Haor Chall Engineering",
+    "class": "Droid tank",
+    "cost_in_credits": null,
+    "length": 8.5,
+    "max_atmosphering_speed": 55,
+    "crew": 0,
+    "passengers": 0,
+    "cargo_capacity": null,
+    "armor": "Duranium plating",
+    "armament": [
+      "Hailfire missiles (30x per launcher, 2 launchers)",
+      "Medium blaster cannons"
+    ],
+    "vehicle_class": "wheel droid",
+    "affiliation": [
+      "Confederacy of Independent Systems"
+    ],
+    "canon": true,
+    "url": "http://localhost:3001/vehicles/7"
+  },
+  {
+    "id": 8,
+    "name": "TX-130 Fighter Tank",
+    "model": "TX-130 Saber-class fighter tank",
+    "manufacturer": "Rothana Heavy Engineering",
+    "class": "Fighter tank",
+    "cost_in_credits": null,
+    "length": 9.1,
+    "max_atmosphering_speed": 220,
+    "crew": 1,
+    "passengers": 0,
+    "cargo_capacity": null,
+    "armor": "Durasteel hull",
+    "armament": [
+      "Rapid-fire laser cannons (2x)",
+      "Concussion missile launchers (2x)"
+    ],
+    "vehicle_class": "fighter tank",
+    "affiliation": [
+      "Galactic Republic"
+    ],
+    "canon": true,
+    "url": "http://localhost:3001/vehicles/8"
+  },
+  {
+    "id": 9,
+    "name": "Mandalorian Jetpack (Whistling Birds)",
+    "model": "Z-6 Jetpack",
+    "manufacturer": "Mitrinomon Transports",
+    "class": "Personal propulsion",
+    "cost_in_credits": null,
+    "length": null,
+    "max_atmosphering_speed": 145,
+    "crew": 1,
+    "passengers": 0,
+    "cargo_capacity": null,
+    "armor": null,
+    "armament": [
+      "Whistling birds (mini-missiles)",
+      "Dart launcher"
+    ],
+    "vehicle_class": "jetpack",
+    "affiliation": [
+      "Mandalorian Clans",
+      "Bounty Hunters Guild"
+    ],
+    "canon": true,
+    "url": "http://localhost:3001/vehicles/9"
+  },
+  {
+    "id": 10,
+    "name": "BARC Speeder",
+    "model": "Biker Advanced Recon Commando speeder",
+    "manufacturer": "Aratech Repulsor Company",
+    "class": "Speeder bike",
+    "cost_in_credits": null,
+    "length": 4.57,
+    "max_atmosphering_speed": 520,
+    "crew": 1,
+    "passengers": 1,
+    "cargo_capacity": null,
+    "armor": null,
+    "armament": [
+      "Laser cannons (2x)"
+    ],
+    "vehicle_class": "speeder bike",
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire"
+    ],
+    "canon": true,
+    "url": "http://localhost:3001/vehicles/10"
+  },
+  {
+    "id": 11,
+    "name": "MTT (Multi-Troop Transport)",
+    "model": "Multi-Troop Transport",
+    "manufacturer": "Baktoid Armor Workshop",
+    "class": "Transport",
+    "cost_in_credits": null,
+    "length": 31.0,
+    "max_atmosphering_speed": 35,
+    "crew": 4,
+    "passengers": 112,
+    "cargo_capacity": null,
+    "armor": "Thick durasteel hull",
+    "armament": [
+      "Laser cannons (6x)",
+      "Energy torpedo launchers"
+    ],
+    "vehicle_class": "repulsorlift transport",
+    "affiliation": [
+      "Trade Federation",
+      "Confederacy of Independent Systems"
+    ],
+    "canon": true,
+    "url": "http://localhost:3001/vehicles/11"
+  },
+  {
+    "id": 12,
+    "name": "Swoop Bike",
+    "model": "Joben T-85 swoop bike",
+    "manufacturer": "Ikas-Adno",
+    "class": "Swoop",
+    "cost_in_credits": 6750,
+    "length": 2.8,
+    "max_atmosphering_speed": 600,
+    "crew": 1,
+    "passengers": 1,
+    "cargo_capacity": 4,
+    "armor": null,
+    "armament": [],
+    "vehicle_class": "swoop",
+    "affiliation": [
+      "Criminal organizations",
+      "Civilians"
+    ],
+    "canon": true,
+    "url": "http://localhost:3001/vehicles/12"
+  },
+  {
+    "id": 13,
+    "name": "AT-TE Walker",
+    "model": "All Terrain Tactical Enforcer",
+    "manufacturer": "Kuat Drive Yards / Rothana Heavy Engineering",
+    "class": "Walker",
+    "cost_in_credits": null,
+    "length": 13.2,
+    "max_atmosphering_speed": 60,
+    "crew": 7,
+    "passengers": 36,
+    "cargo_capacity": 10000,
+    "armor": "Heavy durasteel hull",
+    "armament": [
+      "Mass-driver cannon (top-mounted)",
+      "Anti-personnel laser cannons (4x)",
+      "Medium laser cannons (2x)"
+    ],
+    "vehicle_class": "assault walker",
+    "affiliation": [
+      "Galactic Republic",
+      "Grand Army of the Republic"
+    ],
+    "canon": true,
+    "url": "http://localhost:3001/vehicles/13"
+  },
+  {
+    "id": 14,
+    "name": "Speeder Bike (Scout)",
+    "model": "614-AvA speeder bike",
+    "manufacturer": "Aratech Repulsor Company",
+    "class": "Speeder bike",
+    "cost_in_credits": null,
+    "length": 4.4,
+    "max_atmosphering_speed": 360,
+    "crew": 1,
+    "passengers": 0,
+    "cargo_capacity": null,
+    "armor": null,
+    "armament": [
+      "Laser cannon"
+    ],
+    "vehicle_class": "speeder bike",
+    "affiliation": [
+      "Galactic Empire"
+    ],
+    "canon": true,
+    "url": "http://localhost:3001/vehicles/14"
+  },
+  {
+    "id": 15,
+    "name": "Imperial Troop Transport",
+    "model": "RTT Gozanti-class cruiser (ground variant)",
+    "manufacturer": "Gallofree Yards / Kuat Drive Yards",
+    "class": "Transport",
+    "cost_in_credits": null,
+    "length": null,
+    "max_atmosphering_speed": 850,
+    "crew": 6,
+    "passengers": 54,
+    "cargo_capacity": 5000,
+    "armor": "Durasteel plating",
+    "armament": [
+      "Laser cannons (4x)"
+    ],
+    "vehicle_class": "troop transport",
+    "affiliation": [
+      "Galactic Empire"
+    ],
+    "canon": true,
+    "url": "http://localhost:3001/vehicles/15"
+  }
+]

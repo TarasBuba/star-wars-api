@@ -1,0 +1,1377 @@
+[
+  {
+    "id": 1,
+    "name": "Anakin Skywalker's Blue Lightsaber",
+    "type": "lightsaber",
+    "manufacturer": "Self-constructed",
+    "model": "Single-bladed lightsaber",
+    "range": "melee",
+    "owner_id": 1,
+    "current_owner_id": 29,
+    "color": "blue",
+    "crystal_type": "Kyber crystal",
+    "crystal_origin_id": 22,
+    "hilt_material": "Alloy metal, ridged grip",
+    "blade_length": 91,
+    "special_features": [
+      "Passed to Obi-Wan",
+      "Later to Luke",
+      "Then calls to Rey via Force"
+    ],
+    "affiliation": [
+      "Jedi Order",
+      "New Jedi Order"
+    ],
+    "first_appearance_film_id": 2,
+    "canon": true,
+    "url": "http://localhost:3001/weapons/1"
+  },
+  {
+    "id": 2,
+    "name": "Luke Skywalker's Green Lightsaber",
+    "type": "lightsaber",
+    "manufacturer": "Self-constructed",
+    "model": "Single-bladed lightsaber",
+    "range": "melee",
+    "owner_id": 17,
+    "current_owner_id": null,
+    "color": "green",
+    "crystal_type": "Kyber crystal",
+    "crystal_origin_id": 22,
+    "hilt_material": "Alloy metal, black wrap",
+    "blade_length": 91,
+    "special_features": [
+      "First fully self-constructed Jedi lightsaber shown in films",
+      "Functional underwater"
+    ],
+    "affiliation": [
+      "Jedi Order"
+    ],
+    "first_appearance_film_id": 6,
+    "canon": true,
+    "url": "http://localhost:3001/weapons/2"
+  },
+  {
+    "id": 3,
+    "name": "Obi-Wan Kenobi's Lightsaber",
+    "type": "lightsaber",
+    "manufacturer": "Self-constructed",
+    "model": "Single-bladed lightsaber",
+    "range": "melee",
+    "owner_id": 2,
+    "current_owner_id": null,
+    "color": "blue",
+    "crystal_type": "Kyber crystal",
+    "crystal_origin_id": 22,
+    "hilt_material": "Chrome finish, emitter shroud",
+    "blade_length": 91,
+    "special_features": [
+      "Third iteration of his saber design",
+      "Disintegrates when Obi-Wan becomes one with the Force"
+    ],
+    "affiliation": [
+      "Jedi Order"
+    ],
+    "first_appearance_film_id": 1,
+    "canon": true,
+    "url": "http://localhost:3001/weapons/3"
+  },
+  {
+    "id": 4,
+    "name": "Darth Vader's Red Lightsaber",
+    "type": "lightsaber",
+    "manufacturer": "Self-constructed (bleeding)",
+    "model": "Single-bladed lightsaber",
+    "range": "melee",
+    "owner_id": 1,
+    "current_owner_id": null,
+    "color": "red",
+    "crystal_type": "Kyber crystal (bled/corrupted)",
+    "crystal_origin_id": null,
+    "hilt_material": "Black alloy, ridged grip",
+    "blade_length": 91,
+    "special_features": [
+      "Crystal bled red through dark side ritual",
+      "Slightly longer blade than standard"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "Sith"
+    ],
+    "first_appearance_film_id": 4,
+    "canon": true,
+    "url": "http://localhost:3001/weapons/4"
+  },
+  {
+    "id": 5,
+    "name": "Yoda's Green Lightsaber",
+    "type": "lightsaber",
+    "manufacturer": "Self-constructed",
+    "model": "Shoto lightsaber (short-bladed)",
+    "range": "melee",
+    "owner_id": 3,
+    "current_owner_id": null,
+    "color": "green",
+    "crystal_type": "Kyber crystal",
+    "crystal_origin_id": 22,
+    "hilt_material": "Alloy metal, compact design",
+    "blade_length": 46,
+    "special_features": [
+      "Shorter blade for Yoda's small stature",
+      "Extraordinary dueling agility despite size"
+    ],
+    "affiliation": [
+      "Jedi Order"
+    ],
+    "first_appearance_film_id": 2,
+    "canon": true,
+    "url": "http://localhost:3001/weapons/5"
+  },
+  {
+    "id": 6,
+    "name": "Mace Windu's Purple Lightsaber",
+    "type": "lightsaber",
+    "manufacturer": "Self-constructed",
+    "model": "Single-bladed lightsaber",
+    "range": "melee",
+    "owner_id": 6,
+    "current_owner_id": null,
+    "color": "purple",
+    "crystal_type": "Kyber crystal (rare amethyst)",
+    "crystal_origin_id": null,
+    "hilt_material": "Electrum-finish hilt",
+    "blade_length": 91,
+    "special_features": [
+      "Unique purple color reflecting mastery of both light and dark combat forms",
+      "Vaapad combat form personified"
+    ],
+    "affiliation": [
+      "Jedi Order",
+      "Jedi High Council"
+    ],
+    "first_appearance_film_id": 2,
+    "canon": true,
+    "url": "http://localhost:3001/weapons/6"
+  },
+  {
+    "id": 7,
+    "name": "Qui-Gon Jinn's Green Lightsaber",
+    "type": "lightsaber",
+    "manufacturer": "Self-constructed",
+    "model": "Single-bladed lightsaber",
+    "range": "melee",
+    "owner_id": 7,
+    "current_owner_id": null,
+    "color": "green",
+    "crystal_type": "Kyber crystal",
+    "crystal_origin_id": 22,
+    "hilt_material": "Alloy metal, ridged grip, thick design",
+    "blade_length": 91,
+    "special_features": [
+      "Unique thick cylindrical hilt",
+      "Used to melt blast doors"
+    ],
+    "affiliation": [
+      "Jedi Order"
+    ],
+    "first_appearance_film_id": 1,
+    "canon": true,
+    "url": "http://localhost:3001/weapons/7"
+  },
+  {
+    "id": 8,
+    "name": "Count Dooku's Curved-Hilt Red Lightsaber",
+    "type": "lightsaber",
+    "manufacturer": "Self-constructed",
+    "model": "Single-bladed curved-hilt lightsaber",
+    "range": "melee",
+    "owner_id": 8,
+    "current_owner_id": null,
+    "color": "red",
+    "crystal_type": "Kyber crystal (bled)",
+    "crystal_origin_id": null,
+    "hilt_material": "Alloy metal, curved design for Makashi form",
+    "blade_length": 91,
+    "special_features": [
+      "Curved hilt for precise Makashi (Form II) dueling",
+      "Elegant aristocratic design"
+    ],
+    "affiliation": [
+      "Sith",
+      "Confederacy of Independent Systems"
+    ],
+    "first_appearance_film_id": 2,
+    "canon": true,
+    "url": "http://localhost:3001/weapons/8"
+  },
+  {
+    "id": 9,
+    "name": "Ahsoka Tano's White Lightsabers (Pair)",
+    "type": "lightsaber",
+    "manufacturer": "Self-constructed (purified)",
+    "model": "Dual shoto lightsabers",
+    "range": "melee",
+    "owner_id": 10,
+    "current_owner_id": 10,
+    "color": "white",
+    "crystal_type": "Kyber crystal (purified from Inquisitor)",
+    "crystal_origin_id": null,
+    "hilt_material": "Alloy metal, reverse-grip design",
+    "blade_length": 76,
+    "special_features": [
+      "Purified red Inquisitor crystals back to white",
+      "Represent Ahsoka's independence from both Jedi and Sith",
+      "Reverse-grip fighting style"
+    ],
+    "affiliation": [
+      "Independent"
+    ],
+    "first_appearance_film_id": 13,
+    "canon": true,
+    "url": "http://localhost:3001/weapons/9"
+  },
+  {
+    "id": 10,
+    "name": "Darth Maul's Double-Bladed Lightsaber",
+    "type": "lightsaber",
+    "manufacturer": "Self-constructed",
+    "model": "Saberstaff (double-bladed)",
+    "range": "melee",
+    "owner_id": 51,
+    "current_owner_id": null,
+    "color": "red",
+    "crystal_type": "Kyber crystals (bled, x2)",
+    "crystal_origin_id": null,
+    "hilt_material": "Electrum alloy, dual emitter",
+    "blade_length": 182,
+    "special_features": [
+      "First double-bladed saber seen in films",
+      "Can split into two single sabers",
+      "Rebuilt after Maul's bisection"
+    ],
+    "affiliation": [
+      "Sith",
+      "Shadow Collective"
+    ],
+    "first_appearance_film_id": 1,
+    "canon": true,
+    "url": "http://localhost:3001/weapons/10"
+  },
+  {
+    "id": 11,
+    "name": "Kylo Ren's Crossguard Lightsaber",
+    "type": "lightsaber",
+    "manufacturer": "Self-constructed",
+    "model": "Cross-guard lightsaber",
+    "range": "melee",
+    "owner_id": 30,
+    "current_owner_id": null,
+    "color": "red",
+    "crystal_type": "Kyber crystal (cracked, unstable)",
+    "crystal_origin_id": null,
+    "hilt_material": "Crude alloy, salvaged parts",
+    "blade_length": 91,
+    "special_features": [
+      "Unstable cracked crystal vents excess energy through crossguard quillons",
+      "Raw, crackling red blade unique to Kylo"
+    ],
+    "affiliation": [
+      "First Order",
+      "Knights of Ren"
+    ],
+    "first_appearance_film_id": 7,
+    "canon": true,
+    "url": "http://localhost:3001/weapons/11"
+  },
+  {
+    "id": 12,
+    "name": "Rey's Yellow Lightsaber",
+    "type": "lightsaber",
+    "manufacturer": "Self-constructed",
+    "model": "Hinged double-bladed lightsaber (staff mode)",
+    "range": "melee",
+    "owner_id": 29,
+    "current_owner_id": 29,
+    "color": "yellow",
+    "crystal_type": "Kyber crystal",
+    "crystal_origin_id": null,
+    "hilt_material": "Leather-wrapped staff, folded hilt",
+    "blade_length": 91,
+    "special_features": [
+      "Built from her iconic scavenger staff",
+      "Activates as both single and double-bladed",
+      "Yellow blade rare — associated with Jedi Temple Guards and Jedi Sentinels"
+    ],
+    "affiliation": [
+      "New Jedi Order"
+    ],
+    "first_appearance_film_id": 9,
+    "canon": true,
+    "url": "http://localhost:3001/weapons/12"
+  },
+  {
+    "id": 13,
+    "name": "The Darksaber",
+    "type": "lightsaber",
+    "manufacturer": "Tarre Vizsla (ancient Mandalorian Jedi)",
+    "model": "Unique black-bladed lightsaber",
+    "range": "melee",
+    "owner_id": null,
+    "current_owner_id": 37,
+    "color": "black",
+    "crystal_type": "Kyber crystal (ancient, unique)",
+    "crystal_origin_id": 22,
+    "hilt_material": "Beskar alloy, flat blade emitter",
+    "blade_length": 76,
+    "special_features": [
+      "Flat, black plasma blade unique in the galaxy",
+      "Symbol of Mandalore leadership",
+      "Becomes heavier if wielded without conviction",
+      "Over 1000 years old"
+    ],
+    "affiliation": [
+      "Mandalorian Clans",
+      "Jedi Order (historical)"
+    ],
+    "first_appearance_film_id": 12,
+    "canon": true,
+    "url": "http://localhost:3001/weapons/13"
+  },
+  {
+    "id": 14,
+    "name": "Kanan Jarrus's Blue Lightsaber",
+    "type": "lightsaber",
+    "manufacturer": "Self-constructed",
+    "model": "Single-bladed lightsaber (separable)",
+    "range": "melee",
+    "owner_id": 41,
+    "current_owner_id": null,
+    "color": "blue",
+    "crystal_type": "Kyber crystal",
+    "crystal_origin_id": 22,
+    "hilt_material": "Alloy with removable cap — disguised as blaster grip",
+    "blade_length": 91,
+    "special_features": [
+      "Hilt splits into two pieces for disguise",
+      "Kanan wields it blind after losing his sight on Malachor"
+    ],
+    "affiliation": [
+      "Jedi Order",
+      "Rebel Alliance",
+      "Spectres"
+    ],
+    "first_appearance_film_id": 13,
+    "canon": true,
+    "url": "http://localhost:3001/weapons/14"
+  },
+  {
+    "id": 15,
+    "name": "Ezra Bridger's Lightsaber-Blaster Hybrid",
+    "type": "lightsaber",
+    "manufacturer": "Self-constructed",
+    "model": "Lightsaber with integrated blaster",
+    "range": "melee",
+    "owner_id": 42,
+    "current_owner_id": 42,
+    "color": "blue",
+    "crystal_type": "Kyber crystal",
+    "crystal_origin_id": null,
+    "hilt_material": "Alloy, integrated stun blaster",
+    "blade_length": 91,
+    "special_features": [
+      "Integrates a stun blaster into the hilt — unique design",
+      "Later destroyed; Ezra builds a standard green saber"
+    ],
+    "affiliation": [
+      "Jedi Order",
+      "Rebel Alliance",
+      "Spectres"
+    ],
+    "first_appearance_film_id": 13,
+    "canon": true,
+    "url": "http://localhost:3001/weapons/15"
+  },
+  {
+    "id": 16,
+    "name": "Asajj Ventress's Dual Red Lightsabers",
+    "type": "lightsaber",
+    "manufacturer": "Self-constructed",
+    "model": "Curved-hilt dual lightsabers",
+    "range": "melee",
+    "owner_id": 50,
+    "current_owner_id": null,
+    "color": "red",
+    "crystal_type": "Kyber crystals (bled, x2)",
+    "crystal_origin_id": null,
+    "hilt_material": "Alloy, curved, attachable at base to form saberstaff",
+    "blade_length": 81,
+    "special_features": [
+      "Two sabers connect at base to form a double-bladed staff",
+      "Bestowed by Count Dooku, then repurposed after defection",
+      "Later repurified to white after Ventress rejects the dark side"
+    ],
+    "affiliation": [
+      "Sith",
+      "Confederacy of Independent Systems"
+    ],
+    "first_appearance_film_id": 12,
+    "canon": true,
+    "url": "http://localhost:3001/weapons/16"
+  },
+  {
+    "id": 17,
+    "name": "Ahsoka Tano's Padawan Green Lightsabers",
+    "type": "lightsaber",
+    "manufacturer": "Self-constructed",
+    "model": "Standard + shoto dual lightsabers",
+    "range": "melee",
+    "owner_id": 10,
+    "current_owner_id": null,
+    "color": "green",
+    "crystal_type": "Kyber crystals",
+    "crystal_origin_id": 22,
+    "hilt_material": "Standard alloy hilts",
+    "blade_length": 91,
+    "special_features": [
+      "Standard green + shorter shoto for dual-wielding",
+      "Left at the Jedi Temple when Ahsoka departed the Order"
+    ],
+    "affiliation": [
+      "Jedi Order"
+    ],
+    "first_appearance_film_id": 12,
+    "canon": true,
+    "url": "http://localhost:3001/weapons/17"
+  },
+  {
+    "id": 18,
+    "name": "Leia Organa's Lightsaber",
+    "type": "lightsaber",
+    "manufacturer": "Self-constructed",
+    "model": "Single-bladed lightsaber",
+    "range": "melee",
+    "owner_id": 18,
+    "current_owner_id": null,
+    "color": "blue",
+    "crystal_type": "Kyber crystal",
+    "crystal_origin_id": 22,
+    "hilt_material": "Alloy metal, elegant design",
+    "blade_length": 91,
+    "special_features": [
+      "Built during Leia's brief Jedi training under Luke",
+      "Hidden for decades",
+      "Seen in flashback in The Rise of Skywalker",
+      "Passed to Rey for burial on Tatooine"
+    ],
+    "affiliation": [
+      "New Jedi Order"
+    ],
+    "first_appearance_film_id": 9,
+    "canon": true,
+    "url": "http://localhost:3001/weapons/18"
+  },
+  {
+    "id": 19,
+    "name": "Han Solo's DL-44 Heavy Blaster Pistol",
+    "type": "blaster_pistol",
+    "manufacturer": "BlasTech Industries",
+    "model": "DL-44 heavy blaster pistol",
+    "range": "medium",
+    "owner_id": 19,
+    "current_owner_id": null,
+    "color": null,
+    "crystal_type": null,
+    "crystal_origin_id": null,
+    "hilt_material": null,
+    "blade_length": null,
+    "special_features": [
+      "Modified scope",
+      "Custom grip",
+      "Extremely high stopping power for a pistol",
+      "'Shoot first' legendary moment at Mos Eisley"
+    ],
+    "affiliation": [
+      "Rebel Alliance",
+      "Resistance"
+    ],
+    "first_appearance_film_id": 4,
+    "canon": true,
+    "url": "http://localhost:3001/weapons/19"
+  },
+  {
+    "id": 20,
+    "name": "Leia Organa's Defender-5 Sporting Blaster",
+    "type": "blaster_pistol",
+    "manufacturer": "Drearian Defense Conglomerate",
+    "model": "Defender-5 sporting blaster",
+    "range": "short",
+    "owner_id": 18,
+    "current_owner_id": null,
+    "color": null,
+    "crystal_type": null,
+    "crystal_origin_id": null,
+    "hilt_material": null,
+    "blade_length": null,
+    "special_features": [
+      "Compact design concealed under clothing",
+      "Standard Alderaan diplomatic sidearm",
+      "Used in Death Star escape"
+    ],
+    "affiliation": [
+      "Rebel Alliance",
+      "Alderaan Royal House"
+    ],
+    "first_appearance_film_id": 4,
+    "canon": true,
+    "url": "http://localhost:3001/weapons/20"
+  },
+  {
+    "id": 21,
+    "name": "Jyn Erso's A180 Modular Blaster",
+    "type": "blaster_pistol",
+    "manufacturer": "Blastech Industries",
+    "model": "A180 reconfigurable blaster pistol",
+    "range": "medium",
+    "owner_id": 40,
+    "current_owner_id": null,
+    "color": null,
+    "crystal_type": null,
+    "crystal_origin_id": null,
+    "hilt_material": null,
+    "blade_length": null,
+    "special_features": [
+      "Modular design — converts between pistol, rifle, and sniper modes",
+      "Lightweight and adaptable for solo operatives"
+    ],
+    "affiliation": [
+      "Rebel Alliance",
+      "Partisans"
+    ],
+    "first_appearance_film_id": 10,
+    "canon": true,
+    "url": "http://localhost:3001/weapons/21"
+  },
+  {
+    "id": 22,
+    "name": "Cassian Andor's DT-29 Heavy Blaster Pistol",
+    "type": "blaster_pistol",
+    "manufacturer": "BlasTech Industries",
+    "model": "DT-29 heavy blaster pistol",
+    "range": "medium",
+    "owner_id": 39,
+    "current_owner_id": null,
+    "color": null,
+    "crystal_type": null,
+    "crystal_origin_id": null,
+    "hilt_material": null,
+    "blade_length": null,
+    "special_features": [
+      "High-powered ISB-issued sidearm",
+      "Cassian carries as a spy's weapon of last resort"
+    ],
+    "affiliation": [
+      "Rebel Alliance",
+      "Fulcrum network"
+    ],
+    "first_appearance_film_id": 10,
+    "canon": true,
+    "url": "http://localhost:3001/weapons/22"
+  },
+  {
+    "id": 23,
+    "name": "Din Djarin's WESTAR-35 Blaster Pistols",
+    "type": "blaster_pistol",
+    "manufacturer": "Concordian Crescent Technologies",
+    "model": "WESTAR-35 blaster pistol (pair)",
+    "range": "medium",
+    "owner_id": 35,
+    "current_owner_id": 35,
+    "color": null,
+    "crystal_type": null,
+    "crystal_origin_id": null,
+    "hilt_material": null,
+    "blade_length": null,
+    "special_features": [
+      "Iconic Mandalorian sidearm",
+      "High rate of fire",
+      "Dual-wielded with Mando's characteristic style",
+      "Same model used by Jango Fett"
+    ],
+    "affiliation": [
+      "Mandalorian Clans"
+    ],
+    "first_appearance_film_id": 14,
+    "canon": true,
+    "url": "http://localhost:3001/weapons/23"
+  },
+  {
+    "id": 24,
+    "name": "Rey's NN-14 Blaster Pistol",
+    "type": "blaster_pistol",
+    "manufacturer": "Sonn-Blas Corporation",
+    "model": "NN-14 blaster pistol",
+    "range": "short",
+    "owner_id": 29,
+    "current_owner_id": 29,
+    "color": null,
+    "crystal_type": null,
+    "crystal_origin_id": null,
+    "hilt_material": null,
+    "blade_length": null,
+    "special_features": [
+      "Compact scavenger sidearm from Jakku",
+      "Handed to Rey by Han Solo"
+    ],
+    "affiliation": [
+      "Resistance"
+    ],
+    "first_appearance_film_id": 7,
+    "canon": true,
+    "url": "http://localhost:3001/weapons/24"
+  },
+  {
+    "id": 25,
+    "name": "Captain Rex's DC-17 Hand Blasters",
+    "type": "blaster_pistol",
+    "manufacturer": "Western Arms Company",
+    "model": "DC-17 hand blaster (pair)",
+    "range": "medium",
+    "owner_id": 15,
+    "current_owner_id": null,
+    "color": null,
+    "crystal_type": null,
+    "crystal_origin_id": null,
+    "hilt_material": null,
+    "blade_length": null,
+    "special_features": [
+      "Standard clone captain sidearm",
+      "Dual DC-17 pistols for Rex's aggressive CQB style",
+      "Can fire in rapid-burst mode"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Grand Army of the Republic"
+    ],
+    "first_appearance_film_id": 12,
+    "canon": true,
+    "url": "http://localhost:3001/weapons/25"
+  },
+  {
+    "id": 26,
+    "name": "Poe Dameron's Blaster Pistol",
+    "type": "blaster_pistol",
+    "manufacturer": "Sonn-Blas Corporation",
+    "model": "SE-44C blaster pistol",
+    "range": "medium",
+    "owner_id": 32,
+    "current_owner_id": 32,
+    "color": null,
+    "crystal_type": null,
+    "crystal_origin_id": null,
+    "hilt_material": null,
+    "blade_length": null,
+    "special_features": [
+      "Standard Resistance officer sidearm",
+      "Sleek First Order-era design used by both sides"
+    ],
+    "affiliation": [
+      "Resistance"
+    ],
+    "first_appearance_film_id": 7,
+    "canon": true,
+    "url": "http://localhost:3001/weapons/26"
+  },
+  {
+    "id": 27,
+    "name": "Stormtrooper E-11 Blaster Rifle",
+    "type": "blaster_rifle",
+    "manufacturer": "BlasTech Industries",
+    "model": "E-11 blaster rifle",
+    "range": "long",
+    "owner_id": null,
+    "current_owner_id": null,
+    "color": null,
+    "crystal_type": null,
+    "crystal_origin_id": null,
+    "hilt_material": null,
+    "blade_length": null,
+    "special_features": [
+      "Standard Imperial Stormtrooper weapon",
+      "Retractable stock",
+      "Compact design",
+      "Notoriously inaccurate in films (canon joke)"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "First Order"
+    ],
+    "first_appearance_film_id": 4,
+    "canon": true,
+    "url": "http://localhost:3001/weapons/27"
+  },
+  {
+    "id": 28,
+    "name": "Rebel A280 Blaster Rifle",
+    "type": "blaster_rifle",
+    "manufacturer": "BlasTech Industries",
+    "model": "A280 blaster rifle",
+    "range": "long",
+    "owner_id": null,
+    "current_owner_id": null,
+    "color": null,
+    "crystal_type": null,
+    "crystal_origin_id": null,
+    "hilt_material": null,
+    "blade_length": null,
+    "special_features": [
+      "High-powered Rebel Alliance infantry weapon",
+      "Versatile scope for mid-to-long range",
+      "Used extensively at Endor and Scarif"
+    ],
+    "affiliation": [
+      "Rebel Alliance"
+    ],
+    "first_appearance_film_id": 6,
+    "canon": true,
+    "url": "http://localhost:3001/weapons/28"
+  },
+  {
+    "id": 29,
+    "name": "Clone DC-15A Blaster Rifle",
+    "type": "blaster_rifle",
+    "manufacturer": "BlasTech Industries",
+    "model": "DC-15A blaster rifle",
+    "range": "long",
+    "owner_id": null,
+    "current_owner_id": null,
+    "color": null,
+    "crystal_type": null,
+    "crystal_origin_id": null,
+    "hilt_material": null,
+    "blade_length": null,
+    "special_features": [
+      "Standard GAR rifle throughout Clone Wars",
+      "Paired with DC-15S carbine",
+      "Higher power than later Imperial E-11"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Grand Army of the Republic"
+    ],
+    "first_appearance_film_id": 2,
+    "canon": true,
+    "url": "http://localhost:3001/weapons/29"
+  },
+  {
+    "id": 30,
+    "name": "Captain Phasma's F-11D Blaster Rifle",
+    "type": "blaster_rifle",
+    "manufacturer": "Sonn-Blas Corporation",
+    "model": "F-11D blaster rifle",
+    "range": "long",
+    "owner_id": 34,
+    "current_owner_id": null,
+    "color": null,
+    "crystal_type": null,
+    "crystal_origin_id": null,
+    "hilt_material": null,
+    "blade_length": null,
+    "special_features": [
+      "Standard First Order trooper weapon",
+      "Phasma's chrome variant matches her armour",
+      "Higher fire rate than Imperial E-11"
+    ],
+    "affiliation": [
+      "First Order"
+    ],
+    "first_appearance_film_id": 7,
+    "canon": true,
+    "url": "http://localhost:3001/weapons/30"
+  },
+  {
+    "id": 31,
+    "name": "Boba Fett's EE-3 Carbine Rifle",
+    "type": "blaster_rifle",
+    "manufacturer": "Merr-Sonn Munitions",
+    "model": "EE-3 carbine rifle",
+    "range": "medium",
+    "owner_id": 24,
+    "current_owner_id": 24,
+    "color": null,
+    "crystal_type": null,
+    "crystal_origin_id": null,
+    "hilt_material": null,
+    "blade_length": null,
+    "special_features": [
+      "Compact folding stock",
+      "Scope-mounted for precision",
+      "Boba's signature ranged weapon alongside his Mandalorian armor"
+    ],
+    "affiliation": [
+      "Bounty Hunters Guild",
+      "Hutt Cartel"
+    ],
+    "first_appearance_film_id": 5,
+    "canon": true,
+    "url": "http://localhost:3001/weapons/31"
+  },
+  {
+    "id": 32,
+    "name": "Din Djarin's Amban Phase-Pulse Blaster",
+    "type": "blaster_rifle",
+    "manufacturer": "Unknown (Mandalorian custom)",
+    "model": "Amban phase-pulse disintegrator",
+    "range": "long",
+    "owner_id": 35,
+    "current_owner_id": 35,
+    "color": null,
+    "crystal_type": null,
+    "crystal_origin_id": null,
+    "hilt_material": null,
+    "blade_length": null,
+    "special_features": [
+      "Can disintegrate organic matter completely",
+      "Double-tipped electro-snare head",
+      "Extremely rare and powerful — feared across the Outer Rim"
+    ],
+    "affiliation": [
+      "Mandalorian Clans"
+    ],
+    "first_appearance_film_id": 14,
+    "canon": true,
+    "url": "http://localhost:3001/weapons/32"
+  },
+  {
+    "id": 33,
+    "name": "Cassian Andor's A280-CFE Blaster",
+    "type": "blaster_rifle",
+    "manufacturer": "BlasTech Industries",
+    "model": "A280-CFE convertible field-enhanced blaster",
+    "range": "long",
+    "owner_id": 39,
+    "current_owner_id": null,
+    "color": null,
+    "crystal_type": null,
+    "crystal_origin_id": null,
+    "hilt_material": null,
+    "blade_length": null,
+    "special_features": [
+      "Breaks down into pistol components for concealment",
+      "Ideal spy weapon",
+      "Assembles/disassembles in seconds"
+    ],
+    "affiliation": [
+      "Rebel Alliance",
+      "Fulcrum network"
+    ],
+    "first_appearance_film_id": 10,
+    "canon": true,
+    "url": "http://localhost:3001/weapons/33"
+  },
+  {
+    "id": 34,
+    "name": "E-Web Heavy Repeating Blaster",
+    "type": "heavy_weapon",
+    "manufacturer": "BlasTech Industries",
+    "model": "E-Web heavy repeating blaster",
+    "range": "long",
+    "owner_id": null,
+    "current_owner_id": null,
+    "color": null,
+    "crystal_type": null,
+    "crystal_origin_id": null,
+    "hilt_material": null,
+    "blade_length": null,
+    "special_features": [
+      "Tripod-mounted for sustained fire",
+      "Requires power generator",
+      "Used in Death Star, Nevarro, and Endor",
+      "Moff Gideon famously threatens Mando with one"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "First Order"
+    ],
+    "first_appearance_film_id": 5,
+    "canon": true,
+    "url": "http://localhost:3001/weapons/34"
+  },
+  {
+    "id": 35,
+    "name": "Z-6 Rotary Blaster Cannon",
+    "type": "heavy_weapon",
+    "manufacturer": "Merr-Sonn Munitions",
+    "model": "Z-6 rotary blaster cannon",
+    "range": "long",
+    "owner_id": 15,
+    "current_owner_id": null,
+    "color": null,
+    "crystal_type": null,
+    "crystal_origin_id": null,
+    "hilt_material": null,
+    "blade_length": null,
+    "special_features": [
+      "Six-barrel rotary mechanism for extreme fire rate",
+      "Rex's signature heavy weapon",
+      "Devastating against droid armies",
+      "Sounds like a minigun"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Grand Army of the Republic"
+    ],
+    "first_appearance_film_id": 12,
+    "canon": true,
+    "url": "http://localhost:3001/weapons/35"
+  },
+  {
+    "id": 36,
+    "name": "PLX-2M Portable Missile Launcher",
+    "type": "heavy_weapon",
+    "manufacturer": "Arakyd Industries",
+    "model": "PLX-2M portable missile launcher",
+    "range": "long",
+    "owner_id": null,
+    "current_owner_id": null,
+    "color": null,
+    "crystal_type": null,
+    "crystal_origin_id": null,
+    "hilt_material": null,
+    "blade_length": null,
+    "special_features": [
+      "Anti-vehicle and anti-aircraft shoulder-fired weapon",
+      "Used by Rebel troops at Hoth",
+      "Effective against AT-AT walkers"
+    ],
+    "affiliation": [
+      "Rebel Alliance"
+    ],
+    "first_appearance_film_id": 5,
+    "canon": true,
+    "url": "http://localhost:3001/weapons/36"
+  },
+  {
+    "id": 37,
+    "name": "Proton Torpedo Launcher",
+    "type": "heavy_weapon",
+    "manufacturer": "Krupx Munitions",
+    "model": "MG7 proton torpedo",
+    "range": "long",
+    "owner_id": null,
+    "current_owner_id": null,
+    "color": null,
+    "crystal_type": null,
+    "crystal_origin_id": null,
+    "hilt_material": null,
+    "blade_length": null,
+    "special_features": [
+      "Ship-mounted proton torpedoes — the weapon that destroyed the Death Star",
+      "Luke fires via Force intuition at Yavin",
+      "Standard X-Wing ordinance"
+    ],
+    "affiliation": [
+      "Rebel Alliance",
+      "Resistance"
+    ],
+    "first_appearance_film_id": 4,
+    "canon": true,
+    "url": "http://localhost:3001/weapons/37"
+  },
+  {
+    "id": 38,
+    "name": "Death Star Superlaser",
+    "type": "heavy_weapon",
+    "manufacturer": "Imperial Department of Military Research",
+    "model": "Superlaser (planet-destroying)",
+    "range": "long",
+    "owner_id": null,
+    "current_owner_id": null,
+    "color": null,
+    "crystal_type": "Kyber crystal (massive)",
+    "crystal_origin_id": 19,
+    "hilt_material": null,
+    "blade_length": null,
+    "special_features": [
+      "Powered by giant Kyber crystal from Jedha",
+      "Destroys entire planets in a single focused shot",
+      "Takes 24 hours to recharge between shots",
+      "Destroyed at Yavin by Luke Skywalker"
+    ],
+    "affiliation": [
+      "Galactic Empire"
+    ],
+    "first_appearance_film_id": 4,
+    "canon": true,
+    "url": "http://localhost:3001/weapons/38"
+  },
+  {
+    "id": 39,
+    "name": "Gaffi Stick (Gaderffii)",
+    "type": "melee",
+    "manufacturer": "Tusken Raider craft",
+    "model": "Gaderffii stick",
+    "range": "melee",
+    "owner_id": null,
+    "current_owner_id": null,
+    "color": null,
+    "crystal_type": null,
+    "crystal_origin_id": 1,
+    "hilt_material": null,
+    "blade_length": null,
+    "special_features": [
+      "Traditional Tusken Raider weapon, hand-crafted from scavenged speeder parts",
+      "Club on one end, axe/blade on other",
+      "Din Djarin earns one from Tusken Raiders on Tatooine"
+    ],
+    "affiliation": [],
+    "first_appearance_film_id": 4,
+    "canon": true,
+    "url": "http://localhost:3001/weapons/39"
+  },
+  {
+    "id": 40,
+    "name": "Electrostaff (MagnaGuard)",
+    "type": "melee",
+    "manufacturer": "Baktoid Armor Workshop",
+    "model": "Electro-staff",
+    "range": "melee",
+    "owner_id": 9,
+    "current_owner_id": null,
+    "color": null,
+    "crystal_type": null,
+    "crystal_origin_id": null,
+    "hilt_material": null,
+    "blade_length": null,
+    "special_features": [
+      "Can block lightsaber blades",
+      "Electro-plasma tips cause intense pain",
+      "Wielded by Grievous's IG-100 MagnaGuard bodyguards"
+    ],
+    "affiliation": [
+      "Confederacy of Independent Systems"
+    ],
+    "first_appearance_film_id": 3,
+    "canon": true,
+    "url": "http://localhost:3001/weapons/40"
+  },
+  {
+    "id": 41,
+    "name": "Vibroblade",
+    "type": "melee",
+    "manufacturer": "Various",
+    "model": "Standard vibroblade",
+    "range": "melee",
+    "owner_id": null,
+    "current_owner_id": null,
+    "color": null,
+    "crystal_type": null,
+    "crystal_origin_id": null,
+    "hilt_material": null,
+    "blade_length": null,
+    "special_features": [
+      "High-frequency vibration increases cutting power",
+      "Common throughout galaxy — criminals, soldiers, scavengers",
+      "Can parry slow lightsaber strikes"
+    ],
+    "affiliation": [],
+    "first_appearance_film_id": 4,
+    "canon": true,
+    "url": "http://localhost:3001/weapons/41"
+  },
+  {
+    "id": 42,
+    "name": "Beskar Spear",
+    "type": "melee",
+    "manufacturer": "Mandalorian Armorer craft",
+    "model": "Beskar anti-lightsaber spear",
+    "range": "melee",
+    "owner_id": null,
+    "current_owner_id": null,
+    "color": null,
+    "crystal_type": null,
+    "crystal_origin_id": null,
+    "hilt_material": null,
+    "blade_length": null,
+    "special_features": [
+      "Made of beskar — can block lightsaber blades",
+      "Wielded by the Armorer and Imperial dark troopers' commander",
+      "Thrown into an ocean on Corvus by Din Djarin"
+    ],
+    "affiliation": [
+      "Mandalorian Clans"
+    ],
+    "first_appearance_film_id": 14,
+    "canon": true,
+    "url": "http://localhost:3001/weapons/42"
+  },
+  {
+    "id": 43,
+    "name": "Vibro-Axe",
+    "type": "melee",
+    "manufacturer": "Merr-Sonn Munitions",
+    "model": "Vibro-axe",
+    "range": "melee",
+    "owner_id": null,
+    "current_owner_id": null,
+    "color": null,
+    "crystal_type": null,
+    "crystal_origin_id": null,
+    "hilt_material": null,
+    "blade_length": null,
+    "special_features": [
+      "Extended vibro-blade on axe head",
+      "Used by Gamorrean guards at Jabba's Palace",
+      "Heavy, brutish weapon of choice for Gamorreans"
+    ],
+    "affiliation": [
+      "Hutt Cartel"
+    ],
+    "first_appearance_film_id": 6,
+    "canon": true,
+    "url": "http://localhost:3001/weapons/43"
+  },
+  {
+    "id": 44,
+    "name": "Thermal Detonator",
+    "type": "explosive",
+    "manufacturer": "Merr-Sonn Munitions",
+    "model": "Class-A thermal detonator",
+    "range": "short",
+    "owner_id": 18,
+    "current_owner_id": null,
+    "color": null,
+    "crystal_type": null,
+    "crystal_origin_id": null,
+    "hilt_material": null,
+    "blade_length": null,
+    "special_features": [
+      "Spherical bomb with blast radius of 5-20m",
+      "Leia uses one disguised as Boushh to negotiate with Jabba",
+      "Considered so dangerous their manufacture is highly regulated"
+    ],
+    "affiliation": [
+      "Rebel Alliance"
+    ],
+    "first_appearance_film_id": 6,
+    "canon": true,
+    "url": "http://localhost:3001/weapons/44"
+  },
+  {
+    "id": 45,
+    "name": "Proton Grenade",
+    "type": "explosive",
+    "manufacturer": "Merr-Sonn Munitions",
+    "model": "MM9 mini concussion rocket",
+    "range": "short",
+    "owner_id": 24,
+    "current_owner_id": 24,
+    "color": null,
+    "crystal_type": null,
+    "crystal_origin_id": null,
+    "hilt_material": null,
+    "blade_length": null,
+    "special_features": [
+      "Wrist-launcher mounted in Mandalorian armor",
+      "Boba Fett's signature anti-vehicle miniature rocket",
+      "High blast radius for a wrist-fired weapon"
+    ],
+    "affiliation": [
+      "Bounty Hunters Guild",
+      "Mandalorian Clans"
+    ],
+    "first_appearance_film_id": 5,
+    "canon": true,
+    "url": "http://localhost:3001/weapons/45"
+  },
+  {
+    "id": 46,
+    "name": "Dioxis Gas Grenade",
+    "type": "explosive",
+    "manufacturer": "Arakyd Industries",
+    "model": "Dioxis grenade",
+    "range": "short",
+    "owner_id": null,
+    "current_owner_id": null,
+    "color": null,
+    "crystal_type": null,
+    "crystal_origin_id": null,
+    "hilt_material": null,
+    "blade_length": null,
+    "special_features": [
+      "Releases toxic dioxis gas in enclosed spaces",
+      "Used by Separatist assassin droids",
+      "Near-lethal to most organic species without protective gear"
+    ],
+    "affiliation": [
+      "Confederacy of Independent Systems"
+    ],
+    "first_appearance_film_id": 2,
+    "canon": true,
+    "url": "http://localhost:3001/weapons/46"
+  },
+  {
+    "id": 47,
+    "name": "Proton Bomb",
+    "type": "explosive",
+    "manufacturer": "Slayn & Korpil",
+    "model": "Proton bomb",
+    "range": "medium",
+    "owner_id": null,
+    "current_owner_id": null,
+    "color": null,
+    "crystal_type": null,
+    "crystal_origin_id": null,
+    "hilt_material": null,
+    "blade_length": null,
+    "special_features": [
+      "Dropped from Resistance bombers",
+      "Magnetic detonators trigger gravity-fed bomb release",
+      "Used against First Order Dreadnought in TLJ — Rose and Paige Tico's mission"
+    ],
+    "affiliation": [
+      "Resistance",
+      "Rebel Alliance"
+    ],
+    "first_appearance_film_id": 8,
+    "canon": true,
+    "url": "http://localhost:3001/weapons/47"
+  },
+  {
+    "id": 48,
+    "name": "Din Djarin's Whistling Birds",
+    "type": "exotic",
+    "manufacturer": "Mandalorian Armorer",
+    "model": "Whistling birds wrist micro-rockets",
+    "range": "short",
+    "owner_id": 35,
+    "current_owner_id": 35,
+    "color": null,
+    "crystal_type": null,
+    "crystal_origin_id": null,
+    "hilt_material": null,
+    "blade_length": null,
+    "special_features": [
+      "Wrist-mounted smart-tracking micro-rockets",
+      "Swarm a single target simultaneously",
+      "Limited charges — single use per reload",
+      "Extremely effective against multiple opponents"
+    ],
+    "affiliation": [
+      "Mandalorian Clans"
+    ],
+    "first_appearance_film_id": 14,
+    "canon": true,
+    "url": "http://localhost:3001/weapons/48"
+  },
+  {
+    "id": 49,
+    "name": "Mandalorian Flamethrower Gauntlet",
+    "type": "exotic",
+    "manufacturer": "Mandalorian Armorer",
+    "model": "Wrist flamethrower",
+    "range": "short",
+    "owner_id": 35,
+    "current_owner_id": 35,
+    "color": null,
+    "crystal_type": null,
+    "crystal_origin_id": null,
+    "hilt_material": null,
+    "blade_length": null,
+    "special_features": [
+      "Built into right vambrace of Mandalorian armour",
+      "Short-range stream of pressurised flame",
+      "Effective against organic enemies and for intimidation"
+    ],
+    "affiliation": [
+      "Mandalorian Clans"
+    ],
+    "first_appearance_film_id": 14,
+    "canon": true,
+    "url": "http://localhost:3001/weapons/49"
+  },
+  {
+    "id": 50,
+    "name": "Palpatine's Force Lightning",
+    "type": "exotic",
+    "manufacturer": null,
+    "model": "Force lightning (Sith ability)",
+    "range": "short",
+    "owner_id": 5,
+    "current_owner_id": 5,
+    "color": null,
+    "crystal_type": null,
+    "crystal_origin_id": null,
+    "hilt_material": null,
+    "blade_length": null,
+    "special_features": [
+      "Dark side Force power — conducts lethal electricity",
+      "Used to kill and torture",
+      "Vader deflects it at Endor, saving Luke",
+      "At Exegol Palpatine unleashes a city-destroying barrage"
+    ],
+    "affiliation": [
+      "Sith",
+      "Galactic Empire",
+      "Sith Eternal"
+    ],
+    "first_appearance_film_id": 3,
+    "canon": true,
+    "url": "http://localhost:3001/weapons/50"
+  },
+  {
+    "id": 51,
+    "name": "Grappling Hook Wrist Launcher",
+    "type": "exotic",
+    "manufacturer": "Mandalorian Armorer",
+    "model": "Wrist grappling hook",
+    "range": "medium",
+    "owner_id": 35,
+    "current_owner_id": 35,
+    "color": null,
+    "crystal_type": null,
+    "crystal_origin_id": null,
+    "hilt_material": null,
+    "blade_length": null,
+    "special_features": [
+      "Fires a beskar cable from wrist gauntlet",
+      "Retrieves objects, scales surfaces, restrains enemies",
+      "Standard Mandalorian armor utility tool"
+    ],
+    "affiliation": [
+      "Mandalorian Clans",
+      "Bounty Hunters Guild"
+    ],
+    "first_appearance_film_id": 14,
+    "canon": true,
+    "url": "http://localhost:3001/weapons/51"
+  },
+  {
+    "id": 52,
+    "name": "Kyber Crystal (raw — Jedha)",
+    "type": "exotic",
+    "manufacturer": null,
+    "model": "Raw Kyber crystal (uncut)",
+    "range": "melee",
+    "owner_id": null,
+    "current_owner_id": null,
+    "color": "white (until attuned)",
+    "crystal_type": "Kyber crystal",
+    "crystal_origin_id": 19,
+    "hilt_material": null,
+    "blade_length": null,
+    "special_features": [
+      "Source of all lightsaber energy",
+      "Force-sensitive beings attune them — turn the blade's color",
+      "Dark side users 'bleed' crystals red through hatred",
+      "Massive ones power the Death Star superlaser",
+      "The Empire harvested them from Jedha's Temple of the Kyber"
+    ],
+    "affiliation": [
+      "Jedi Order",
+      "Galactic Empire"
+    ],
+    "first_appearance_film_id": 10,
+    "canon": true,
+    "url": "http://localhost:3001/weapons/52"
+  }
+]

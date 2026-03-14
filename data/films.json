@@ -1,0 +1,1101 @@
+[
+  {
+    "id": 1,
+    "title": "Star Wars: Episode I – The Phantom Menace",
+    "episode_id": 1,
+    "type": "film",
+    "opening_crawl": "The galaxy is in turmoil. The Trade Federation blockades the planet Naboo. Two Jedi Knights are dispatched to negotiate, uncovering a deeper conspiracy that will change the galaxy forever.",
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "1999-05-19",
+    "era": "Age of Republic",
+    "timeline_date": "32BBY",
+    "characters": [
+      1,
+      3,
+      4,
+      5,
+      7,
+      12,
+      14,
+      21,
+      22,
+      28
+    ],
+    "planets": [
+      1,
+      2,
+      3
+    ],
+    "starships": [],
+    "vehicles": [],
+    "species": [
+      1,
+      9,
+      11,
+      3,
+      7,
+      18
+    ],
+    "organizations": [
+      1,
+      3,
+      14
+    ],
+    "canon": true,
+    "url": "http://localhost:3001/films/1"
+  },
+  {
+    "id": 2,
+    "title": "Star Wars: Episode II – Attack of the Clones",
+    "episode_id": 2,
+    "type": "film",
+    "opening_crawl": "The Republic is in crisis. A Separatist movement threatens democracy. Obi-Wan Kenobi discovers a secret clone army on Kamino while Anakin Skywalker falls forbidden love on Naboo.",
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "2002-05-16",
+    "era": "Age of Republic",
+    "timeline_date": "22BBY",
+    "characters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      8,
+      11,
+      13,
+      15,
+      16,
+      21,
+      22,
+      24,
+      48,
+      49,
+      52
+    ],
+    "planets": [
+      1,
+      2,
+      3,
+      12,
+      13
+    ],
+    "starships": [],
+    "vehicles": [],
+    "species": [
+      1,
+      6,
+      15,
+      29,
+      30,
+      4,
+      2
+    ],
+    "organizations": [
+      1,
+      3,
+      4,
+      14,
+      16,
+      19
+    ],
+    "canon": true,
+    "url": "http://localhost:3001/films/2"
+  },
+  {
+    "id": 3,
+    "title": "Star Wars: Episode III – Revenge of the Sith",
+    "episode_id": 3,
+    "type": "film",
+    "opening_crawl": "War grips the galaxy. The Republic crumbles from within as Supreme Chancellor Palpatine tightens his grip, and Anakin Skywalker stands at the crossroads between light and darkness.",
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "2005-05-19",
+    "era": "Age of Republic",
+    "timeline_date": "19BBY",
+    "characters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      8,
+      9,
+      11,
+      12,
+      13,
+      15,
+      16,
+      17,
+      18,
+      20,
+      21,
+      22,
+      25,
+      48,
+      51
+    ],
+    "planets": [
+      2,
+      3,
+      11,
+      12,
+      13,
+      15,
+      29
+    ],
+    "starships": [],
+    "vehicles": [],
+    "species": [
+      1,
+      2,
+      14,
+      18,
+      15,
+      6
+    ],
+    "organizations": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      19,
+      20
+    ],
+    "canon": true,
+    "url": "http://localhost:3001/films/3"
+  },
+  {
+    "id": 4,
+    "title": "Star Wars: Episode IV – A New Hope",
+    "episode_id": 4,
+    "type": "film",
+    "opening_crawl": "It is a dark time for the galaxy. The Galactic Empire rules through fear. A young farm boy on Tatooine discovers his destiny when he receives a desperate message from a captured Rebel princess.",
+    "director": "George Lucas",
+    "producer": "Gary Kurtz",
+    "release_date": "1977-05-25",
+    "era": "Imperial Era",
+    "timeline_date": "0BBY",
+    "characters": [
+      2,
+      5,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      25,
+      27,
+      28
+    ],
+    "planets": [
+      1,
+      2,
+      14
+    ],
+    "starships": [],
+    "vehicles": [],
+    "species": [
+      1,
+      2,
+      7,
+      9
+    ],
+    "organizations": [
+      5,
+      6
+    ],
+    "canon": true,
+    "url": "http://localhost:3001/films/4"
+  },
+  {
+    "id": 5,
+    "title": "Star Wars: Episode V – The Empire Strikes Back",
+    "episode_id": 5,
+    "type": "film",
+    "opening_crawl": "The Empire strikes back with overwhelming force. The Rebel Alliance regroups on the frozen world of Hoth while Luke Skywalker journeys to a distant swamp planet to complete his Jedi training.",
+    "director": "Irvin Kershner",
+    "producer": "Gary Kurtz",
+    "release_date": "1980-05-21",
+    "era": "Imperial Era",
+    "timeline_date": "3ABY",
+    "characters": [
+      1,
+      3,
+      5,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "planets": [
+      4,
+      5,
+      6
+    ],
+    "starships": [],
+    "vehicles": [],
+    "species": [
+      1,
+      2,
+      18
+    ],
+    "organizations": [
+      1,
+      5,
+      6
+    ],
+    "canon": true,
+    "url": "http://localhost:3001/films/5"
+  },
+  {
+    "id": 6,
+    "title": "Star Wars: Episode VI – Return of the Jedi",
+    "episode_id": 6,
+    "type": "film",
+    "opening_crawl": "The Empire constructs a second, more powerful Death Star. The Rebel Alliance hatches a daring plan to destroy it while Luke Skywalker seeks to redeem his father from the dark side of the Force.",
+    "director": "Richard Marquand",
+    "producer": "Howard Kazanjian",
+    "release_date": "1983-05-25",
+    "era": "Imperial Era",
+    "timeline_date": "4ABY",
+    "characters": [
+      1,
+      3,
+      5,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      27,
+      28,
+      46,
+      47
+    ],
+    "planets": [
+      1,
+      2,
+      5,
+      7
+    ],
+    "starships": [],
+    "vehicles": [],
+    "species": [
+      1,
+      2,
+      9,
+      12,
+      19
+    ],
+    "organizations": [
+      1,
+      2,
+      5,
+      6,
+      10
+    ],
+    "canon": true,
+    "url": "http://localhost:3001/films/6"
+  },
+  {
+    "id": 7,
+    "title": "Star Wars: Episode VII – The Force Awakens",
+    "episode_id": 7,
+    "type": "film",
+    "opening_crawl": "The First Order rises from the ashes of the Empire. Luke Skywalker has vanished. A young scavenger on Jakku stumbles onto a map that could reveal the last Jedi's location.",
+    "director": "J.J. Abrams",
+    "producer": "Kathleen Kennedy, Bad Robot",
+    "release_date": "2015-12-18",
+    "era": "Rise of the First Order",
+    "timeline_date": "34ABY",
+    "characters": [
+      5,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      46,
+      47
+    ],
+    "planets": [
+      8,
+      22,
+      41,
+      42,
+      43
+    ],
+    "starships": [],
+    "vehicles": [],
+    "species": [
+      1,
+      2
+    ],
+    "organizations": [
+      7,
+      8,
+      9
+    ],
+    "canon": true,
+    "url": "http://localhost:3001/films/7"
+  },
+  {
+    "id": 8,
+    "title": "Star Wars: Episode VIII – The Last Jedi",
+    "episode_id": 8,
+    "type": "film",
+    "opening_crawl": "The Resistance flees the devastated Hosnian system. Rey seeks wisdom from Luke Skywalker on the ancient Jedi world of Ahch-To while Kylo Ren and Supreme Leader Snoke tighten their grip on the galaxy.",
+    "director": "Rian Johnson",
+    "producer": "Kathleen Kennedy, Ram Bergman",
+    "release_date": "2017-12-15",
+    "era": "Rise of the First Order",
+    "timeline_date": "34ABY",
+    "characters": [
+      17,
+      18,
+      29,
+      30,
+      31,
+      32,
+      33,
+      46,
+      47
+    ],
+    "planets": [
+      9,
+      21,
+      42
+    ],
+    "starships": [],
+    "vehicles": [],
+    "species": [
+      1,
+      2,
+      18
+    ],
+    "organizations": [
+      8,
+      9
+    ],
+    "canon": true,
+    "url": "http://localhost:3001/films/8"
+  },
+  {
+    "id": 9,
+    "title": "Star Wars: Episode IX – The Rise of Skywalker",
+    "episode_id": 9,
+    "type": "film",
+    "opening_crawl": "The dead speak. Emperor Palpatine's sinister broadcast echoes across the galaxy, threatening a Final Order. The Resistance races to find Exegol before the Sith Eternal destroys all hope.",
+    "director": "J.J. Abrams",
+    "producer": "Kathleen Kennedy, J.J. Abrams",
+    "release_date": "2019-12-20",
+    "era": "Rise of the First Order",
+    "timeline_date": "35ABY",
+    "characters": [
+      3,
+      5,
+      17,
+      18,
+      20,
+      22,
+      23,
+      29,
+      30,
+      31,
+      32
+    ],
+    "planets": [
+      1,
+      7,
+      9,
+      10
+    ],
+    "starships": [],
+    "vehicles": [],
+    "species": [
+      1,
+      2,
+      18
+    ],
+    "organizations": [
+      8,
+      9,
+      24
+    ],
+    "canon": true,
+    "url": "http://localhost:3001/films/9"
+  },
+  {
+    "id": 10,
+    "title": "Rogue One: A Star Wars Story",
+    "episode_id": null,
+    "type": "film",
+    "opening_crawl": null,
+    "director": "Gareth Edwards",
+    "producer": "Kathleen Kennedy, Allison Shearmur",
+    "release_date": "2016-12-16",
+    "era": "Imperial Era",
+    "timeline_date": "0BBY",
+    "characters": [
+      18,
+      25,
+      26,
+      39,
+      40,
+      45
+    ],
+    "planets": [
+      2,
+      18,
+      19,
+      38
+    ],
+    "starships": [],
+    "vehicles": [],
+    "species": [
+      1
+    ],
+    "organizations": [
+      5,
+      6,
+      21
+    ],
+    "canon": true,
+    "url": "http://localhost:3001/films/10"
+  },
+  {
+    "id": 11,
+    "title": "Solo: A Star Wars Story",
+    "episode_id": null,
+    "type": "film",
+    "opening_crawl": null,
+    "director": "Ron Howard",
+    "producer": "Kathleen Kennedy, Simon Emanuel",
+    "release_date": "2018-05-25",
+    "era": "Imperial Era",
+    "timeline_date": "10BBY",
+    "characters": [
+      19,
+      20,
+      23,
+      24,
+      51
+    ],
+    "planets": [
+      20
+    ],
+    "starships": [],
+    "vehicles": [],
+    "species": [
+      1,
+      2
+    ],
+    "organizations": [
+      5,
+      17
+    ],
+    "canon": true,
+    "url": "http://localhost:3001/films/11"
+  },
+  {
+    "id": 12,
+    "title": "Star Wars: The Clone Wars",
+    "episode_id": null,
+    "type": "series",
+    "opening_crawl": null,
+    "director": "Dave Filoni",
+    "producer": "Lucasfilm Animation",
+    "release_date": "2008-10-03",
+    "era": "Clone Wars",
+    "timeline_date": "22BBY–19BBY",
+    "characters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      21,
+      22,
+      28,
+      44,
+      45,
+      48,
+      49,
+      50,
+      51,
+      52
+    ],
+    "planets": [
+      2,
+      3,
+      12,
+      13,
+      15,
+      16,
+      23,
+      28,
+      33,
+      35,
+      48
+    ],
+    "starships": [],
+    "vehicles": [],
+    "species": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      11,
+      13,
+      14,
+      15,
+      18
+    ],
+    "organizations": [
+      1,
+      3,
+      4,
+      10,
+      12,
+      15,
+      19
+    ],
+    "canon": true,
+    "url": "http://localhost:3001/films/12"
+  },
+  {
+    "id": 13,
+    "title": "Star Wars: Rebels",
+    "episode_id": null,
+    "type": "series",
+    "opening_crawl": null,
+    "director": "Dave Filoni",
+    "producer": "Lucasfilm Animation",
+    "release_date": "2014-10-03",
+    "era": "Age of Empire",
+    "timeline_date": "5BBY–1BBY",
+    "characters": [
+      10,
+      15,
+      25,
+      26,
+      37,
+      41,
+      42,
+      43,
+      44,
+      45,
+      51
+    ],
+    "planets": [
+      2,
+      17,
+      23,
+      37,
+      48
+    ],
+    "starships": [],
+    "vehicles": [],
+    "species": [
+      1,
+      2,
+      3,
+      35
+    ],
+    "organizations": [
+      5,
+      6,
+      11,
+      25
+    ],
+    "canon": true,
+    "url": "http://localhost:3001/films/13"
+  },
+  {
+    "id": 14,
+    "title": "The Mandalorian",
+    "episode_id": null,
+    "type": "series",
+    "opening_crawl": null,
+    "director": "Jon Favreau, Dave Filoni",
+    "producer": "Jon Favreau, Lucasfilm",
+    "release_date": "2019-11-12",
+    "era": "New Republic Era",
+    "timeline_date": "9ABY",
+    "characters": [
+      10,
+      17,
+      24,
+      35,
+      36,
+      37,
+      38
+    ],
+    "planets": [
+      1,
+      16,
+      45,
+      46,
+      47
+    ],
+    "starships": [],
+    "vehicles": [],
+    "species": [
+      1,
+      18
+    ],
+    "organizations": [
+      5,
+      11,
+      13
+    ],
+    "canon": true,
+    "url": "http://localhost:3001/films/14"
+  },
+  {
+    "id": 15,
+    "title": "Andor",
+    "episode_id": null,
+    "type": "series",
+    "opening_crawl": null,
+    "director": "Tony Gilroy",
+    "producer": "Tony Gilroy, Lucasfilm",
+    "release_date": "2022-09-21",
+    "era": "Age of Empire",
+    "timeline_date": "5BBY–0BBY",
+    "characters": [
+      18,
+      25,
+      26,
+      39,
+      45
+    ],
+    "planets": [
+      2,
+      18,
+      19,
+      39,
+      40
+    ],
+    "starships": [],
+    "vehicles": [],
+    "species": [
+      1
+    ],
+    "organizations": [
+      5,
+      6,
+      21
+    ],
+    "canon": true,
+    "url": "http://localhost:3001/films/15"
+  },
+  {
+    "id": 16,
+    "title": "Obi-Wan Kenobi",
+    "episode_id": null,
+    "type": "series",
+    "opening_crawl": null,
+    "director": "Deborah Chow",
+    "producer": "Kathleen Kennedy, Deborah Chow",
+    "release_date": "2022-05-27",
+    "era": "Age of Empire",
+    "timeline_date": "9BBY",
+    "characters": [
+      1,
+      2,
+      18,
+      25
+    ],
+    "planets": [
+      1,
+      2,
+      11,
+      14
+    ],
+    "starships": [],
+    "vehicles": [],
+    "species": [
+      1
+    ],
+    "organizations": [
+      5
+    ],
+    "canon": true,
+    "url": "http://localhost:3001/films/16"
+  },
+  {
+    "id": 17,
+    "title": "Star Wars: The Bad Batch",
+    "episode_id": null,
+    "type": "series",
+    "opening_crawl": null,
+    "director": "Brad Rau",
+    "producer": "Lucasfilm Animation",
+    "release_date": "2021-05-04",
+    "era": "Age of Empire",
+    "timeline_date": "19BBY–18BBY",
+    "characters": [
+      3,
+      15,
+      16,
+      48
+    ],
+    "planets": [
+      2,
+      12,
+      28,
+      32
+    ],
+    "starships": [],
+    "vehicles": [],
+    "species": [
+      1,
+      30
+    ],
+    "organizations": [
+      5,
+      19,
+      20
+    ],
+    "canon": true,
+    "url": "http://localhost:3001/films/17"
+  },
+  {
+    "id": 18,
+    "title": "Ahsoka",
+    "episode_id": null,
+    "type": "series",
+    "opening_crawl": null,
+    "director": "Dave Filoni",
+    "producer": "Jon Favreau, Dave Filoni",
+    "release_date": "2023-08-22",
+    "era": "New Republic Era",
+    "timeline_date": "9ABY",
+    "characters": [
+      1,
+      10,
+      15,
+      36,
+      37,
+      42,
+      43,
+      44
+    ],
+    "planets": [
+      17,
+      48
+    ],
+    "starships": [],
+    "vehicles": [],
+    "species": [
+      1,
+      4,
+      35
+    ],
+    "organizations": [
+      6,
+      11
+    ],
+    "canon": true,
+    "url": "http://localhost:3001/films/18"
+  },
+  {
+    "id": 19,
+    "title": "The Book of Boba Fett",
+    "episode_id": null,
+    "type": "series",
+    "opening_crawl": null,
+    "director": "Robert Rodriguez, Jon Favreau",
+    "producer": "Jon Favreau, Lucasfilm",
+    "release_date": "2021-12-29",
+    "era": "New Republic Era",
+    "timeline_date": "9ABY",
+    "characters": [
+      17,
+      24,
+      35,
+      36
+    ],
+    "planets": [
+      1
+    ],
+    "starships": [],
+    "vehicles": [],
+    "species": [
+      1,
+      9
+    ],
+    "organizations": [
+      10,
+      11,
+      13
+    ],
+    "canon": true,
+    "url": "http://localhost:3001/films/19"
+  },
+  {
+    "id": 20,
+    "title": "Star Wars: Resistance",
+    "episode_id": null,
+    "type": "series",
+    "opening_crawl": null,
+    "director": "Justin Ridge, Steward Lee",
+    "producer": "Lucasfilm Animation",
+    "release_date": "2018-10-07",
+    "era": "Rise of the First Order",
+    "timeline_date": "34ABY–35ABY",
+    "characters": [
+      29,
+      30,
+      31,
+      32,
+      33
+    ],
+    "planets": [
+      41,
+      42,
+      43
+    ],
+    "starships": [],
+    "vehicles": [],
+    "species": [
+      1
+    ],
+    "organizations": [
+      8,
+      9
+    ],
+    "canon": true,
+    "url": "http://localhost:3001/films/20"
+  },
+  {
+    "id": 21,
+    "title": "Star Wars: Tales of the Jedi",
+    "episode_id": null,
+    "type": "short",
+    "opening_crawl": null,
+    "director": "Dave Filoni",
+    "producer": "Lucasfilm Animation",
+    "release_date": "2022-10-26",
+    "era": "Age of Republic",
+    "timeline_date": "32BBY–19BBY",
+    "characters": [
+      2,
+      5,
+      6,
+      10
+    ],
+    "planets": [
+      2,
+      23,
+      24
+    ],
+    "starships": [],
+    "vehicles": [],
+    "species": [
+      1,
+      4
+    ],
+    "organizations": [
+      1,
+      2,
+      3
+    ],
+    "canon": true,
+    "url": "http://localhost:3001/films/21"
+  },
+  {
+    "id": 22,
+    "title": "Star Wars: Visions – Volume 1",
+    "episode_id": null,
+    "type": "short",
+    "opening_crawl": null,
+    "director": "Various (Kamikaze Douga, Trigger, Kinema Citrus, Production IG, Science SARU, Geno Studio)",
+    "producer": "Lucasfilm, Qubic Pictures",
+    "release_date": "2021-09-22",
+    "era": "Various",
+    "timeline_date": null,
+    "characters": [],
+    "planets": [],
+    "starships": [],
+    "vehicles": [],
+    "species": [],
+    "organizations": [],
+    "canon": false,
+    "url": "http://localhost:3001/films/22"
+  },
+  {
+    "id": 23,
+    "title": "Star Wars: Visions – Volume 2",
+    "episode_id": null,
+    "type": "short",
+    "opening_crawl": null,
+    "director": "Various (El Guiri, D'art Shtajio, Aardman, Cartoon Saloon, 88 Pictures, Punkrobot, Studio Mir, Triggerfish)",
+    "producer": "Lucasfilm",
+    "release_date": "2023-05-04",
+    "era": "Various",
+    "timeline_date": null,
+    "characters": [],
+    "planets": [],
+    "starships": [],
+    "vehicles": [],
+    "species": [],
+    "organizations": [],
+    "canon": false,
+    "url": "http://localhost:3001/films/23"
+  },
+  {
+    "id": 24,
+    "title": "Star Wars: Tales of the Empire",
+    "episode_id": null,
+    "type": "short",
+    "opening_crawl": null,
+    "director": "Dave Filoni",
+    "producer": "Lucasfilm Animation",
+    "release_date": "2024-05-04",
+    "era": "Age of Empire",
+    "timeline_date": "19BBY–9ABY",
+    "characters": [
+      1,
+      5,
+      10,
+      49
+    ],
+    "planets": [
+      2,
+      16,
+      48
+    ],
+    "starships": [],
+    "vehicles": [],
+    "species": [
+      1,
+      4,
+      39
+    ],
+    "organizations": [
+      5,
+      15
+    ],
+    "canon": true,
+    "url": "http://localhost:3001/films/24"
+  },
+  {
+    "id": 25,
+    "title": "Star Wars: Young Jedi Adventures",
+    "episode_id": null,
+    "type": "series",
+    "opening_crawl": null,
+    "director": "Elliot M. Bour",
+    "producer": "Lucasfilm Animation, Walt Disney Pictures",
+    "release_date": "2023-05-04",
+    "era": "High Republic",
+    "timeline_date": "232BBY",
+    "characters": [],
+    "planets": [
+      2,
+      44
+    ],
+    "starships": [],
+    "vehicles": [],
+    "species": [
+      1,
+      3,
+      18
+    ],
+    "organizations": [
+      1
+    ],
+    "canon": true,
+    "url": "http://localhost:3001/films/25"
+  },
+  {
+    "id": 26,
+    "title": "The Acolyte",
+    "episode_id": null,
+    "type": "series",
+    "opening_crawl": null,
+    "director": "Leslye Headland",
+    "producer": "Leslye Headland, Lucasfilm",
+    "release_date": "2024-06-04",
+    "era": "High Republic",
+    "timeline_date": "132BBY",
+    "characters": [
+      3
+    ],
+    "planets": [
+      2
+    ],
+    "starships": [],
+    "vehicles": [],
+    "species": [
+      1,
+      4,
+      39
+    ],
+    "organizations": [
+      1,
+      2
+    ],
+    "canon": true,
+    "url": "http://localhost:3001/films/26"
+  },
+  {
+    "id": 27,
+    "title": "Star Wars: Skeleton Crew",
+    "episode_id": null,
+    "type": "series",
+    "opening_crawl": null,
+    "director": "Jon Watts, David Lowery",
+    "producer": "Jon Favreau, Jon Watts, Lucasfilm",
+    "release_date": "2024-12-03",
+    "era": "New Republic Era",
+    "timeline_date": "9ABY",
+    "characters": [],
+    "planets": [],
+    "starships": [],
+    "vehicles": [],
+    "species": [
+      1
+    ],
+    "organizations": [
+      7
+    ],
+    "canon": true,
+    "url": "http://localhost:3001/films/27"
+  }
+]

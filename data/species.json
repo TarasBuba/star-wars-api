@@ -1,0 +1,1290 @@
+[
+  {
+    "id": 1,
+    "name": "Human",
+    "classification": "mammal",
+    "designation": "sentient",
+    "average_height": 180,
+    "average_lifespan": 100,
+    "hair_colors": [
+      "black",
+      "brown",
+      "blond",
+      "red",
+      "grey",
+      "white"
+    ],
+    "eye_colors": [
+      "brown",
+      "blue",
+      "green",
+      "grey",
+      "hazel"
+    ],
+    "skin_colors": [
+      "light",
+      "tan",
+      "dark"
+    ],
+    "language": "Galactic Basic Standard",
+    "homeworld_id": 2,
+    "force_sensitivity": "rare",
+    "canon": true,
+    "url": "http://localhost:3001/species/1"
+  },
+  {
+    "id": 2,
+    "name": "Wookiee",
+    "classification": "mammal",
+    "designation": "sentient",
+    "average_height": 220,
+    "average_lifespan": 400,
+    "hair_colors": [
+      "black",
+      "brown",
+      "white",
+      "grey"
+    ],
+    "eye_colors": [
+      "blue",
+      "green",
+      "gold",
+      "brown"
+    ],
+    "skin_colors": [
+      "grey"
+    ],
+    "language": "Shyriiwook",
+    "homeworld_id": 15,
+    "force_sensitivity": "rare",
+    "canon": true,
+    "url": "http://localhost:3001/species/2"
+  },
+  {
+    "id": 3,
+    "name": "Twi'lek",
+    "classification": "near-human",
+    "designation": "sentient",
+    "average_height": 180,
+    "average_lifespan": 80,
+    "hair_colors": [],
+    "eye_colors": [
+      "yellow",
+      "green",
+      "blue",
+      "red",
+      "orange",
+      "gold"
+    ],
+    "skin_colors": [
+      "green",
+      "blue",
+      "red",
+      "orange",
+      "pink",
+      "purple",
+      "white",
+      "tan"
+    ],
+    "language": "Ryl",
+    "homeworld_id": 23,
+    "force_sensitivity": "rare",
+    "canon": true,
+    "url": "http://localhost:3001/species/3"
+  },
+  {
+    "id": 4,
+    "name": "Togruta",
+    "classification": "mammal",
+    "designation": "sentient",
+    "average_height": 180,
+    "average_lifespan": 82,
+    "hair_colors": [],
+    "eye_colors": [
+      "blue",
+      "green",
+      "grey",
+      "black",
+      "red",
+      "orange"
+    ],
+    "skin_colors": [
+      "red",
+      "orange",
+      "white",
+      "magenta"
+    ],
+    "language": "Togruti",
+    "homeworld_id": 24,
+    "force_sensitivity": "rare",
+    "canon": true,
+    "url": "http://localhost:3001/species/4"
+  },
+  {
+    "id": 5,
+    "name": "Zabrak",
+    "classification": "mammal",
+    "designation": "sentient",
+    "average_height": 180,
+    "average_lifespan": 100,
+    "hair_colors": [
+      "black",
+      "brown",
+      "blond",
+      "none"
+    ],
+    "eye_colors": [
+      "brown",
+      "yellow",
+      "orange",
+      "red"
+    ],
+    "skin_colors": [
+      "tan",
+      "yellow",
+      "brown",
+      "red",
+      "black"
+    ],
+    "language": "Zabraki",
+    "homeworld_id": 25,
+    "force_sensitivity": "rare",
+    "canon": true,
+    "url": "http://localhost:3001/species/5"
+  },
+  {
+    "id": 6,
+    "name": "Nautolan",
+    "classification": "amphibian",
+    "designation": "sentient",
+    "average_height": 180,
+    "average_lifespan": 70,
+    "hair_colors": [],
+    "eye_colors": [
+      "black",
+      "dark"
+    ],
+    "skin_colors": [
+      "green",
+      "blue",
+      "brown"
+    ],
+    "language": "Nautila",
+    "homeworld_id": null,
+    "force_sensitivity": "rare",
+    "canon": true,
+    "url": "http://localhost:3001/species/6"
+  },
+  {
+    "id": 7,
+    "name": "Rodian",
+    "classification": "reptilian",
+    "designation": "sentient",
+    "average_height": 170,
+    "average_lifespan": 75,
+    "hair_colors": [],
+    "eye_colors": [
+      "orange",
+      "green"
+    ],
+    "skin_colors": [
+      "green",
+      "blue",
+      "yellow"
+    ],
+    "language": "Rodese",
+    "homeworld_id": 26,
+    "force_sensitivity": "none",
+    "canon": true,
+    "url": "http://localhost:3001/species/7"
+  },
+  {
+    "id": 8,
+    "name": "Trandoshan",
+    "classification": "reptilian",
+    "designation": "sentient",
+    "average_height": 200,
+    "average_lifespan": 60,
+    "hair_colors": [],
+    "eye_colors": [
+      "yellow",
+      "red",
+      "orange"
+    ],
+    "skin_colors": [
+      "green",
+      "brown",
+      "yellow",
+      "dark green"
+    ],
+    "language": "Dosh",
+    "homeworld_id": null,
+    "force_sensitivity": "none",
+    "canon": true,
+    "url": "http://localhost:3001/species/8"
+  },
+  {
+    "id": 9,
+    "name": "Hutt",
+    "classification": "gastropod",
+    "designation": "sentient",
+    "average_height": null,
+    "average_lifespan": 1000,
+    "hair_colors": [],
+    "eye_colors": [
+      "yellow",
+      "orange",
+      "red"
+    ],
+    "skin_colors": [
+      "green",
+      "brown",
+      "tan",
+      "yellow"
+    ],
+    "language": "Huttese",
+    "homeworld_id": 27,
+    "force_sensitivity": "none",
+    "canon": true,
+    "url": "http://localhost:3001/species/9"
+  },
+  {
+    "id": 10,
+    "name": "Mon Calamari",
+    "classification": "amphibian",
+    "designation": "sentient",
+    "average_height": 170,
+    "average_lifespan": 80,
+    "hair_colors": [],
+    "eye_colors": [
+      "gold",
+      "yellow",
+      "orange"
+    ],
+    "skin_colors": [
+      "salmon",
+      "red",
+      "blue",
+      "brown",
+      "mottled"
+    ],
+    "language": "Mon Calamarian",
+    "homeworld_id": null,
+    "force_sensitivity": "rare",
+    "canon": true,
+    "url": "http://localhost:3001/species/10"
+  },
+  {
+    "id": 11,
+    "name": "Gungan",
+    "classification": "amphibian",
+    "designation": "sentient",
+    "average_height": 195,
+    "average_lifespan": 65,
+    "hair_colors": [],
+    "eye_colors": [
+      "yellow",
+      "orange"
+    ],
+    "skin_colors": [
+      "grey",
+      "green",
+      "tan"
+    ],
+    "language": "Gungan Basic",
+    "homeworld_id": 3,
+    "force_sensitivity": "none",
+    "canon": true,
+    "url": "http://localhost:3001/species/11"
+  },
+  {
+    "id": 12,
+    "name": "Ewok",
+    "classification": "mammal",
+    "designation": "sentient",
+    "average_height": 110,
+    "average_lifespan": 40,
+    "hair_colors": [
+      "brown",
+      "black",
+      "white",
+      "grey",
+      "red"
+    ],
+    "eye_colors": [
+      "brown",
+      "black"
+    ],
+    "skin_colors": [
+      "brown"
+    ],
+    "language": "Ewokese",
+    "homeworld_id": 7,
+    "force_sensitivity": "none",
+    "canon": true,
+    "url": "http://localhost:3001/species/12"
+  },
+  {
+    "id": 13,
+    "name": "Mirialan",
+    "classification": "near-human",
+    "designation": "sentient",
+    "average_height": 175,
+    "average_lifespan": 80,
+    "hair_colors": [
+      "black",
+      "brown",
+      "blond"
+    ],
+    "eye_colors": [
+      "blue",
+      "green",
+      "yellow",
+      "purple"
+    ],
+    "skin_colors": [
+      "yellow-green",
+      "pale green",
+      "light green"
+    ],
+    "language": "Mirialan",
+    "homeworld_id": null,
+    "force_sensitivity": "common",
+    "canon": true,
+    "url": "http://localhost:3001/species/13"
+  },
+  {
+    "id": 14,
+    "name": "Kel Dor",
+    "classification": "mammal",
+    "designation": "sentient",
+    "average_height": 180,
+    "average_lifespan": 70,
+    "hair_colors": [],
+    "eye_colors": [
+      "silver",
+      "black"
+    ],
+    "skin_colors": [
+      "red-orange",
+      "tan",
+      "peach"
+    ],
+    "language": "Kel Dor",
+    "homeworld_id": null,
+    "force_sensitivity": "rare",
+    "canon": true,
+    "url": "http://localhost:3001/species/14"
+  },
+  {
+    "id": 15,
+    "name": "Cerean",
+    "classification": "mammal",
+    "designation": "sentient",
+    "average_height": 200,
+    "average_lifespan": 100,
+    "hair_colors": [
+      "white",
+      "grey",
+      "brown"
+    ],
+    "eye_colors": [
+      "brown",
+      "gold"
+    ],
+    "skin_colors": [
+      "tan",
+      "light",
+      "pink"
+    ],
+    "language": "Cerean",
+    "homeworld_id": null,
+    "force_sensitivity": "common",
+    "canon": true,
+    "url": "http://localhost:3001/species/15"
+  },
+  {
+    "id": 16,
+    "name": "Ithorian",
+    "classification": "mammal",
+    "designation": "sentient",
+    "average_height": 200,
+    "average_lifespan": 85,
+    "hair_colors": [],
+    "eye_colors": [
+      "red",
+      "orange",
+      "yellow"
+    ],
+    "skin_colors": [
+      "brown",
+      "tan",
+      "mottled green"
+    ],
+    "language": "Ithorese",
+    "homeworld_id": null,
+    "force_sensitivity": "rare",
+    "canon": true,
+    "url": "http://localhost:3001/species/16"
+  },
+  {
+    "id": 17,
+    "name": "Duros",
+    "classification": "humanoid",
+    "designation": "sentient",
+    "average_height": 180,
+    "average_lifespan": 90,
+    "hair_colors": [],
+    "eye_colors": [
+      "red",
+      "burgundy"
+    ],
+    "skin_colors": [
+      "blue-green",
+      "green",
+      "turquoise"
+    ],
+    "language": "Durese",
+    "homeworld_id": null,
+    "force_sensitivity": "rare",
+    "canon": true,
+    "url": "http://localhost:3001/species/17"
+  },
+  {
+    "id": 18,
+    "name": "Yoda's Species",
+    "classification": "mammal",
+    "designation": "sentient",
+    "average_height": 66,
+    "average_lifespan": 900,
+    "hair_colors": [
+      "white",
+      "grey",
+      "brown"
+    ],
+    "eye_colors": [
+      "green",
+      "brown"
+    ],
+    "skin_colors": [
+      "green"
+    ],
+    "language": "Galactic Basic Standard",
+    "homeworld_id": null,
+    "force_sensitivity": "common",
+    "canon": true,
+    "url": "http://localhost:3001/species/18"
+  },
+  {
+    "id": 19,
+    "name": "Sullustan",
+    "classification": "mammal",
+    "designation": "sentient",
+    "average_height": 160,
+    "average_lifespan": 75,
+    "hair_colors": [],
+    "eye_colors": [
+      "black",
+      "dark brown"
+    ],
+    "skin_colors": [
+      "pale grey",
+      "white",
+      "tan"
+    ],
+    "language": "Sullustese",
+    "homeworld_id": 50,
+    "force_sensitivity": "none",
+    "canon": true,
+    "url": "http://localhost:3001/species/19"
+  },
+  {
+    "id": 20,
+    "name": "Bothan",
+    "classification": "mammal",
+    "designation": "sentient",
+    "average_height": 160,
+    "average_lifespan": 85,
+    "hair_colors": [
+      "brown",
+      "black",
+      "grey",
+      "tan"
+    ],
+    "eye_colors": [
+      "brown",
+      "green",
+      "blue"
+    ],
+    "skin_colors": [
+      "brown",
+      "tan",
+      "grey"
+    ],
+    "language": "Bothese",
+    "homeworld_id": null,
+    "force_sensitivity": "rare",
+    "canon": true,
+    "url": "http://localhost:3001/species/20"
+  },
+  {
+    "id": 21,
+    "name": "Devaronian",
+    "classification": "mammal",
+    "designation": "sentient",
+    "average_height": 185,
+    "average_lifespan": 90,
+    "hair_colors": [
+      "black",
+      "brown",
+      "none"
+    ],
+    "eye_colors": [
+      "red",
+      "yellow",
+      "brown"
+    ],
+    "skin_colors": [
+      "red",
+      "tan",
+      "pink"
+    ],
+    "language": "Devaronese",
+    "homeworld_id": null,
+    "force_sensitivity": "rare",
+    "canon": true,
+    "url": "http://localhost:3001/species/21"
+  },
+  {
+    "id": 22,
+    "name": "Weequay",
+    "classification": "humanoid",
+    "designation": "sentient",
+    "average_height": 180,
+    "average_lifespan": 80,
+    "hair_colors": [
+      "black",
+      "none"
+    ],
+    "eye_colors": [
+      "black",
+      "brown"
+    ],
+    "skin_colors": [
+      "tan",
+      "brown",
+      "leathery grey"
+    ],
+    "language": "Sriluurian",
+    "homeworld_id": null,
+    "force_sensitivity": "none",
+    "canon": true,
+    "url": "http://localhost:3001/species/22"
+  },
+  {
+    "id": 23,
+    "name": "Nikto",
+    "classification": "reptilian",
+    "designation": "sentient",
+    "average_height": 175,
+    "average_lifespan": 70,
+    "hair_colors": [],
+    "eye_colors": [
+      "red",
+      "yellow",
+      "orange",
+      "black"
+    ],
+    "skin_colors": [
+      "green",
+      "grey",
+      "red",
+      "brown"
+    ],
+    "language": "Nikto",
+    "homeworld_id": null,
+    "force_sensitivity": "none",
+    "canon": true,
+    "url": "http://localhost:3001/species/23"
+  },
+  {
+    "id": 24,
+    "name": "Gamorrean",
+    "classification": "mammal",
+    "designation": "sentient",
+    "average_height": 180,
+    "average_lifespan": 60,
+    "hair_colors": [],
+    "eye_colors": [
+      "black",
+      "red"
+    ],
+    "skin_colors": [
+      "green",
+      "yellow-green"
+    ],
+    "language": "Gamorrean",
+    "homeworld_id": null,
+    "force_sensitivity": "none",
+    "canon": true,
+    "url": "http://localhost:3001/species/24"
+  },
+  {
+    "id": 25,
+    "name": "Quarren",
+    "classification": "cephalopod",
+    "designation": "sentient",
+    "average_height": 180,
+    "average_lifespan": 80,
+    "hair_colors": [],
+    "eye_colors": [
+      "yellow",
+      "gold",
+      "orange"
+    ],
+    "skin_colors": [
+      "tan",
+      "brown",
+      "grey",
+      "blue"
+    ],
+    "language": "Quarrenese",
+    "homeworld_id": null,
+    "force_sensitivity": "none",
+    "canon": true,
+    "url": "http://localhost:3001/species/25"
+  },
+  {
+    "id": 26,
+    "name": "Gran",
+    "classification": "mammal",
+    "designation": "sentient",
+    "average_height": 170,
+    "average_lifespan": 75,
+    "hair_colors": [],
+    "eye_colors": [
+      "gold",
+      "brown",
+      "black"
+    ],
+    "skin_colors": [
+      "tan",
+      "brown",
+      "orange"
+    ],
+    "language": "Gran",
+    "homeworld_id": null,
+    "force_sensitivity": "none",
+    "canon": true,
+    "url": "http://localhost:3001/species/26"
+  },
+  {
+    "id": 27,
+    "name": "Besalisk",
+    "classification": "reptilian",
+    "designation": "sentient",
+    "average_height": 185,
+    "average_lifespan": 75,
+    "hair_colors": [],
+    "eye_colors": [
+      "yellow",
+      "brown",
+      "orange"
+    ],
+    "skin_colors": [
+      "grey",
+      "green",
+      "brown"
+    ],
+    "language": "Besalisk",
+    "homeworld_id": null,
+    "force_sensitivity": "none",
+    "canon": true,
+    "url": "http://localhost:3001/species/27"
+  },
+  {
+    "id": 28,
+    "name": "Muun",
+    "classification": "humanoid",
+    "designation": "sentient",
+    "average_height": 190,
+    "average_lifespan": 100,
+    "hair_colors": [],
+    "eye_colors": [
+      "yellow",
+      "orange",
+      "brown"
+    ],
+    "skin_colors": [
+      "grey",
+      "pale",
+      "white"
+    ],
+    "language": "Muun",
+    "homeworld_id": null,
+    "force_sensitivity": "rare",
+    "canon": true,
+    "url": "http://localhost:3001/species/28"
+  },
+  {
+    "id": 29,
+    "name": "Kaminoan",
+    "classification": "humanoid",
+    "designation": "sentient",
+    "average_height": 220,
+    "average_lifespan": 80,
+    "hair_colors": [],
+    "eye_colors": [
+      "silver",
+      "yellow",
+      "black"
+    ],
+    "skin_colors": [
+      "pale white",
+      "grey-white"
+    ],
+    "language": "Kaminoan",
+    "homeworld_id": 12,
+    "force_sensitivity": "none",
+    "canon": true,
+    "url": "http://localhost:3001/species/29"
+  },
+  {
+    "id": 30,
+    "name": "Geonosian",
+    "classification": "insectoid",
+    "designation": "sentient",
+    "average_height": 170,
+    "average_lifespan": 50,
+    "hair_colors": [],
+    "eye_colors": [
+      "yellow",
+      "red",
+      "orange"
+    ],
+    "skin_colors": [
+      "tan",
+      "brown",
+      "sandy"
+    ],
+    "language": "Geonosian",
+    "homeworld_id": 13,
+    "force_sensitivity": "none",
+    "canon": true,
+    "url": "http://localhost:3001/species/30"
+  },
+  {
+    "id": 31,
+    "name": "Chagrian",
+    "classification": "amphibian",
+    "designation": "sentient",
+    "average_height": 190,
+    "average_lifespan": 90,
+    "hair_colors": [],
+    "eye_colors": [
+      "black",
+      "red"
+    ],
+    "skin_colors": [
+      "blue",
+      "dark blue",
+      "teal"
+    ],
+    "language": "Chagri",
+    "homeworld_id": null,
+    "force_sensitivity": "rare",
+    "canon": true,
+    "url": "http://localhost:3001/species/31"
+  },
+  {
+    "id": 32,
+    "name": "Pantoran",
+    "classification": "near-human",
+    "designation": "sentient",
+    "average_height": 180,
+    "average_lifespan": 90,
+    "hair_colors": [
+      "black",
+      "white",
+      "silver",
+      "blond"
+    ],
+    "eye_colors": [
+      "yellow",
+      "gold",
+      "amber"
+    ],
+    "skin_colors": [
+      "blue",
+      "dark blue",
+      "pale blue"
+    ],
+    "language": "Pantoran",
+    "homeworld_id": null,
+    "force_sensitivity": "rare",
+    "canon": true,
+    "url": "http://localhost:3001/species/32"
+  },
+  {
+    "id": 33,
+    "name": "Toydarian",
+    "classification": "mammal",
+    "designation": "sentient",
+    "average_height": 120,
+    "average_lifespan": 70,
+    "hair_colors": [],
+    "eye_colors": [
+      "yellow",
+      "green"
+    ],
+    "skin_colors": [
+      "blue",
+      "green",
+      "grey"
+    ],
+    "language": "Toydarian",
+    "homeworld_id": null,
+    "force_sensitivity": "none",
+    "canon": true,
+    "url": "http://localhost:3001/species/33"
+  },
+  {
+    "id": 34,
+    "name": "Umbaran",
+    "classification": "near-human",
+    "designation": "sentient",
+    "average_height": 180,
+    "average_lifespan": 80,
+    "hair_colors": [
+      "white",
+      "pale",
+      "none"
+    ],
+    "eye_colors": [
+      "silver",
+      "pale blue",
+      "white"
+    ],
+    "skin_colors": [
+      "pale white",
+      "grey-white",
+      "bluish-white"
+    ],
+    "language": "Umbaran",
+    "homeworld_id": 34,
+    "force_sensitivity": "rare",
+    "canon": true,
+    "url": "http://localhost:3001/species/34"
+  },
+  {
+    "id": 35,
+    "name": "Lasat",
+    "classification": "mammal",
+    "designation": "sentient",
+    "average_height": 220,
+    "average_lifespan": 80,
+    "hair_colors": [
+      "grey",
+      "brown",
+      "black",
+      "white"
+    ],
+    "eye_colors": [
+      "green",
+      "yellow",
+      "orange"
+    ],
+    "skin_colors": [
+      "purple",
+      "grey",
+      "lavender"
+    ],
+    "language": "Lasat",
+    "homeworld_id": null,
+    "force_sensitivity": "rare",
+    "canon": true,
+    "url": "http://localhost:3001/species/35"
+  },
+  {
+    "id": 36,
+    "name": "Kyuzo",
+    "classification": "humanoid",
+    "designation": "sentient",
+    "average_height": 185,
+    "average_lifespan": 80,
+    "hair_colors": [],
+    "eye_colors": [
+      "yellow",
+      "amber"
+    ],
+    "skin_colors": [
+      "green",
+      "yellow-green",
+      "dark green"
+    ],
+    "language": "Kyuzo",
+    "homeworld_id": null,
+    "force_sensitivity": "none",
+    "canon": true,
+    "url": "http://localhost:3001/species/36"
+  },
+  {
+    "id": 37,
+    "name": "Talz",
+    "classification": "mammal",
+    "designation": "sentient",
+    "average_height": 210,
+    "average_lifespan": 70,
+    "hair_colors": [
+      "white",
+      "grey"
+    ],
+    "eye_colors": [
+      "four eyes, black"
+    ],
+    "skin_colors": [
+      "white",
+      "grey"
+    ],
+    "language": "Talzi",
+    "homeworld_id": null,
+    "force_sensitivity": "none",
+    "canon": true,
+    "url": "http://localhost:3001/species/37"
+  },
+  {
+    "id": 38,
+    "name": "Bith",
+    "classification": "mammal",
+    "designation": "sentient",
+    "average_height": 180,
+    "average_lifespan": 100,
+    "hair_colors": [],
+    "eye_colors": [
+      "black",
+      "large dark eyes"
+    ],
+    "skin_colors": [
+      "pale",
+      "grey-white",
+      "pale pink"
+    ],
+    "language": "Bith",
+    "homeworld_id": null,
+    "force_sensitivity": "rare",
+    "canon": true,
+    "url": "http://localhost:3001/species/38"
+  },
+  {
+    "id": 39,
+    "name": "Dathomirian",
+    "classification": "near-human",
+    "designation": "sentient",
+    "average_height": 175,
+    "average_lifespan": 90,
+    "hair_colors": [
+      "black",
+      "none",
+      "white"
+    ],
+    "eye_colors": [
+      "green",
+      "yellow",
+      "red",
+      "black"
+    ],
+    "skin_colors": [
+      "pale",
+      "grey",
+      "greenish-pale"
+    ],
+    "language": "Galactic Basic Standard",
+    "homeworld_id": 48,
+    "force_sensitivity": "common",
+    "canon": true,
+    "url": "http://localhost:3001/species/39"
+  },
+  {
+    "id": 40,
+    "name": "Clawdite",
+    "classification": "reptilian",
+    "designation": "sentient",
+    "average_height": 175,
+    "average_lifespan": 70,
+    "hair_colors": [],
+    "eye_colors": [
+      "yellow",
+      "green"
+    ],
+    "skin_colors": [
+      "green",
+      "tan",
+      "variable (shapeshifter)"
+    ],
+    "language": "Clawdite",
+    "homeworld_id": null,
+    "force_sensitivity": "none",
+    "canon": true,
+    "url": "http://localhost:3001/species/40"
+  },
+  {
+    "id": 41,
+    "name": "Pyke",
+    "classification": "humanoid",
+    "designation": "sentient",
+    "average_height": 175,
+    "average_lifespan": 80,
+    "hair_colors": [],
+    "eye_colors": [
+      "yellow",
+      "amber",
+      "orange"
+    ],
+    "skin_colors": [
+      "pale grey",
+      "blue-grey",
+      "dark grey"
+    ],
+    "language": "Pyke",
+    "homeworld_id": null,
+    "force_sensitivity": "none",
+    "canon": true,
+    "url": "http://localhost:3001/species/41"
+  },
+  {
+    "id": 42,
+    "name": "Neimoidian",
+    "classification": "humanoid",
+    "designation": "sentient",
+    "average_height": 185,
+    "average_lifespan": 90,
+    "hair_colors": [],
+    "eye_colors": [
+      "red",
+      "orange",
+      "pink"
+    ],
+    "skin_colors": [
+      "green",
+      "grey-green",
+      "pale green"
+    ],
+    "language": "Pak Pak",
+    "homeworld_id": 31,
+    "force_sensitivity": "none",
+    "canon": true,
+    "url": "http://localhost:3001/species/42"
+  },
+  {
+    "id": 43,
+    "name": "Zeltron",
+    "classification": "near-human",
+    "designation": "sentient",
+    "average_height": 175,
+    "average_lifespan": 85,
+    "hair_colors": [
+      "red",
+      "pink",
+      "black",
+      "purple"
+    ],
+    "eye_colors": [
+      "blue",
+      "green",
+      "red",
+      "purple"
+    ],
+    "skin_colors": [
+      "pink",
+      "red",
+      "dark red"
+    ],
+    "language": "Galactic Basic Standard",
+    "homeworld_id": null,
+    "force_sensitivity": "rare",
+    "canon": true,
+    "url": "http://localhost:3001/species/43"
+  },
+  {
+    "id": 44,
+    "name": "Chadra-Fan",
+    "classification": "mammal",
+    "designation": "sentient",
+    "average_height": 100,
+    "average_lifespan": 40,
+    "hair_colors": [
+      "brown",
+      "black",
+      "grey"
+    ],
+    "eye_colors": [
+      "black",
+      "red"
+    ],
+    "skin_colors": [
+      "brown",
+      "tan",
+      "grey"
+    ],
+    "language": "Chadra-Fan",
+    "homeworld_id": null,
+    "force_sensitivity": "none",
+    "canon": true,
+    "url": "http://localhost:3001/species/44"
+  },
+  {
+    "id": 45,
+    "name": "Abednedo",
+    "classification": "humanoid",
+    "designation": "sentient",
+    "average_height": 175,
+    "average_lifespan": 80,
+    "hair_colors": [
+      "none",
+      "grey",
+      "white"
+    ],
+    "eye_colors": [
+      "brown",
+      "black",
+      "orange"
+    ],
+    "skin_colors": [
+      "tan",
+      "grey",
+      "peach"
+    ],
+    "language": "Abednedish",
+    "homeworld_id": null,
+    "force_sensitivity": "none",
+    "canon": true,
+    "url": "http://localhost:3001/species/45"
+  },
+  {
+    "id": 46,
+    "name": "Lannik",
+    "classification": "mammal",
+    "designation": "sentient",
+    "average_height": 120,
+    "average_lifespan": 80,
+    "hair_colors": [
+      "orange",
+      "brown",
+      "none"
+    ],
+    "eye_colors": [
+      "brown",
+      "black"
+    ],
+    "skin_colors": [
+      "tan",
+      "orange-tan",
+      "pink"
+    ],
+    "language": "Lannik",
+    "homeworld_id": null,
+    "force_sensitivity": "common",
+    "canon": true,
+    "url": "http://localhost:3001/species/46"
+  },
+  {
+    "id": 47,
+    "name": "Dowutin",
+    "classification": "mammal",
+    "designation": "sentient",
+    "average_height": 250,
+    "average_lifespan": 70,
+    "hair_colors": [],
+    "eye_colors": [
+      "yellow",
+      "amber",
+      "red"
+    ],
+    "skin_colors": [
+      "grey",
+      "dark grey",
+      "brown"
+    ],
+    "language": "Dowutin",
+    "homeworld_id": null,
+    "force_sensitivity": "none",
+    "canon": true,
+    "url": "http://localhost:3001/species/47"
+  },
+  {
+    "id": 48,
+    "name": "Lurmen",
+    "classification": "mammal",
+    "designation": "sentient",
+    "average_height": 90,
+    "average_lifespan": 50,
+    "hair_colors": [
+      "brown",
+      "black",
+      "grey"
+    ],
+    "eye_colors": [
+      "black",
+      "dark brown"
+    ],
+    "skin_colors": [
+      "brown",
+      "tan",
+      "grey"
+    ],
+    "language": "Lurmen",
+    "homeworld_id": null,
+    "force_sensitivity": "none",
+    "canon": true,
+    "url": "http://localhost:3001/species/48"
+  },
+  {
+    "id": 49,
+    "name": "Snivvian",
+    "classification": "mammal",
+    "designation": "sentient",
+    "average_height": 180,
+    "average_lifespan": 80,
+    "hair_colors": [
+      "black",
+      "brown",
+      "grey"
+    ],
+    "eye_colors": [
+      "black",
+      "brown"
+    ],
+    "skin_colors": [
+      "tan",
+      "grey-tan",
+      "brown"
+    ],
+    "language": "Snivvian",
+    "homeworld_id": null,
+    "force_sensitivity": "none",
+    "canon": true,
+    "url": "http://localhost:3001/species/49"
+  },
+  {
+    "id": 50,
+    "name": "Ortolan",
+    "classification": "mammal",
+    "designation": "sentient",
+    "average_height": 130,
+    "average_lifespan": 60,
+    "hair_colors": [],
+    "eye_colors": [
+      "black",
+      "dark"
+    ],
+    "skin_colors": [
+      "blue",
+      "light blue"
+    ],
+    "language": "Ortolan",
+    "homeworld_id": null,
+    "force_sensitivity": "none",
+    "canon": true,
+    "url": "http://localhost:3001/species/50"
+  }
+]

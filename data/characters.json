@@ -1,0 +1,2232 @@
+[
+  {
+    "id": 1,
+    "name": "Anakin Skywalker",
+    "birth_year": "41BBY",
+    "death_year": "4ABY",
+    "gender": "male",
+    "height": 188,
+    "mass": 84,
+    "hair_color": "blond",
+    "eye_color": "blue",
+    "skin_color": "fair",
+    "homeworld_id": 1,
+    "species_id": 1,
+    "affiliation": [
+      "Jedi Order",
+      "Galactic Republic",
+      "Galactic Empire",
+      "501st Legion"
+    ],
+    "rank": "Jedi Knight / Sith Lord",
+    "force_sensitive": true,
+    "force_side": "dark",
+    "midi_chlorian_count": 20000,
+    "lightsaber_colors": [
+      "blue",
+      "red"
+    ],
+    "masters": [
+      "Qui-Gon Jinn",
+      "Obi-Wan Kenobi"
+    ],
+    "apprentices": [
+      "Ahsoka Tano"
+    ],
+    "appearances": [
+      1,
+      2,
+      3,
+      12
+    ],
+    "era": [
+      "Prequel Trilogy",
+      "Clone Wars"
+    ],
+    "status": "deceased",
+    "quote_id": null,
+    "canon": true,
+    "url": "http://localhost:3001/characters/1"
+  },
+  {
+    "id": 2,
+    "name": "Obi-Wan Kenobi",
+    "birth_year": "57BBY",
+    "death_year": "0BBY",
+    "gender": "male",
+    "height": 182,
+    "mass": 77,
+    "hair_color": "auburn",
+    "eye_color": "blue-grey",
+    "skin_color": "fair",
+    "homeworld_id": null,
+    "species_id": 1,
+    "affiliation": [
+      "Jedi Order",
+      "Galactic Republic",
+      "Rebel Alliance"
+    ],
+    "rank": "Jedi Master",
+    "force_sensitive": true,
+    "force_side": "light",
+    "midi_chlorian_count": 13400,
+    "lightsaber_colors": [
+      "blue"
+    ],
+    "masters": [
+      "Qui-Gon Jinn",
+      "Yoda"
+    ],
+    "apprentices": [
+      "Anakin Skywalker"
+    ],
+    "appearances": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      12,
+      16
+    ],
+    "era": [
+      "Prequel Trilogy",
+      "Clone Wars",
+      "Imperial Era",
+      "Original Trilogy"
+    ],
+    "status": "deceased",
+    "quote_id": null,
+    "canon": true,
+    "url": "http://localhost:3001/characters/2"
+  },
+  {
+    "id": 3,
+    "name": "Yoda",
+    "birth_year": "896BBY",
+    "death_year": "4ABY",
+    "gender": "male",
+    "height": 66,
+    "mass": 17,
+    "hair_color": "white",
+    "eye_color": "green",
+    "skin_color": "green",
+    "homeworld_id": null,
+    "species_id": 18,
+    "affiliation": [
+      "Jedi Order",
+      "Galactic Republic"
+    ],
+    "rank": "Jedi Grand Master",
+    "force_sensitive": true,
+    "force_side": "light",
+    "midi_chlorian_count": 17700,
+    "lightsaber_colors": [
+      "green"
+    ],
+    "masters": [],
+    "apprentices": [
+      "Count Dooku",
+      "Mace Windu",
+      "Luke Skywalker"
+    ],
+    "appearances": [
+      1,
+      2,
+      3,
+      5,
+      6,
+      12,
+      17
+    ],
+    "era": [
+      "Prequel Trilogy",
+      "Clone Wars",
+      "Original Trilogy"
+    ],
+    "status": "deceased",
+    "quote_id": null,
+    "canon": true,
+    "url": "http://localhost:3001/characters/3"
+  },
+  {
+    "id": 4,
+    "name": "Padmé Amidala",
+    "birth_year": "46BBY",
+    "death_year": "19BBY",
+    "gender": "female",
+    "height": 165,
+    "mass": 45,
+    "hair_color": "brown",
+    "eye_color": "brown",
+    "skin_color": "light",
+    "homeworld_id": 3,
+    "species_id": 1,
+    "affiliation": [
+      "Galactic Republic",
+      "Royal House of Naboo"
+    ],
+    "rank": "Senator / Queen of Naboo",
+    "force_sensitive": false,
+    "force_side": "none",
+    "midi_chlorian_count": null,
+    "lightsaber_colors": [],
+    "masters": [],
+    "apprentices": [],
+    "appearances": [
+      1,
+      2,
+      3,
+      12
+    ],
+    "era": [
+      "Prequel Trilogy",
+      "Clone Wars"
+    ],
+    "status": "deceased",
+    "quote_id": null,
+    "canon": true,
+    "url": "http://localhost:3001/characters/4"
+  },
+  {
+    "id": 5,
+    "name": "Sheev Palpatine",
+    "birth_year": "84BBY",
+    "death_year": "35ABY",
+    "gender": "male",
+    "height": 170,
+    "mass": 75,
+    "hair_color": "grey",
+    "eye_color": "yellow",
+    "skin_color": "pale",
+    "homeworld_id": 3,
+    "species_id": 1,
+    "affiliation": [
+      "Sith",
+      "Galactic Empire",
+      "Galactic Senate"
+    ],
+    "rank": "Emperor / Sith Lord (Darth Sidious)",
+    "force_sensitive": true,
+    "force_side": "dark",
+    "midi_chlorian_count": 20000,
+    "lightsaber_colors": [
+      "red"
+    ],
+    "masters": [
+      "Darth Plagueis"
+    ],
+    "apprentices": [
+      "Darth Maul",
+      "Count Dooku",
+      "Anakin Skywalker"
+    ],
+    "appearances": [
+      1,
+      2,
+      3,
+      5,
+      6,
+      7,
+      9,
+      12
+    ],
+    "era": [
+      "Prequel Trilogy",
+      "Clone Wars",
+      "Original Trilogy",
+      "Sequel Trilogy"
+    ],
+    "status": "deceased",
+    "quote_id": null,
+    "canon": true,
+    "url": "http://localhost:3001/characters/5"
+  },
+  {
+    "id": 6,
+    "name": "Mace Windu",
+    "birth_year": "72BBY",
+    "death_year": "19BBY",
+    "gender": "male",
+    "height": 188,
+    "mass": 84,
+    "hair_color": "none",
+    "eye_color": "brown",
+    "skin_color": "dark",
+    "homeworld_id": null,
+    "species_id": 1,
+    "affiliation": [
+      "Jedi Order",
+      "Galactic Republic",
+      "Jedi High Council"
+    ],
+    "rank": "Jedi Master",
+    "force_sensitive": true,
+    "force_side": "light",
+    "midi_chlorian_count": 12000,
+    "lightsaber_colors": [
+      "purple"
+    ],
+    "masters": [
+      "Cyslin Myr"
+    ],
+    "apprentices": [
+      "Depa Billaba"
+    ],
+    "appearances": [
+      1,
+      2,
+      3,
+      12
+    ],
+    "era": [
+      "Prequel Trilogy",
+      "Clone Wars"
+    ],
+    "status": "deceased",
+    "quote_id": null,
+    "canon": true,
+    "url": "http://localhost:3001/characters/6"
+  },
+  {
+    "id": 7,
+    "name": "Qui-Gon Jinn",
+    "birth_year": "92BBY",
+    "death_year": "32BBY",
+    "gender": "male",
+    "height": 193,
+    "mass": 89,
+    "hair_color": "brown",
+    "eye_color": "blue-grey",
+    "skin_color": "fair",
+    "homeworld_id": null,
+    "species_id": 1,
+    "affiliation": [
+      "Jedi Order",
+      "Galactic Republic"
+    ],
+    "rank": "Jedi Master",
+    "force_sensitive": true,
+    "force_side": "light",
+    "midi_chlorian_count": 12700,
+    "lightsaber_colors": [
+      "green"
+    ],
+    "masters": [
+      "Count Dooku"
+    ],
+    "apprentices": [
+      "Obi-Wan Kenobi"
+    ],
+    "appearances": [
+      1,
+      12
+    ],
+    "era": [
+      "Prequel Trilogy"
+    ],
+    "status": "deceased",
+    "quote_id": null,
+    "canon": true,
+    "url": "http://localhost:3001/characters/7"
+  },
+  {
+    "id": 8,
+    "name": "Count Dooku",
+    "birth_year": "102BBY",
+    "death_year": "19BBY",
+    "gender": "male",
+    "height": 193,
+    "mass": 80,
+    "hair_color": "grey",
+    "eye_color": "brown",
+    "skin_color": "fair",
+    "homeworld_id": 49,
+    "species_id": 1,
+    "affiliation": [
+      "Sith",
+      "Confederacy of Independent Systems",
+      "Jedi Order (former)"
+    ],
+    "rank": "Sith Lord (Darth Tyranus) / CIS Leader",
+    "force_sensitive": true,
+    "force_side": "dark",
+    "midi_chlorian_count": 13500,
+    "lightsaber_colors": [
+      "red"
+    ],
+    "masters": [
+      "Yoda",
+      "Darth Sidious"
+    ],
+    "apprentices": [
+      "Asajj Ventress",
+      "General Grievous (tactically)"
+    ],
+    "appearances": [
+      2,
+      3,
+      12
+    ],
+    "era": [
+      "Prequel Trilogy",
+      "Clone Wars"
+    ],
+    "status": "deceased",
+    "quote_id": null,
+    "canon": true,
+    "url": "http://localhost:3001/characters/8"
+  },
+  {
+    "id": 9,
+    "name": "General Grievous",
+    "birth_year": "52BBY",
+    "death_year": "19BBY",
+    "gender": "male",
+    "height": 216,
+    "mass": 159,
+    "hair_color": null,
+    "eye_color": "yellow",
+    "skin_color": "grey (cyborg)",
+    "homeworld_id": null,
+    "species_id": null,
+    "affiliation": [
+      "Confederacy of Independent Systems",
+      "Ohnaka Gang (briefly)"
+    ],
+    "rank": "Supreme Commander of the Droid Army",
+    "force_sensitive": false,
+    "force_side": "none",
+    "midi_chlorian_count": null,
+    "lightsaber_colors": [],
+    "masters": [
+      "Count Dooku",
+      "Darth Sidious (indirectly)"
+    ],
+    "apprentices": [],
+    "appearances": [
+      3,
+      12
+    ],
+    "era": [
+      "Prequel Trilogy",
+      "Clone Wars"
+    ],
+    "status": "deceased",
+    "quote_id": null,
+    "canon": true,
+    "url": "http://localhost:3001/characters/9"
+  },
+  {
+    "id": 10,
+    "name": "Ahsoka Tano",
+    "birth_year": "36BBY",
+    "death_year": null,
+    "gender": "female",
+    "height": 170,
+    "mass": 55,
+    "hair_color": null,
+    "eye_color": "blue",
+    "skin_color": "orange, white",
+    "homeworld_id": 24,
+    "species_id": 4,
+    "affiliation": [
+      "Jedi Order (former)",
+      "Rebel Alliance",
+      "Fulcrum",
+      "New Jedi Order (advisor)"
+    ],
+    "rank": "Jedi Padawan / Independent Force User",
+    "force_sensitive": true,
+    "force_side": "grey",
+    "midi_chlorian_count": 14700,
+    "lightsaber_colors": [
+      "green",
+      "white"
+    ],
+    "masters": [
+      "Anakin Skywalker",
+      "Plo Koon"
+    ],
+    "apprentices": [
+      "Sabine Wren (informal)",
+      "Grogu (briefly)"
+    ],
+    "appearances": [
+      3,
+      12,
+      13,
+      14,
+      18
+    ],
+    "era": [
+      "Clone Wars",
+      "Imperial Era",
+      "New Republic Era"
+    ],
+    "status": "alive",
+    "quote_id": null,
+    "canon": true,
+    "url": "http://localhost:3001/characters/10"
+  },
+  {
+    "id": 11,
+    "name": "Kit Fisto",
+    "birth_year": "55BBY",
+    "death_year": "19BBY",
+    "gender": "male",
+    "height": 196,
+    "mass": 87,
+    "hair_color": null,
+    "eye_color": "black",
+    "skin_color": "green",
+    "homeworld_id": null,
+    "species_id": 6,
+    "affiliation": [
+      "Jedi Order",
+      "Galactic Republic",
+      "Jedi High Council"
+    ],
+    "rank": "Jedi Master",
+    "force_sensitive": true,
+    "force_side": "light",
+    "midi_chlorian_count": 13000,
+    "lightsaber_colors": [
+      "green"
+    ],
+    "masters": [],
+    "apprentices": [
+      "Nahdar Vebb"
+    ],
+    "appearances": [
+      2,
+      3,
+      12
+    ],
+    "era": [
+      "Prequel Trilogy",
+      "Clone Wars"
+    ],
+    "status": "deceased",
+    "quote_id": null,
+    "canon": true,
+    "url": "http://localhost:3001/characters/11"
+  },
+  {
+    "id": 12,
+    "name": "Plo Koon",
+    "birth_year": "22BBY",
+    "death_year": "19BBY",
+    "gender": "male",
+    "height": 188,
+    "mass": 80,
+    "hair_color": null,
+    "eye_color": "black",
+    "skin_color": "orange",
+    "homeworld_id": null,
+    "species_id": 14,
+    "affiliation": [
+      "Jedi Order",
+      "Galactic Republic",
+      "Jedi High Council"
+    ],
+    "rank": "Jedi Master",
+    "force_sensitive": true,
+    "force_side": "light",
+    "midi_chlorian_count": 12800,
+    "lightsaber_colors": [
+      "blue"
+    ],
+    "masters": [],
+    "apprentices": [
+      "Ahsoka Tano (initial discovery)"
+    ],
+    "appearances": [
+      1,
+      2,
+      3,
+      12
+    ],
+    "era": [
+      "Prequel Trilogy",
+      "Clone Wars"
+    ],
+    "status": "deceased",
+    "quote_id": null,
+    "canon": true,
+    "url": "http://localhost:3001/characters/12"
+  },
+  {
+    "id": 13,
+    "name": "Ki-Adi-Mundi",
+    "birth_year": "93BBY",
+    "death_year": "19BBY",
+    "gender": "male",
+    "height": 198,
+    "mass": 82,
+    "hair_color": "white",
+    "eye_color": "yellow",
+    "skin_color": "pale",
+    "homeworld_id": null,
+    "species_id": 15,
+    "affiliation": [
+      "Jedi Order",
+      "Galactic Republic",
+      "Jedi High Council"
+    ],
+    "rank": "Jedi Master",
+    "force_sensitive": true,
+    "force_side": "light",
+    "midi_chlorian_count": 12700,
+    "lightsaber_colors": [
+      "blue"
+    ],
+    "masters": [],
+    "apprentices": [],
+    "appearances": [
+      1,
+      2,
+      3,
+      12
+    ],
+    "era": [
+      "Prequel Trilogy",
+      "Clone Wars"
+    ],
+    "status": "deceased",
+    "quote_id": null,
+    "canon": true,
+    "url": "http://localhost:3001/characters/13"
+  },
+  {
+    "id": 14,
+    "name": "Jar Jar Binks",
+    "birth_year": "52BBY",
+    "death_year": null,
+    "gender": "male",
+    "height": 196,
+    "mass": 66,
+    "hair_color": null,
+    "eye_color": "orange",
+    "skin_color": "orange-tan",
+    "homeworld_id": 3,
+    "species_id": 11,
+    "affiliation": [
+      "Galactic Republic",
+      "Gungan Grand Army"
+    ],
+    "rank": "Senator / Bombad General",
+    "force_sensitive": false,
+    "force_side": "none",
+    "midi_chlorian_count": null,
+    "lightsaber_colors": [],
+    "masters": [],
+    "apprentices": [],
+    "appearances": [
+      1,
+      2,
+      3,
+      12
+    ],
+    "era": [
+      "Prequel Trilogy",
+      "Clone Wars"
+    ],
+    "status": "unknown",
+    "quote_id": null,
+    "canon": true,
+    "url": "http://localhost:3001/characters/14"
+  },
+  {
+    "id": 15,
+    "name": "Captain Rex",
+    "birth_year": "32BBY",
+    "death_year": null,
+    "gender": "male",
+    "height": 183,
+    "mass": 79,
+    "hair_color": "blond",
+    "eye_color": "brown",
+    "skin_color": "tan",
+    "homeworld_id": 12,
+    "species_id": 1,
+    "affiliation": [
+      "Galactic Republic",
+      "501st Legion",
+      "Rebel Alliance"
+    ],
+    "rank": "Clone Captain / Clone Commander",
+    "force_sensitive": false,
+    "force_side": "none",
+    "midi_chlorian_count": null,
+    "lightsaber_colors": [],
+    "masters": [],
+    "apprentices": [],
+    "appearances": [
+      12,
+      13,
+      17,
+      18
+    ],
+    "era": [
+      "Clone Wars",
+      "Imperial Era",
+      "Age of Rebellion"
+    ],
+    "status": "alive",
+    "quote_id": null,
+    "canon": true,
+    "url": "http://localhost:3001/characters/15"
+  },
+  {
+    "id": 16,
+    "name": "Commander Cody",
+    "birth_year": "32BBY",
+    "death_year": null,
+    "gender": "male",
+    "height": 183,
+    "mass": 79,
+    "hair_color": "black",
+    "eye_color": "brown",
+    "skin_color": "tan",
+    "homeworld_id": 12,
+    "species_id": 1,
+    "affiliation": [
+      "Galactic Republic",
+      "212th Attack Battalion",
+      "Galactic Empire"
+    ],
+    "rank": "Clone Marshal Commander",
+    "force_sensitive": false,
+    "force_side": "none",
+    "midi_chlorian_count": null,
+    "lightsaber_colors": [],
+    "masters": [],
+    "apprentices": [],
+    "appearances": [
+      3,
+      12,
+      17
+    ],
+    "era": [
+      "Clone Wars",
+      "Imperial Era"
+    ],
+    "status": "unknown",
+    "quote_id": null,
+    "canon": true,
+    "url": "http://localhost:3001/characters/16"
+  },
+  {
+    "id": 17,
+    "name": "Luke Skywalker",
+    "birth_year": "19BBY",
+    "death_year": "34ABY",
+    "gender": "male",
+    "height": 172,
+    "mass": 77,
+    "hair_color": "blond",
+    "eye_color": "blue",
+    "skin_color": "fair",
+    "homeworld_id": 1,
+    "species_id": 1,
+    "affiliation": [
+      "Rebel Alliance",
+      "Jedi Order",
+      "New Jedi Order",
+      "Resistance"
+    ],
+    "rank": "Jedi Master",
+    "force_sensitive": true,
+    "force_side": "light",
+    "midi_chlorian_count": 14500,
+    "lightsaber_colors": [
+      "blue",
+      "green"
+    ],
+    "masters": [
+      "Obi-Wan Kenobi",
+      "Yoda"
+    ],
+    "apprentices": [
+      "Ben Solo"
+    ],
+    "appearances": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      14
+    ],
+    "era": [
+      "Original Trilogy",
+      "New Republic Era",
+      "Sequel Trilogy"
+    ],
+    "status": "deceased",
+    "quote_id": null,
+    "canon": true,
+    "url": "http://localhost:3001/characters/17"
+  },
+  {
+    "id": 18,
+    "name": "Leia Organa",
+    "birth_year": "19BBY",
+    "death_year": "35ABY",
+    "gender": "female",
+    "height": 150,
+    "mass": 49,
+    "hair_color": "brown",
+    "eye_color": "brown",
+    "skin_color": "light",
+    "homeworld_id": 14,
+    "species_id": 1,
+    "affiliation": [
+      "Rebel Alliance",
+      "Galactic Republic (senator)",
+      "Resistance",
+      "New Jedi Order (briefly)"
+    ],
+    "rank": "General / Princess / Senator",
+    "force_sensitive": true,
+    "force_side": "light",
+    "midi_chlorian_count": 14500,
+    "lightsaber_colors": [],
+    "masters": [
+      "Luke Skywalker (briefly)"
+    ],
+    "apprentices": [],
+    "appearances": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      15,
+      16
+    ],
+    "era": [
+      "Original Trilogy",
+      "New Republic Era",
+      "Sequel Trilogy"
+    ],
+    "status": "deceased",
+    "quote_id": null,
+    "canon": true,
+    "url": "http://localhost:3001/characters/18"
+  },
+  {
+    "id": 19,
+    "name": "Han Solo",
+    "birth_year": "32BBY",
+    "death_year": "34ABY",
+    "gender": "male",
+    "height": 180,
+    "mass": 80,
+    "hair_color": "brown",
+    "eye_color": "hazel",
+    "skin_color": "fair",
+    "homeworld_id": 20,
+    "species_id": 1,
+    "affiliation": [
+      "Rebel Alliance",
+      "Resistance",
+      "Galactic Empire (briefly)"
+    ],
+    "rank": "General",
+    "force_sensitive": false,
+    "force_side": "none",
+    "midi_chlorian_count": null,
+    "lightsaber_colors": [],
+    "masters": [],
+    "apprentices": [],
+    "appearances": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      11
+    ],
+    "era": [
+      "Original Trilogy",
+      "Age of Rebellion",
+      "Sequel Trilogy"
+    ],
+    "status": "deceased",
+    "quote_id": null,
+    "canon": true,
+    "url": "http://localhost:3001/characters/19"
+  },
+  {
+    "id": 20,
+    "name": "Chewbacca",
+    "birth_year": "200BBY",
+    "death_year": null,
+    "gender": "male",
+    "height": 228,
+    "mass": 112,
+    "hair_color": "brown",
+    "eye_color": "blue",
+    "skin_color": "grey",
+    "homeworld_id": 15,
+    "species_id": 2,
+    "affiliation": [
+      "Rebel Alliance",
+      "Resistance",
+      "Wookiee Clans"
+    ],
+    "rank": "Co-pilot / Warrior",
+    "force_sensitive": false,
+    "force_side": "none",
+    "midi_chlorian_count": null,
+    "lightsaber_colors": [],
+    "masters": [],
+    "apprentices": [],
+    "appearances": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11
+    ],
+    "era": [
+      "Prequel Trilogy",
+      "Original Trilogy",
+      "Age of Rebellion",
+      "Sequel Trilogy"
+    ],
+    "status": "alive",
+    "quote_id": null,
+    "canon": true,
+    "url": "http://localhost:3001/characters/20"
+  },
+  {
+    "id": 21,
+    "name": "R2-D2",
+    "birth_year": "33BBY",
+    "death_year": null,
+    "gender": "male",
+    "height": 96,
+    "mass": 32,
+    "hair_color": null,
+    "eye_color": "red",
+    "skin_color": "white, blue",
+    "homeworld_id": 3,
+    "species_id": null,
+    "affiliation": [
+      "Galactic Republic",
+      "Rebel Alliance",
+      "Resistance",
+      "Jedi Order"
+    ],
+    "rank": "Astromech Droid",
+    "force_sensitive": false,
+    "force_side": "none",
+    "midi_chlorian_count": null,
+    "lightsaber_colors": [],
+    "masters": [],
+    "apprentices": [],
+    "appearances": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      12
+    ],
+    "era": [
+      "Prequel Trilogy",
+      "Clone Wars",
+      "Original Trilogy",
+      "Sequel Trilogy"
+    ],
+    "status": "alive",
+    "quote_id": null,
+    "canon": true,
+    "url": "http://localhost:3001/characters/21"
+  },
+  {
+    "id": 22,
+    "name": "C-3PO",
+    "birth_year": "112BBY",
+    "death_year": null,
+    "gender": "male",
+    "height": 167,
+    "mass": 75,
+    "hair_color": null,
+    "eye_color": "yellow",
+    "skin_color": "gold",
+    "homeworld_id": 1,
+    "species_id": null,
+    "affiliation": [
+      "Galactic Republic",
+      "Rebel Alliance",
+      "Resistance"
+    ],
+    "rank": "Protocol Droid",
+    "force_sensitive": false,
+    "force_side": "none",
+    "midi_chlorian_count": null,
+    "lightsaber_colors": [],
+    "masters": [],
+    "apprentices": [],
+    "appearances": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "era": [
+      "Prequel Trilogy",
+      "Original Trilogy",
+      "Sequel Trilogy"
+    ],
+    "status": "alive",
+    "quote_id": null,
+    "canon": true,
+    "url": "http://localhost:3001/characters/22"
+  },
+  {
+    "id": 23,
+    "name": "Lando Calrissian",
+    "birth_year": "31BBY",
+    "death_year": null,
+    "gender": "male",
+    "height": 177,
+    "mass": 79,
+    "hair_color": "black",
+    "eye_color": "brown",
+    "skin_color": "dark",
+    "homeworld_id": null,
+    "species_id": 1,
+    "affiliation": [
+      "Rebel Alliance",
+      "New Republic",
+      "Resistance"
+    ],
+    "rank": "General / Baron Administrator",
+    "force_sensitive": false,
+    "force_side": "none",
+    "midi_chlorian_count": null,
+    "lightsaber_colors": [],
+    "masters": [],
+    "apprentices": [],
+    "appearances": [
+      5,
+      6,
+      9,
+      11
+    ],
+    "era": [
+      "Original Trilogy",
+      "Age of Rebellion",
+      "Sequel Trilogy"
+    ],
+    "status": "alive",
+    "quote_id": null,
+    "canon": true,
+    "url": "http://localhost:3001/characters/23"
+  },
+  {
+    "id": 24,
+    "name": "Boba Fett",
+    "birth_year": "32BBY",
+    "death_year": null,
+    "gender": "male",
+    "height": 183,
+    "mass": 78,
+    "hair_color": "black",
+    "eye_color": "brown",
+    "skin_color": "tan",
+    "homeworld_id": 12,
+    "species_id": 1,
+    "affiliation": [
+      "Bounty Hunters Guild",
+      "Hutt Cartel (briefly)",
+      "Fett Syndicate"
+    ],
+    "rank": "Bounty Hunter / Daimyo of Mos Espa",
+    "force_sensitive": false,
+    "force_side": "none",
+    "midi_chlorian_count": null,
+    "lightsaber_colors": [],
+    "masters": [],
+    "apprentices": [],
+    "appearances": [
+      2,
+      5,
+      6,
+      14,
+      19
+    ],
+    "era": [
+      "Prequel Trilogy",
+      "Original Trilogy",
+      "New Republic Era"
+    ],
+    "status": "alive",
+    "quote_id": null,
+    "canon": true,
+    "url": "http://localhost:3001/characters/24"
+  },
+  {
+    "id": 25,
+    "name": "Grand Moff Tarkin",
+    "birth_year": "64BBY",
+    "death_year": "0BBY",
+    "gender": "male",
+    "height": 180,
+    "mass": 70,
+    "hair_color": "brown",
+    "eye_color": "grey-blue",
+    "skin_color": "fair",
+    "homeworld_id": null,
+    "species_id": 1,
+    "affiliation": [
+      "Galactic Empire",
+      "Galactic Republic (former)",
+      "ISB"
+    ],
+    "rank": "Grand Moff",
+    "force_sensitive": false,
+    "force_side": "none",
+    "midi_chlorian_count": null,
+    "lightsaber_colors": [],
+    "masters": [],
+    "apprentices": [],
+    "appearances": [
+      3,
+      4,
+      10,
+      16
+    ],
+    "era": [
+      "Prequel Trilogy",
+      "Imperial Era",
+      "Age of Rebellion"
+    ],
+    "status": "deceased",
+    "quote_id": null,
+    "canon": true,
+    "url": "http://localhost:3001/characters/25"
+  },
+  {
+    "id": 26,
+    "name": "Mon Mothma",
+    "birth_year": "46BBY",
+    "death_year": null,
+    "gender": "female",
+    "height": 150,
+    "mass": null,
+    "hair_color": "auburn",
+    "eye_color": "grey",
+    "skin_color": "fair",
+    "homeworld_id": 40,
+    "species_id": 1,
+    "affiliation": [
+      "Galactic Republic",
+      "Rebel Alliance",
+      "New Republic"
+    ],
+    "rank": "Chancellor / Commander-in-Chief of Rebel Alliance",
+    "force_sensitive": false,
+    "force_side": "none",
+    "midi_chlorian_count": null,
+    "lightsaber_colors": [],
+    "masters": [],
+    "apprentices": [],
+    "appearances": [
+      4,
+      6,
+      10,
+      13,
+      15
+    ],
+    "era": [
+      "Imperial Era",
+      "Age of Rebellion",
+      "New Republic Era"
+    ],
+    "status": "alive",
+    "quote_id": null,
+    "canon": true,
+    "url": "http://localhost:3001/characters/26"
+  },
+  {
+    "id": 27,
+    "name": "Wedge Antilles",
+    "birth_year": "21BBY",
+    "death_year": null,
+    "gender": "male",
+    "height": 170,
+    "mass": 70,
+    "hair_color": "brown",
+    "eye_color": "brown",
+    "skin_color": "fair",
+    "homeworld_id": 20,
+    "species_id": 1,
+    "affiliation": [
+      "Rebel Alliance",
+      "New Republic",
+      "Resistance (briefly)"
+    ],
+    "rank": "General / Commander",
+    "force_sensitive": false,
+    "force_side": "none",
+    "midi_chlorian_count": null,
+    "lightsaber_colors": [],
+    "masters": [],
+    "apprentices": [],
+    "appearances": [
+      4,
+      5,
+      6,
+      9
+    ],
+    "era": [
+      "Original Trilogy",
+      "Age of Rebellion",
+      "Sequel Trilogy"
+    ],
+    "status": "alive",
+    "quote_id": null,
+    "canon": true,
+    "url": "http://localhost:3001/characters/27"
+  },
+  {
+    "id": 28,
+    "name": "Jabba the Hutt",
+    "birth_year": "600BBY",
+    "death_year": "4ABY",
+    "gender": "male",
+    "height": 175,
+    "mass": 1358,
+    "hair_color": null,
+    "eye_color": "orange",
+    "skin_color": "green, tan",
+    "homeworld_id": 27,
+    "species_id": 9,
+    "affiliation": [
+      "Hutt Cartel",
+      "Galactic Empire (collaborator)"
+    ],
+    "rank": "Crime Lord / Daimyo",
+    "force_sensitive": false,
+    "force_side": "none",
+    "midi_chlorian_count": null,
+    "lightsaber_colors": [],
+    "masters": [],
+    "apprentices": [],
+    "appearances": [
+      1,
+      4,
+      6,
+      12
+    ],
+    "era": [
+      "Prequel Trilogy",
+      "Original Trilogy",
+      "Clone Wars"
+    ],
+    "status": "deceased",
+    "quote_id": null,
+    "canon": true,
+    "url": "http://localhost:3001/characters/28"
+  },
+  {
+    "id": 29,
+    "name": "Rey Skywalker",
+    "birth_year": "15ABY",
+    "death_year": null,
+    "gender": "female",
+    "height": 170,
+    "mass": 54,
+    "hair_color": "brown",
+    "eye_color": "hazel",
+    "skin_color": "light",
+    "homeworld_id": 8,
+    "species_id": 1,
+    "affiliation": [
+      "Resistance",
+      "New Jedi Order"
+    ],
+    "rank": "Jedi Knight",
+    "force_sensitive": true,
+    "force_side": "light",
+    "midi_chlorian_count": 20000,
+    "lightsaber_colors": [
+      "blue",
+      "yellow"
+    ],
+    "masters": [
+      "Luke Skywalker",
+      "Leia Organa"
+    ],
+    "apprentices": [],
+    "appearances": [
+      7,
+      8,
+      9
+    ],
+    "era": [
+      "Sequel Trilogy"
+    ],
+    "status": "alive",
+    "quote_id": null,
+    "canon": true,
+    "url": "http://localhost:3001/characters/29"
+  },
+  {
+    "id": 30,
+    "name": "Kylo Ren",
+    "birth_year": "5ABY",
+    "death_year": "35ABY",
+    "gender": "male",
+    "height": 189,
+    "mass": 89,
+    "hair_color": "black",
+    "eye_color": "brown",
+    "skin_color": "fair",
+    "homeworld_id": 40,
+    "species_id": 1,
+    "affiliation": [
+      "First Order",
+      "Knights of Ren",
+      "Resistance (final moment)"
+    ],
+    "rank": "Supreme Leader / Jedi Apprentice (former)",
+    "force_sensitive": true,
+    "force_side": "dark",
+    "midi_chlorian_count": 14500,
+    "lightsaber_colors": [
+      "red"
+    ],
+    "masters": [
+      "Luke Skywalker",
+      "Snoke",
+      "Darth Sidious (indirect)"
+    ],
+    "apprentices": [],
+    "appearances": [
+      7,
+      8,
+      9
+    ],
+    "era": [
+      "Sequel Trilogy"
+    ],
+    "status": "deceased",
+    "quote_id": null,
+    "canon": true,
+    "url": "http://localhost:3001/characters/30"
+  },
+  {
+    "id": 31,
+    "name": "Finn",
+    "birth_year": "11ABY",
+    "death_year": null,
+    "gender": "male",
+    "height": 178,
+    "mass": 73,
+    "hair_color": "black",
+    "eye_color": "brown",
+    "skin_color": "dark",
+    "homeworld_id": null,
+    "species_id": 1,
+    "affiliation": [
+      "First Order (former)",
+      "Resistance",
+      "New Republic"
+    ],
+    "rank": "General",
+    "force_sensitive": true,
+    "force_side": "light",
+    "midi_chlorian_count": null,
+    "lightsaber_colors": [],
+    "masters": [],
+    "apprentices": [],
+    "appearances": [
+      7,
+      8,
+      9
+    ],
+    "era": [
+      "Sequel Trilogy"
+    ],
+    "status": "alive",
+    "quote_id": null,
+    "canon": true,
+    "url": "http://localhost:3001/characters/31"
+  },
+  {
+    "id": 32,
+    "name": "Poe Dameron",
+    "birth_year": "2ABY",
+    "death_year": null,
+    "gender": "male",
+    "height": 172,
+    "mass": 80,
+    "hair_color": "brown",
+    "eye_color": "brown",
+    "skin_color": "tan",
+    "homeworld_id": null,
+    "species_id": 1,
+    "affiliation": [
+      "Resistance",
+      "New Republic"
+    ],
+    "rank": "General / Commander",
+    "force_sensitive": false,
+    "force_side": "none",
+    "midi_chlorian_count": null,
+    "lightsaber_colors": [],
+    "masters": [],
+    "apprentices": [],
+    "appearances": [
+      7,
+      8,
+      9
+    ],
+    "era": [
+      "Sequel Trilogy"
+    ],
+    "status": "alive",
+    "quote_id": null,
+    "canon": true,
+    "url": "http://localhost:3001/characters/32"
+  },
+  {
+    "id": 33,
+    "name": "Supreme Leader Snoke",
+    "birth_year": null,
+    "death_year": "34ABY",
+    "gender": "male",
+    "height": 218,
+    "mass": null,
+    "hair_color": null,
+    "eye_color": "blue",
+    "skin_color": "pale, scarred",
+    "homeworld_id": 10,
+    "species_id": null,
+    "affiliation": [
+      "First Order",
+      "Knights of Ren"
+    ],
+    "rank": "Supreme Leader",
+    "force_sensitive": true,
+    "force_side": "dark",
+    "midi_chlorian_count": null,
+    "lightsaber_colors": [],
+    "masters": [
+      "Sheev Palpatine (creator)"
+    ],
+    "apprentices": [
+      "Kylo Ren"
+    ],
+    "appearances": [
+      7,
+      8
+    ],
+    "era": [
+      "Sequel Trilogy"
+    ],
+    "status": "deceased",
+    "quote_id": null,
+    "canon": true,
+    "url": "http://localhost:3001/characters/33"
+  },
+  {
+    "id": 34,
+    "name": "Captain Phasma",
+    "birth_year": null,
+    "death_year": "34ABY",
+    "gender": "female",
+    "height": 200,
+    "mass": 76,
+    "hair_color": "blond",
+    "eye_color": "grey",
+    "skin_color": "fair",
+    "homeworld_id": null,
+    "species_id": 1,
+    "affiliation": [
+      "First Order"
+    ],
+    "rank": "Captain",
+    "force_sensitive": false,
+    "force_side": "none",
+    "midi_chlorian_count": null,
+    "lightsaber_colors": [],
+    "masters": [],
+    "apprentices": [],
+    "appearances": [
+      7,
+      8
+    ],
+    "era": [
+      "Sequel Trilogy"
+    ],
+    "status": "deceased",
+    "quote_id": null,
+    "canon": true,
+    "url": "http://localhost:3001/characters/34"
+  },
+  {
+    "id": 35,
+    "name": "Din Djarin",
+    "birth_year": null,
+    "death_year": null,
+    "gender": "male",
+    "height": 177,
+    "mass": 79,
+    "hair_color": "black",
+    "eye_color": "brown",
+    "skin_color": "tan",
+    "homeworld_id": null,
+    "species_id": 1,
+    "affiliation": [
+      "Mandalorian Creed",
+      "Children of the Watch",
+      "New Republic (ally)"
+    ],
+    "rank": "Mandalorian Warrior",
+    "force_sensitive": false,
+    "force_side": "none",
+    "midi_chlorian_count": null,
+    "lightsaber_colors": [],
+    "masters": [],
+    "apprentices": [],
+    "appearances": [
+      14,
+      19
+    ],
+    "era": [
+      "New Republic Era"
+    ],
+    "status": "alive",
+    "quote_id": null,
+    "canon": true,
+    "url": "http://localhost:3001/characters/35"
+  },
+  {
+    "id": 36,
+    "name": "Grogu",
+    "birth_year": "41BBY",
+    "death_year": null,
+    "gender": "male",
+    "height": 45,
+    "mass": null,
+    "hair_color": null,
+    "eye_color": "brown",
+    "skin_color": "green",
+    "homeworld_id": 2,
+    "species_id": 18,
+    "affiliation": [
+      "Jedi Order (former youngling)",
+      "Mandalorian Creed"
+    ],
+    "rank": "Force-sensitive child / Mandalorian Foundling",
+    "force_sensitive": true,
+    "force_side": "light",
+    "midi_chlorian_count": null,
+    "lightsaber_colors": [],
+    "masters": [
+      "Anakin Skywalker (briefly)",
+      "Luke Skywalker",
+      "Yoda (indirect)"
+    ],
+    "apprentices": [],
+    "appearances": [
+      14,
+      19,
+      18
+    ],
+    "era": [
+      "Prequel Trilogy",
+      "New Republic Era"
+    ],
+    "status": "alive",
+    "quote_id": null,
+    "canon": true,
+    "url": "http://localhost:3001/characters/36"
+  },
+  {
+    "id": 37,
+    "name": "Bo-Katan Kryze",
+    "birth_year": "40BBY",
+    "death_year": null,
+    "gender": "female",
+    "height": 173,
+    "mass": 62,
+    "hair_color": "auburn",
+    "eye_color": "blue",
+    "skin_color": "fair",
+    "homeworld_id": 16,
+    "species_id": 1,
+    "affiliation": [
+      "Mandalorian Resistance",
+      "Death Watch (former)",
+      "Mandalorian Clans",
+      "New Mandalorians (briefly)"
+    ],
+    "rank": "Lady of Mandalore / Mandalorian Commander",
+    "force_sensitive": false,
+    "force_side": "none",
+    "midi_chlorian_count": null,
+    "lightsaber_colors": [],
+    "masters": [],
+    "apprentices": [],
+    "appearances": [
+      12,
+      14,
+      18
+    ],
+    "era": [
+      "Clone Wars",
+      "Imperial Era",
+      "New Republic Era"
+    ],
+    "status": "alive",
+    "quote_id": null,
+    "canon": true,
+    "url": "http://localhost:3001/characters/37"
+  },
+  {
+    "id": 38,
+    "name": "Moff Gideon",
+    "birth_year": null,
+    "death_year": null,
+    "gender": "male",
+    "height": 183,
+    "mass": 80,
+    "hair_color": "grey",
+    "eye_color": "brown",
+    "skin_color": "dark",
+    "homeworld_id": null,
+    "species_id": 1,
+    "affiliation": [
+      "Galactic Empire",
+      "Imperial Remnant"
+    ],
+    "rank": "Moff / ISB Director",
+    "force_sensitive": false,
+    "force_side": "none",
+    "midi_chlorian_count": null,
+    "lightsaber_colors": [],
+    "masters": [],
+    "apprentices": [],
+    "appearances": [
+      14
+    ],
+    "era": [
+      "New Republic Era"
+    ],
+    "status": "unknown",
+    "quote_id": null,
+    "canon": true,
+    "url": "http://localhost:3001/characters/38"
+  },
+  {
+    "id": 39,
+    "name": "Cassian Andor",
+    "birth_year": "26BBY",
+    "death_year": "0BBY",
+    "gender": "male",
+    "height": 178,
+    "mass": 75,
+    "hair_color": "black",
+    "eye_color": "brown",
+    "skin_color": "tan",
+    "homeworld_id": null,
+    "species_id": 1,
+    "affiliation": [
+      "Rebel Alliance",
+      "Fulcrum network",
+      "Ferrix community"
+    ],
+    "rank": "Captain / Spy",
+    "force_sensitive": false,
+    "force_side": "none",
+    "midi_chlorian_count": null,
+    "lightsaber_colors": [],
+    "masters": [],
+    "apprentices": [],
+    "appearances": [
+      10,
+      15
+    ],
+    "era": [
+      "Imperial Era",
+      "Age of Rebellion"
+    ],
+    "status": "deceased",
+    "quote_id": null,
+    "canon": true,
+    "url": "http://localhost:3001/characters/39"
+  },
+  {
+    "id": 40,
+    "name": "Jyn Erso",
+    "birth_year": "21BBY",
+    "death_year": "0BBY",
+    "gender": "female",
+    "height": 160,
+    "mass": null,
+    "hair_color": "brown",
+    "eye_color": "green",
+    "skin_color": "fair",
+    "homeworld_id": 38,
+    "species_id": 1,
+    "affiliation": [
+      "Rebel Alliance",
+      "Rogue One",
+      "Saw Gerrera's Partisans (former)"
+    ],
+    "rank": "Sergeant",
+    "force_sensitive": false,
+    "force_side": "none",
+    "midi_chlorian_count": null,
+    "lightsaber_colors": [],
+    "masters": [],
+    "apprentices": [],
+    "appearances": [
+      10
+    ],
+    "era": [
+      "Imperial Era",
+      "Age of Rebellion"
+    ],
+    "status": "deceased",
+    "quote_id": null,
+    "canon": true,
+    "url": "http://localhost:3001/characters/40"
+  },
+  {
+    "id": 41,
+    "name": "Kanan Jarrus",
+    "birth_year": "33BBY",
+    "death_year": "1BBY",
+    "gender": "male",
+    "height": 185,
+    "mass": 80,
+    "hair_color": "brown",
+    "eye_color": "blue-grey",
+    "skin_color": "fair",
+    "homeworld_id": null,
+    "species_id": 1,
+    "affiliation": [
+      "Jedi Order (former Padawan)",
+      "Rebel Alliance",
+      "Spectres crew",
+      "Ghost crew"
+    ],
+    "rank": "Jedi Knight / Rebel Commander",
+    "force_sensitive": true,
+    "force_side": "light",
+    "midi_chlorian_count": 13000,
+    "lightsaber_colors": [
+      "blue"
+    ],
+    "masters": [
+      "Depa Billaba"
+    ],
+    "apprentices": [
+      "Ezra Bridger"
+    ],
+    "appearances": [
+      13,
+      17
+    ],
+    "era": [
+      "Imperial Era",
+      "Age of Rebellion"
+    ],
+    "status": "deceased",
+    "quote_id": null,
+    "canon": true,
+    "url": "http://localhost:3001/characters/41"
+  },
+  {
+    "id": 42,
+    "name": "Ezra Bridger",
+    "birth_year": "19BBY",
+    "death_year": null,
+    "gender": "male",
+    "height": 170,
+    "mass": null,
+    "hair_color": "black",
+    "eye_color": "green",
+    "skin_color": "tan",
+    "homeworld_id": 17,
+    "species_id": 1,
+    "affiliation": [
+      "Rebel Alliance",
+      "Spectres crew",
+      "Ghost crew"
+    ],
+    "rank": "Jedi Knight",
+    "force_sensitive": true,
+    "force_side": "light",
+    "midi_chlorian_count": 13500,
+    "lightsaber_colors": [
+      "blue",
+      "green"
+    ],
+    "masters": [
+      "Kanan Jarrus",
+      "Ahsoka Tano (briefly)"
+    ],
+    "apprentices": [],
+    "appearances": [
+      13,
+      18
+    ],
+    "era": [
+      "Imperial Era",
+      "Age of Rebellion",
+      "New Republic Era"
+    ],
+    "status": "alive",
+    "quote_id": null,
+    "canon": true,
+    "url": "http://localhost:3001/characters/42"
+  },
+  {
+    "id": 43,
+    "name": "Sabine Wren",
+    "birth_year": "21BBY",
+    "death_year": null,
+    "gender": "female",
+    "height": 166,
+    "mass": null,
+    "hair_color": "multi-colored",
+    "eye_color": "brown",
+    "skin_color": "tan",
+    "homeworld_id": 16,
+    "species_id": 1,
+    "affiliation": [
+      "Rebel Alliance",
+      "Spectres crew",
+      "Mandalore",
+      "House Wren"
+    ],
+    "rank": "Mandalorian Warrior / Rebel",
+    "force_sensitive": true,
+    "force_side": "light",
+    "midi_chlorian_count": null,
+    "lightsaber_colors": [],
+    "masters": [
+      "Ahsoka Tano"
+    ],
+    "apprentices": [],
+    "appearances": [
+      13,
+      18
+    ],
+    "era": [
+      "Imperial Era",
+      "Age of Rebellion",
+      "New Republic Era"
+    ],
+    "status": "alive",
+    "quote_id": null,
+    "canon": true,
+    "url": "http://localhost:3001/characters/43"
+  },
+  {
+    "id": 44,
+    "name": "Hera Syndulla",
+    "birth_year": "29BBY",
+    "death_year": null,
+    "gender": "female",
+    "height": 168,
+    "mass": 54,
+    "hair_color": null,
+    "eye_color": "magenta",
+    "skin_color": "green",
+    "homeworld_id": 23,
+    "species_id": 3,
+    "affiliation": [
+      "Rebel Alliance",
+      "Spectres crew",
+      "Ghost crew",
+      "New Republic"
+    ],
+    "rank": "General",
+    "force_sensitive": false,
+    "force_side": "none",
+    "midi_chlorian_count": null,
+    "lightsaber_colors": [],
+    "masters": [],
+    "apprentices": [],
+    "appearances": [
+      13,
+      18
+    ],
+    "era": [
+      "Imperial Era",
+      "Age of Rebellion",
+      "New Republic Era"
+    ],
+    "status": "alive",
+    "quote_id": null,
+    "canon": true,
+    "url": "http://localhost:3001/characters/44"
+  },
+  {
+    "id": 45,
+    "name": "Saw Gerrera",
+    "birth_year": "52BBY",
+    "death_year": "0BBY",
+    "gender": "male",
+    "height": 180,
+    "mass": 80,
+    "hair_color": "none",
+    "eye_color": "brown",
+    "skin_color": "dark",
+    "homeworld_id": 35,
+    "species_id": 1,
+    "affiliation": [
+      "Rebel Alliance",
+      "Partisans",
+      "Onderon Resistance"
+    ],
+    "rank": "Partisan Leader",
+    "force_sensitive": false,
+    "force_side": "none",
+    "midi_chlorian_count": null,
+    "lightsaber_colors": [],
+    "masters": [],
+    "apprentices": [],
+    "appearances": [
+      10,
+      12,
+      13,
+      15
+    ],
+    "era": [
+      "Clone Wars",
+      "Imperial Era",
+      "Age of Rebellion"
+    ],
+    "status": "deceased",
+    "quote_id": null,
+    "canon": true,
+    "url": "http://localhost:3001/characters/45"
+  },
+  {
+    "id": 46,
+    "name": "Nien Nunb",
+    "birth_year": null,
+    "death_year": "34ABY",
+    "gender": "male",
+    "height": 160,
+    "mass": null,
+    "hair_color": null,
+    "eye_color": "black",
+    "skin_color": "pale grey",
+    "homeworld_id": 50,
+    "species_id": 19,
+    "affiliation": [
+      "Rebel Alliance",
+      "Resistance"
+    ],
+    "rank": "Co-pilot / Squadron Leader",
+    "force_sensitive": false,
+    "force_side": "none",
+    "midi_chlorian_count": null,
+    "lightsaber_colors": [],
+    "masters": [],
+    "apprentices": [],
+    "appearances": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "era": [
+      "Original Trilogy",
+      "Age of Rebellion",
+      "Sequel Trilogy"
+    ],
+    "status": "deceased",
+    "quote_id": null,
+    "canon": true,
+    "url": "http://localhost:3001/characters/46"
+  },
+  {
+    "id": 47,
+    "name": "Admiral Ackbar",
+    "birth_year": "41BBY",
+    "death_year": "34ABY",
+    "gender": "male",
+    "height": 180,
+    "mass": 83,
+    "hair_color": null,
+    "eye_color": "orange",
+    "skin_color": "salmon",
+    "homeworld_id": null,
+    "species_id": 10,
+    "affiliation": [
+      "Rebel Alliance",
+      "New Republic",
+      "Resistance"
+    ],
+    "rank": "Admiral",
+    "force_sensitive": false,
+    "force_side": "none",
+    "midi_chlorian_count": null,
+    "lightsaber_colors": [],
+    "masters": [],
+    "apprentices": [],
+    "appearances": [
+      6,
+      7,
+      8
+    ],
+    "era": [
+      "Original Trilogy",
+      "New Republic Era",
+      "Sequel Trilogy"
+    ],
+    "status": "deceased",
+    "quote_id": null,
+    "canon": true,
+    "url": "http://localhost:3001/characters/47"
+  },
+  {
+    "id": 48,
+    "name": "Luminara Unduli",
+    "birth_year": "58BBY",
+    "death_year": "19BBY",
+    "gender": "female",
+    "height": 170,
+    "mass": 56,
+    "hair_color": "black",
+    "eye_color": "pale blue",
+    "skin_color": "green",
+    "homeworld_id": null,
+    "species_id": 13,
+    "affiliation": [
+      "Jedi Order",
+      "Galactic Republic"
+    ],
+    "rank": "Jedi Master",
+    "force_sensitive": true,
+    "force_side": "light",
+    "midi_chlorian_count": 12500,
+    "lightsaber_colors": [
+      "green"
+    ],
+    "masters": [],
+    "apprentices": [
+      "Barriss Offee"
+    ],
+    "appearances": [
+      2,
+      3,
+      12,
+      17
+    ],
+    "era": [
+      "Prequel Trilogy",
+      "Clone Wars"
+    ],
+    "status": "deceased",
+    "quote_id": null,
+    "canon": true,
+    "url": "http://localhost:3001/characters/48"
+  },
+  {
+    "id": 49,
+    "name": "Barriss Offee",
+    "birth_year": "40BBY",
+    "death_year": null,
+    "gender": "female",
+    "height": 166,
+    "mass": null,
+    "hair_color": "black",
+    "eye_color": "blue",
+    "skin_color": "green",
+    "homeworld_id": null,
+    "species_id": 13,
+    "affiliation": [
+      "Jedi Order (fallen)",
+      "Galactic Republic"
+    ],
+    "rank": "Jedi Padawan / Fallen Jedi",
+    "force_sensitive": true,
+    "force_side": "dark",
+    "midi_chlorian_count": 12000,
+    "lightsaber_colors": [
+      "blue"
+    ],
+    "masters": [
+      "Luminara Unduli"
+    ],
+    "apprentices": [],
+    "appearances": [
+      2,
+      12
+    ],
+    "era": [
+      "Prequel Trilogy",
+      "Clone Wars"
+    ],
+    "status": "unknown",
+    "quote_id": null,
+    "canon": true,
+    "url": "http://localhost:3001/characters/49"
+  },
+  {
+    "id": 50,
+    "name": "Asajj Ventress",
+    "birth_year": "50BBY",
+    "death_year": "20BBY",
+    "gender": "female",
+    "height": 178,
+    "mass": 56,
+    "hair_color": "none",
+    "eye_color": "grey",
+    "skin_color": "pale",
+    "homeworld_id": 48,
+    "species_id": 39,
+    "affiliation": [
+      "Sith (former)",
+      "Nightsisters",
+      "Count Dooku (former)",
+      "Bounty Hunters Guild"
+    ],
+    "rank": "Sith Assassin / Nightsister / Bounty Hunter",
+    "force_sensitive": true,
+    "force_side": "dark",
+    "midi_chlorian_count": 13200,
+    "lightsaber_colors": [
+      "red",
+      "white"
+    ],
+    "masters": [
+      "Ky Narec",
+      "Count Dooku"
+    ],
+    "apprentices": [],
+    "appearances": [
+      12
+    ],
+    "era": [
+      "Clone Wars"
+    ],
+    "status": "deceased",
+    "quote_id": null,
+    "canon": true,
+    "url": "http://localhost:3001/characters/50"
+  },
+  {
+    "id": 51,
+    "name": "Darth Maul",
+    "birth_year": "54BBY",
+    "death_year": "2BBY",
+    "gender": "male",
+    "height": 175,
+    "mass": 80,
+    "hair_color": "none",
+    "eye_color": "yellow",
+    "skin_color": "red, black tattoos",
+    "homeworld_id": 48,
+    "species_id": 5,
+    "affiliation": [
+      "Sith",
+      "Death Watch",
+      "Crimson Dawn",
+      "Shadow Collective"
+    ],
+    "rank": "Sith Apprentice / Crime Lord",
+    "force_sensitive": true,
+    "force_side": "dark",
+    "midi_chlorian_count": 12000,
+    "lightsaber_colors": [
+      "red"
+    ],
+    "masters": [
+      "Darth Sidious"
+    ],
+    "apprentices": [
+      "Savage Opress"
+    ],
+    "appearances": [
+      1,
+      3,
+      11,
+      12,
+      13
+    ],
+    "era": [
+      "Prequel Trilogy",
+      "Clone Wars",
+      "Age of Rebellion"
+    ],
+    "status": "deceased",
+    "quote_id": null,
+    "canon": true,
+    "url": "http://localhost:3001/characters/51"
+  },
+  {
+    "id": 52,
+    "name": "Aayla Secura",
+    "birth_year": "48BBY",
+    "death_year": "19BBY",
+    "gender": "female",
+    "height": 170,
+    "mass": 55,
+    "hair_color": null,
+    "eye_color": "blue",
+    "skin_color": "blue",
+    "homeworld_id": 23,
+    "species_id": 3,
+    "affiliation": [
+      "Jedi Order",
+      "Galactic Republic"
+    ],
+    "rank": "Jedi Master",
+    "force_sensitive": true,
+    "force_side": "light",
+    "midi_chlorian_count": 13000,
+    "lightsaber_colors": [
+      "blue"
+    ],
+    "masters": [
+      "Quinlan Vos"
+    ],
+    "apprentices": [],
+    "appearances": [
+      2,
+      3,
+      12
+    ],
+    "era": [
+      "Prequel Trilogy",
+      "Clone Wars"
+    ],
+    "status": "deceased",
+    "quote_id": null,
+    "canon": true,
+    "url": "http://localhost:3001/characters/52"
+  }
+]

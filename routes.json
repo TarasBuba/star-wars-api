@@ -1,0 +1,22 @@
+{
+  "/api/v1/*": "/$1",
+  "/api/v1/characters/:id/films": "/films?characters_like=:id",
+  "/api/v1/characters/:id/weapons": "/weapons?owner_id=:id",
+  "/api/v1/characters/:id/quotes": "/quotes?character_id=:id",
+  "/api/v1/planets/:id/characters": "/characters?homeworld_id=:id",
+  "/api/v1/planets/:id/species": "/species?homeworld_id=:id",
+  "/api/v1/planets/:id/events": "/events?location_id=:id",
+  "/api/v1/films/:id/characters": "/characters?appearances_like=:id",
+  "/api/v1/films/:id/quotes": "/quotes?film_id=:id",
+  "/api/v1/films/:id/events": "/events?film_id=:id",
+  "/api/v1/organizations/:id/members": "/characters?affiliation_like=:id",
+  "/api/v1/species/:id/characters": "/characters?species_id=:id",
+  "/api/v1/starships/:id/pilots": "/characters?id_like=:id",
+  "/api/v1/weapons/lightsabers": "/weapons?type=lightsaber",
+  "/api/v1/events/battles": "/events?type=battle",
+  "/api/v1/events/galaxy-changing": "/events?significance=galaxy_changing",
+  "/api/v1/quotes/iconic": "/quotes?is_iconic=true",
+  "/api/v1/characters/force-users": "/characters?force_sensitive=true",
+  "/api/v1/characters/dark-side": "/characters?force_side=dark",
+  "/api/v1/characters/light-side": "/characters?force_side=light"
+}

@@ -1,0 +1,607 @@
+[
+  {
+    "id": 1,
+    "name": "Millennium Falcon",
+    "model": "YT-1300f light freighter",
+    "manufacturer": "Corellian Engineering Corporation",
+    "class": "Light freighter",
+    "cost_in_credits": 100000,
+    "length": 34.37,
+    "max_atmosphering_speed": 1050,
+    "crew": 4,
+    "passengers": 6,
+    "cargo_capacity": 100000,
+    "consumables": "2 months",
+    "hyperdrive_rating": 0.5,
+    "MGLT": 75,
+    "starship_class": "light freighter",
+    "armament": [
+      "Quad laser cannons (2x)",
+      "Concussion missile tubes",
+      "Turret-mounted blaster cannons"
+    ],
+    "affiliation": [
+      "Rebel Alliance",
+      "Resistance"
+    ],
+    "pilots": [
+      17,
+      19,
+      20,
+      23
+    ],
+    "canon": true,
+    "url": "http://localhost:3001/starships/1"
+  },
+  {
+    "id": 2,
+    "name": "X-Wing Starfighter",
+    "model": "T-65B X-wing",
+    "manufacturer": "Incom Corporation",
+    "class": "Starfighter",
+    "cost_in_credits": 150000,
+    "length": 12.5,
+    "max_atmosphering_speed": 1050,
+    "crew": 1,
+    "passengers": 0,
+    "cargo_capacity": 110,
+    "consumables": "1 week",
+    "hyperdrive_rating": 1.0,
+    "MGLT": 100,
+    "starship_class": "starfighter",
+    "armament": [
+      "Laser cannons (4x)",
+      "Proton torpedo launchers (2x)"
+    ],
+    "affiliation": [
+      "Rebel Alliance",
+      "Resistance"
+    ],
+    "pilots": [
+      17,
+      27
+    ],
+    "canon": true,
+    "url": "http://localhost:3001/starships/2"
+  },
+  {
+    "id": 3,
+    "name": "TIE Fighter",
+    "model": "Twin Ion Engine/Ln Starfighter",
+    "manufacturer": "Sienar Fleet Systems",
+    "class": "Starfighter",
+    "cost_in_credits": 60000,
+    "length": 6.3,
+    "max_atmosphering_speed": 1200,
+    "crew": 1,
+    "passengers": 0,
+    "cargo_capacity": null,
+    "consumables": "2 days",
+    "hyperdrive_rating": null,
+    "MGLT": 100,
+    "starship_class": "starfighter",
+    "armament": [
+      "Laser cannons (2x)"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "First Order"
+    ],
+    "pilots": [],
+    "canon": true,
+    "url": "http://localhost:3001/starships/3"
+  },
+  {
+    "id": 4,
+    "name": "Imperial Star Destroyer",
+    "model": "Imperial I-class Star Destroyer",
+    "manufacturer": "Kuat Drive Yards",
+    "class": "Star Destroyer",
+    "cost_in_credits": 150000000,
+    "length": 1600.0,
+    "max_atmosphering_speed": 975,
+    "crew": 37085,
+    "passengers": 9700,
+    "cargo_capacity": 36000000,
+    "consumables": "6 years",
+    "hyperdrive_rating": 2.0,
+    "MGLT": 60,
+    "starship_class": "Star Destroyer",
+    "armament": [
+      "Turbolaser batteries (60x)",
+      "Ion cannons (60x)",
+      "Tractor beam projectors (10x)",
+      "Proton torpedo tubes"
+    ],
+    "affiliation": [
+      "Galactic Empire"
+    ],
+    "pilots": [],
+    "canon": true,
+    "url": "http://localhost:3001/starships/4"
+  },
+  {
+    "id": 5,
+    "name": "Death Star",
+    "model": "DS-1 Orbital Battle Station",
+    "manufacturer": "Imperial Department of Military Research / Geonosians",
+    "class": "Battle Station",
+    "cost_in_credits": 1000000000000,
+    "length": 160000.0,
+    "max_atmosphering_speed": null,
+    "crew": 342953,
+    "passengers": 843342,
+    "cargo_capacity": 1000000000000,
+    "consumables": "3 years",
+    "hyperdrive_rating": 4.0,
+    "MGLT": 10,
+    "starship_class": "Deep Space Mobile Battlestation",
+    "armament": [
+      "Superlaser (planet-destroying)",
+      "Turbolasers (10000+)",
+      "Ion cannons",
+      "Tractor beams",
+      "Laser cannons"
+    ],
+    "affiliation": [
+      "Galactic Empire"
+    ],
+    "pilots": [],
+    "canon": true,
+    "url": "http://localhost:3001/starships/5"
+  },
+  {
+    "id": 6,
+    "name": "Slave I",
+    "model": "Firespray-31-class patrol and attack craft",
+    "manufacturer": "Kuat Systems Engineering",
+    "class": "Patrol craft",
+    "cost_in_credits": null,
+    "length": 21.5,
+    "max_atmosphering_speed": 1000,
+    "crew": 1,
+    "passengers": 6,
+    "cargo_capacity": 2000,
+    "consumables": "1 month",
+    "hyperdrive_rating": 3.0,
+    "MGLT": 70,
+    "starship_class": "Patrol and attack craft",
+    "armament": [
+      "Blaster cannons (2x)",
+      "Seismic charge launcher",
+      "Concussion missile launcher",
+      "Ion cannons"
+    ],
+    "affiliation": [
+      "Bounty Hunters Guild",
+      "Hutt Cartel"
+    ],
+    "pilots": [
+      24
+    ],
+    "canon": true,
+    "url": "http://localhost:3001/starships/6"
+  },
+  {
+    "id": 7,
+    "name": "Naboo Royal Starship",
+    "model": "J-type 327 Nubian royal starship",
+    "manufacturer": "Theed Palace Space Vessel Engineering Corps",
+    "class": "Royal yacht",
+    "cost_in_credits": null,
+    "length": 76.0,
+    "max_atmosphering_speed": 920,
+    "crew": 8,
+    "passengers": null,
+    "cargo_capacity": null,
+    "consumables": "None",
+    "hyperdrive_rating": 1.8,
+    "MGLT": null,
+    "starship_class": "diplomatic transport",
+    "armament": [],
+    "affiliation": [
+      "Naboo Royal House",
+      "Galactic Republic"
+    ],
+    "pilots": [
+      4,
+      21
+    ],
+    "canon": true,
+    "url": "http://localhost:3001/starships/7"
+  },
+  {
+    "id": 8,
+    "name": "Venator-class Star Destroyer",
+    "model": "Venator-class Star Destroyer",
+    "manufacturer": "Kuat Drive Yards",
+    "class": "Star Destroyer",
+    "cost_in_credits": 59000000,
+    "length": 1137.0,
+    "max_atmosphering_speed": 975,
+    "crew": 7400,
+    "passengers": 2000,
+    "cargo_capacity": 40000,
+    "consumables": "2 years",
+    "hyperdrive_rating": 1.0,
+    "MGLT": null,
+    "starship_class": "Star Destroyer / Carrier",
+    "armament": [
+      "DBY-827 heavy turbolaser turrets (8x)",
+      "Medium dual turbolaser cannons (2x)",
+      "Point-defense laser cannons",
+      "Proton torpedo tubes",
+      "Tractor beam projectors"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Grand Army of the Republic"
+    ],
+    "pilots": [],
+    "canon": true,
+    "url": "http://localhost:3001/starships/8"
+  },
+  {
+    "id": 9,
+    "name": "Razor Crest",
+    "model": "ST-70 Assault Ship",
+    "manufacturer": "Amalgamated Hyperdyne",
+    "class": "Gunship",
+    "cost_in_credits": null,
+    "length": 14.3,
+    "max_atmosphering_speed": 500,
+    "crew": 1,
+    "passengers": 2,
+    "cargo_capacity": null,
+    "consumables": "2 months",
+    "hyperdrive_rating": null,
+    "MGLT": null,
+    "starship_class": "gunship",
+    "armament": [
+      "Laser cannons (2x)"
+    ],
+    "affiliation": [
+      "Independent"
+    ],
+    "pilots": [
+      35
+    ],
+    "canon": true,
+    "url": "http://localhost:3001/starships/9"
+  },
+  {
+    "id": 10,
+    "name": "Ghost",
+    "model": "VCX-100 light freighter",
+    "manufacturer": "Corellian Engineering Corporation",
+    "class": "Light freighter",
+    "cost_in_credits": null,
+    "length": 43.9,
+    "max_atmosphering_speed": 1025,
+    "crew": 2,
+    "passengers": 4,
+    "cargo_capacity": null,
+    "consumables": "3 months",
+    "hyperdrive_rating": 1.0,
+    "MGLT": null,
+    "starship_class": "light freighter",
+    "armament": [
+      "Dorsal laser cannon turret",
+      "Rear-mounted laser cannons",
+      "Nose-mounted laser cannons"
+    ],
+    "affiliation": [
+      "Rebel Alliance",
+      "Spectres"
+    ],
+    "pilots": [
+      41,
+      44
+    ],
+    "canon": true,
+    "url": "http://localhost:3001/starships/10"
+  },
+  {
+    "id": 11,
+    "name": "Separatist Dreadnought",
+    "model": "Subjugator-class heavy cruiser",
+    "manufacturer": "Free Dac Volunteers Engineering Corps",
+    "class": "Heavy cruiser",
+    "cost_in_credits": null,
+    "length": 4845.0,
+    "max_atmosphering_speed": null,
+    "crew": 900,
+    "passengers": null,
+    "cargo_capacity": null,
+    "consumables": "2 years",
+    "hyperdrive_rating": 1.0,
+    "MGLT": null,
+    "starship_class": "heavy cruiser",
+    "armament": [
+      "Ion cannons (2x — capital ship–grade)",
+      "Turbolaser batteries",
+      "Laser cannons"
+    ],
+    "affiliation": [
+      "Confederacy of Independent Systems"
+    ],
+    "pilots": [
+      9
+    ],
+    "canon": true,
+    "url": "http://localhost:3001/starships/11"
+  },
+  {
+    "id": 12,
+    "name": "Darth Vader's TIE Advanced x1",
+    "model": "TIE Advanced x1",
+    "manufacturer": "Sienar Fleet Systems",
+    "class": "Starfighter",
+    "cost_in_credits": null,
+    "length": 9.2,
+    "max_atmosphering_speed": 1200,
+    "crew": 1,
+    "passengers": 0,
+    "cargo_capacity": null,
+    "consumables": "5 days",
+    "hyperdrive_rating": 4.0,
+    "MGLT": 105,
+    "starship_class": "starfighter",
+    "armament": [
+      "Laser cannons (2x)",
+      "Cluster missiles"
+    ],
+    "affiliation": [
+      "Galactic Empire"
+    ],
+    "pilots": [
+      1
+    ],
+    "canon": true,
+    "url": "http://localhost:3001/starships/12"
+  },
+  {
+    "id": 13,
+    "name": "Mon Calamari Star Cruiser",
+    "model": "MC80 Liberty type Star Cruiser",
+    "manufacturer": "Mon Calamari Shipyards",
+    "class": "Star Cruiser",
+    "cost_in_credits": null,
+    "length": 1200.0,
+    "max_atmosphering_speed": null,
+    "crew": 5000,
+    "passengers": 1200,
+    "cargo_capacity": null,
+    "consumables": "2 years",
+    "hyperdrive_rating": 1.0,
+    "MGLT": null,
+    "starship_class": "Star Cruiser",
+    "armament": [
+      "Turbolaser batteries (48x)",
+      "Ion cannons (20x)",
+      "Tractor beam projectors (6x)"
+    ],
+    "affiliation": [
+      "Rebel Alliance",
+      "New Republic"
+    ],
+    "pilots": [
+      47
+    ],
+    "canon": true,
+    "url": "http://localhost:3001/starships/13"
+  },
+  {
+    "id": 14,
+    "name": "Invisible Hand",
+    "model": "Providence-class Dreadnought",
+    "manufacturer": "Free Dac Volunteers Engineering Corps / Pammant Docks",
+    "class": "Dreadnought",
+    "cost_in_credits": null,
+    "length": 1088.0,
+    "max_atmosphering_speed": null,
+    "crew": 600,
+    "passengers": 300,
+    "cargo_capacity": 50000,
+    "consumables": "4 years",
+    "hyperdrive_rating": 1.5,
+    "MGLT": null,
+    "starship_class": "cruiser-carrier",
+    "armament": [
+      "Dual turbolaser cannons (14x)",
+      "Point-defense laser cannons (34x)",
+      "Tractor beam projectors (2x)"
+    ],
+    "affiliation": [
+      "Confederacy of Independent Systems"
+    ],
+    "pilots": [
+      9
+    ],
+    "canon": true,
+    "url": "http://localhost:3001/starships/14"
+  },
+  {
+    "id": 15,
+    "name": "Naboo N-1 Starfighter",
+    "model": "N-1 Naboo starfighter",
+    "manufacturer": "Theed Palace Space Vessel Engineering Corps",
+    "class": "Starfighter",
+    "cost_in_credits": null,
+    "length": 11.0,
+    "max_atmosphering_speed": 1100,
+    "crew": 1,
+    "passengers": 0,
+    "cargo_capacity": null,
+    "consumables": "7 days",
+    "hyperdrive_rating": null,
+    "MGLT": null,
+    "starship_class": "starfighter",
+    "armament": [
+      "Laser cannons (2x)",
+      "Proton torpedo launcher"
+    ],
+    "affiliation": [
+      "Naboo Royal House",
+      "Galactic Republic",
+      "Independent (Mando era)"
+    ],
+    "pilots": [
+      4,
+      35
+    ],
+    "canon": true,
+    "url": "http://localhost:3001/starships/15"
+  },
+  {
+    "id": 16,
+    "name": "Executor",
+    "model": "Executor-class Star Dreadnought",
+    "manufacturer": "Kuat Drive Yards",
+    "class": "Super Star Destroyer",
+    "cost_in_credits": null,
+    "length": 19000.0,
+    "max_atmosphering_speed": null,
+    "crew": 280784,
+    "passengers": 38000,
+    "cargo_capacity": 250000000,
+    "consumables": "6 years",
+    "hyperdrive_rating": 2.0,
+    "MGLT": 40,
+    "starship_class": "Star Dreadnought",
+    "armament": [
+      "Turbolaser batteries (2000+)",
+      "Ion cannons",
+      "Tractor beam projectors",
+      "Assault concussion missile tubes"
+    ],
+    "affiliation": [
+      "Galactic Empire"
+    ],
+    "pilots": [
+      1,
+      5
+    ],
+    "canon": true,
+    "url": "http://localhost:3001/starships/16"
+  },
+  {
+    "id": 17,
+    "name": "Tantive IV",
+    "model": "CR90 corvette",
+    "manufacturer": "Corellian Engineering Corporation",
+    "class": "Corvette",
+    "cost_in_credits": 3500000,
+    "length": 150.0,
+    "max_atmosphering_speed": 950,
+    "crew": 165,
+    "passengers": 600,
+    "cargo_capacity": 3000000,
+    "consumables": "1 year",
+    "hyperdrive_rating": 2.0,
+    "MGLT": 60,
+    "starship_class": "blockade runner",
+    "armament": [
+      "Taim & Bak H9 turbolasers (2x)",
+      "Borstel RH8 laser cannons (4x)"
+    ],
+    "affiliation": [
+      "Rebel Alliance",
+      "Alderaan Royal House"
+    ],
+    "pilots": [
+      18,
+      21
+    ],
+    "canon": true,
+    "url": "http://localhost:3001/starships/17"
+  },
+  {
+    "id": 18,
+    "name": "Resistance X-Wing (T-70)",
+    "model": "T-70 X-wing fighter",
+    "manufacturer": "Incom-FreiTek",
+    "class": "Starfighter",
+    "cost_in_credits": null,
+    "length": 12.49,
+    "max_atmosphering_speed": 1000,
+    "crew": 1,
+    "passengers": 0,
+    "cargo_capacity": null,
+    "consumables": "1 week",
+    "hyperdrive_rating": 0.5,
+    "MGLT": null,
+    "starship_class": "starfighter",
+    "armament": [
+      "Laser cannons (4x)",
+      "Proton torpedo launchers"
+    ],
+    "affiliation": [
+      "Resistance"
+    ],
+    "pilots": [
+      32
+    ],
+    "canon": true,
+    "url": "http://localhost:3001/starships/18"
+  },
+  {
+    "id": 19,
+    "name": "Starkiller Base",
+    "model": "Starkiller Base",
+    "manufacturer": "First Order",
+    "class": "Battle Station",
+    "cost_in_credits": null,
+    "length": null,
+    "max_atmosphering_speed": null,
+    "crew": null,
+    "passengers": null,
+    "cargo_capacity": null,
+    "consumables": null,
+    "hyperdrive_rating": null,
+    "MGLT": null,
+    "starship_class": "superweapon",
+    "armament": [
+      "Thermal oscillator (star-killing superweapon)",
+      "Turbolaser batteries",
+      "Planetary shield"
+    ],
+    "affiliation": [
+      "First Order"
+    ],
+    "pilots": [],
+    "canon": true,
+    "url": "http://localhost:3001/starships/19"
+  },
+  {
+    "id": 20,
+    "name": "Jedi Interceptor (Eta-2)",
+    "model": "Eta-2 Actis-class light interceptor",
+    "manufacturer": "Kuat Systems Engineering",
+    "class": "Starfighter",
+    "cost_in_credits": null,
+    "length": 5.47,
+    "max_atmosphering_speed": 1500,
+    "crew": 1,
+    "passengers": 0,
+    "cargo_capacity": null,
+    "consumables": "2 days",
+    "hyperdrive_rating": null,
+    "MGLT": null,
+    "starship_class": "interceptor",
+    "armament": [
+      "Laser cannons (2x)",
+      "Ion cannons (2x)"
+    ],
+    "affiliation": [
+      "Jedi Order",
+      "Galactic Republic"
+    ],
+    "pilots": [
+      1,
+      2
+    ],
+    "canon": true,
+    "url": "http://localhost:3001/starships/20"
+  }
+]

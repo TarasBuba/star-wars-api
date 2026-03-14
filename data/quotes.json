@@ -1,0 +1,552 @@
+[
+  {
+    "id": 1,
+    "text": "May the Force be with you.",
+    "character_id": 2,
+    "film_id": 4,
+    "context": "Obi-Wan's farewell blessing before the Battle of Yavin — became the eternal motto of the Jedi and the Rebellion",
+    "is_iconic": true,
+    "canon": true,
+    "url": "http://localhost:3001/quotes/1"
+  },
+  {
+    "id": 2,
+    "text": "No. I am your father.",
+    "character_id": 1,
+    "film_id": 5,
+    "context": "Darth Vader reveals his true identity to Luke Skywalker in the carbon-freezing chamber of Cloud City",
+    "is_iconic": true,
+    "canon": true,
+    "url": "http://localhost:3001/quotes/2"
+  },
+  {
+    "id": 3,
+    "text": "Do. Or do not. There is no try.",
+    "character_id": 3,
+    "film_id": 5,
+    "context": "Yoda instructs Luke during his Jedi training on Dagobah when Luke doubts his ability to lift his X-Wing",
+    "is_iconic": true,
+    "canon": true,
+    "url": "http://localhost:3001/quotes/3"
+  },
+  {
+    "id": 4,
+    "text": "Help me, Obi-Wan Kenobi. You're my only hope.",
+    "character_id": 18,
+    "film_id": 4,
+    "context": "Princess Leia's holographic message hidden inside R2-D2, recorded before her capture by Darth Vader",
+    "is_iconic": true,
+    "canon": true,
+    "url": "http://localhost:3001/quotes/4"
+  },
+  {
+    "id": 5,
+    "text": "It's a trap!",
+    "character_id": 47,
+    "film_id": 6,
+    "context": "Admiral Ackbar realizes the Rebel fleet has flown into an Imperial ambush above the Forest Moon of Endor",
+    "is_iconic": true,
+    "canon": true,
+    "url": "http://localhost:3001/quotes/5"
+  },
+  {
+    "id": 6,
+    "text": "I find your lack of faith disturbing.",
+    "character_id": 1,
+    "film_id": 4,
+    "context": "Darth Vader Force-chokes Admiral Motti aboard the Death Star after he mocks the power of the Force",
+    "is_iconic": true,
+    "canon": true,
+    "url": "http://localhost:3001/quotes/6"
+  },
+  {
+    "id": 7,
+    "text": "The Force will be with you. Always.",
+    "character_id": 2,
+    "film_id": 4,
+    "context": "Obi-Wan Kenobi's final words to Luke as a physical being, moments before he allows Vader to strike him down",
+    "is_iconic": true,
+    "canon": true,
+    "url": "http://localhost:3001/quotes/7"
+  },
+  {
+    "id": 8,
+    "text": "Never tell me the odds.",
+    "character_id": 19,
+    "film_id": 5,
+    "context": "Han Solo dismisses C-3PO's calculation of the near-impossible odds of surviving the Hoth asteroid field",
+    "is_iconic": true,
+    "canon": true,
+    "url": "http://localhost:3001/quotes/8"
+  },
+  {
+    "id": 9,
+    "text": "So this is how liberty dies — with thunderous applause.",
+    "character_id": 4,
+    "film_id": 3,
+    "context": "Padmé watches in horror as the entire Galactic Senate erupts in celebration of Palpatine declaring the Galactic Empire",
+    "is_iconic": true,
+    "canon": true,
+    "url": "http://localhost:3001/quotes/9"
+  },
+  {
+    "id": 10,
+    "text": "I am the Senate.",
+    "character_id": 5,
+    "film_id": 3,
+    "context": "Palpatine responds to Mace Windu's declaration that the Senate will decide his fate — a chilling assertion of absolute power",
+    "is_iconic": true,
+    "canon": true,
+    "url": "http://localhost:3001/quotes/10"
+  },
+  {
+    "id": 11,
+    "text": "You were the Chosen One! It was said that you would destroy the Sith, not join them!",
+    "character_id": 2,
+    "film_id": 3,
+    "context": "Obi-Wan's anguished cry on the shores of Mustafar after defeating Anakin — the culmination of their brotherly bond",
+    "is_iconic": true,
+    "canon": true,
+    "url": "http://localhost:3001/quotes/11"
+  },
+  {
+    "id": 12,
+    "text": "Fear is the path to the dark side. Fear leads to anger, anger leads to hate, hate leads to suffering.",
+    "character_id": 3,
+    "film_id": 1,
+    "context": "Yoda warns the Jedi Council about young Anakin Skywalker's fear regarding his mother on Tatooine",
+    "is_iconic": true,
+    "canon": true,
+    "url": "http://localhost:3001/quotes/12"
+  },
+  {
+    "id": 13,
+    "text": "The dark side of the Force is a pathway to many abilities some consider to be unnatural.",
+    "character_id": 5,
+    "film_id": 3,
+    "context": "Palpatine seduces Anakin at the opera on Coruscant, hinting at the secret of cheating death",
+    "is_iconic": true,
+    "canon": true,
+    "url": "http://localhost:3001/quotes/13"
+  },
+  {
+    "id": 14,
+    "text": "This is the Way.",
+    "character_id": 35,
+    "film_id": 14,
+    "context": "The sacred oath and acknowledgment of the Mandalorian Creed, repeated throughout Din Djarin's journey",
+    "is_iconic": true,
+    "canon": true,
+    "url": "http://localhost:3001/quotes/14"
+  },
+  {
+    "id": 15,
+    "text": "I am no Jedi.",
+    "character_id": 10,
+    "film_id": 13,
+    "context": "Ahsoka Tano faces Darth Vader on Malachor, rejecting the identity that once defined her — a moment of profound self-determination",
+    "is_iconic": true,
+    "canon": true,
+    "url": "http://localhost:3001/quotes/15"
+  },
+  {
+    "id": 16,
+    "text": "Your focus determines your reality.",
+    "character_id": 7,
+    "film_id": 1,
+    "context": "Qui-Gon Jinn counsels young Anakin Skywalker on Tatooine before the Boonta Eve Podrace",
+    "is_iconic": true,
+    "canon": true,
+    "url": "http://localhost:3001/quotes/16"
+  },
+  {
+    "id": 17,
+    "text": "Rebellions are built on hope.",
+    "character_id": 40,
+    "film_id": 10,
+    "context": "Jyn Erso rallies the Rebel council on Yavin 4, inspiring them to attempt the impossible theft of the Death Star plans",
+    "is_iconic": true,
+    "canon": true,
+    "url": "http://localhost:3001/quotes/17"
+  },
+  {
+    "id": 18,
+    "text": "Be careful not to choke on your aspirations.",
+    "character_id": 1,
+    "film_id": 10,
+    "context": "Darth Vader Force-chokes Director Krennic on the beach of Scarif — a cold, darkly ironic remark",
+    "is_iconic": true,
+    "canon": true,
+    "url": "http://localhost:3001/quotes/18"
+  },
+  {
+    "id": 19,
+    "text": "Only a Sith deals in absolutes.",
+    "character_id": 2,
+    "film_id": 3,
+    "context": "Obi-Wan confronts Anakin on Mustafar after Anakin declares anyone who is not with him is his enemy",
+    "is_iconic": true,
+    "canon": true,
+    "url": "http://localhost:3001/quotes/19"
+  },
+  {
+    "id": 20,
+    "text": "When nine hundred years old you reach, look as good you will not, hmm?",
+    "character_id": 3,
+    "film_id": 6,
+    "context": "Yoda's final words to Luke on Dagobah, a flash of his characteristic humor even in his dying moments",
+    "is_iconic": true,
+    "canon": true,
+    "url": "http://localhost:3001/quotes/20"
+  },
+  {
+    "id": 21,
+    "text": "I know.",
+    "character_id": 19,
+    "film_id": 5,
+    "context": "Han Solo's iconic response to Leia's 'I love you' as he is lowered into the carbon-freezing chamber — calm defiance in the face of death",
+    "is_iconic": true,
+    "canon": true,
+    "url": "http://localhost:3001/quotes/21"
+  },
+  {
+    "id": 22,
+    "text": "Do it.",
+    "character_id": 5,
+    "film_id": 3,
+    "context": "Palpatine urges Anakin to execute the disarmed Count Dooku — testing his willingness to murder in cold blood",
+    "is_iconic": true,
+    "canon": true,
+    "url": "http://localhost:3001/quotes/22"
+  },
+  {
+    "id": 23,
+    "text": "I am a Jedi, like my father before me.",
+    "character_id": 17,
+    "film_id": 6,
+    "context": "Luke refuses to turn to the dark side before Emperor Palpatine, asserting his identity and his father's redeemable light",
+    "is_iconic": true,
+    "canon": true,
+    "url": "http://localhost:3001/quotes/23"
+  },
+  {
+    "id": 24,
+    "text": "I've got a bad feeling about this.",
+    "character_id": 19,
+    "film_id": 4,
+    "context": "Han Solo voices the galaxy's most repeated premonition aboard the Millennium Falcon approaching the Death Star",
+    "is_iconic": true,
+    "canon": true,
+    "url": "http://localhost:3001/quotes/24"
+  },
+  {
+    "id": 25,
+    "text": "These aren't the droids you're looking for.",
+    "character_id": 2,
+    "film_id": 4,
+    "context": "Obi-Wan uses a Jedi mind trick on a stormtrooper checkpoint in Mos Eisley — the definitive demonstration of the Force's subtle power",
+    "is_iconic": true,
+    "canon": true,
+    "url": "http://localhost:3001/quotes/25"
+  },
+  {
+    "id": 26,
+    "text": "Size matters not. Look at me. Judge me by my size, do you?",
+    "character_id": 3,
+    "film_id": 5,
+    "context": "Yoda rebukes Luke's doubt about lifting the X-Wing from the Dagobah swamp — then effortlessly does it himself",
+    "is_iconic": true,
+    "canon": true,
+    "url": "http://localhost:3001/quotes/26"
+  },
+  {
+    "id": 27,
+    "text": "Let the past die. Kill it, if you have to.",
+    "character_id": 30,
+    "film_id": 8,
+    "context": "Kylo Ren urges Rey to abandon her attachment to the past and join him in reshaping the galaxy — a reflection of his own inner conflict",
+    "is_iconic": true,
+    "canon": true,
+    "url": "http://localhost:3001/quotes/27"
+  },
+  {
+    "id": 28,
+    "text": "The greatest teacher, failure is.",
+    "character_id": 3,
+    "film_id": 8,
+    "context": "Force ghost Yoda appears to Luke on Ahch-To and burns the Jedi tree, teaching him that loss is the beginning of wisdom",
+    "is_iconic": true,
+    "canon": true,
+    "url": "http://localhost:3001/quotes/28"
+  },
+  {
+    "id": 29,
+    "text": "Luminous beings are we — not this crude matter.",
+    "character_id": 3,
+    "film_id": 5,
+    "context": "Yoda pinches Luke's shoulder during his Dagobah training, illustrating that the Force transcends the physical body",
+    "is_iconic": true,
+    "canon": true,
+    "url": "http://localhost:3001/quotes/29"
+  },
+  {
+    "id": 30,
+    "text": "Good. Good. Let the hate flow through you.",
+    "character_id": 5,
+    "film_id": 6,
+    "context": "Emperor Palpatine encourages Luke's anger during his duel with Vader aboard the second Death Star",
+    "is_iconic": true,
+    "canon": true,
+    "url": "http://localhost:3001/quotes/30"
+  },
+  {
+    "id": 31,
+    "text": "Hello there!",
+    "character_id": 2,
+    "film_id": 3,
+    "context": "Obi-Wan Kenobi's breezy greeting to General Grievous after a dramatic drop from the ceiling of the Utapau sinkhole — became the internet's most beloved Star Wars meme",
+    "is_iconic": true,
+    "canon": true,
+    "url": "http://localhost:3001/quotes/31"
+  },
+  {
+    "id": 32,
+    "text": "General Kenobi. You are a bold one.",
+    "character_id": 9,
+    "film_id": 3,
+    "context": "General Grievous responds to Obi-Wan's audacious solo appearance on Utapau — the canonical complement to the 'Hello there' meme",
+    "is_iconic": true,
+    "canon": true,
+    "url": "http://localhost:3001/quotes/32"
+  },
+  {
+    "id": 33,
+    "text": "The odds of successfully navigating an asteroid field are approximately three thousand seven hundred and twenty to one.",
+    "character_id": 22,
+    "film_id": 5,
+    "context": "C-3PO frantically warns Han Solo about the astronomical odds against flying through the Hoth asteroid field",
+    "is_iconic": true,
+    "canon": true,
+    "url": "http://localhost:3001/quotes/33"
+  },
+  {
+    "id": 34,
+    "text": "The more you tighten your grip, Tarkin, the more star systems will slip through your fingers.",
+    "character_id": 18,
+    "film_id": 4,
+    "context": "Princess Leia defies Grand Moff Tarkin aboard the Death Star, predicting that Imperial oppression will only fuel the Rebellion",
+    "is_iconic": true,
+    "canon": true,
+    "url": "http://localhost:3001/quotes/34"
+  },
+  {
+    "id": 35,
+    "text": "Fear will keep the local systems in line. Fear of this battle station.",
+    "character_id": 25,
+    "film_id": 4,
+    "context": "Grand Moff Tarkin dismisses the Imperial Senate and reveals his strategy of ruling the galaxy through terror and the Death Star",
+    "is_iconic": true,
+    "canon": true,
+    "url": "http://localhost:3001/quotes/35"
+  },
+  {
+    "id": 36,
+    "text": "Hokey religions and ancient weapons are no match for a good blaster at your side, kid.",
+    "character_id": 19,
+    "film_id": 4,
+    "context": "Han Solo dismisses Luke's belief in the Force — a cynicism he will spend the rest of his life reconsidering",
+    "is_iconic": true,
+    "canon": true,
+    "url": "http://localhost:3001/quotes/36"
+  },
+  {
+    "id": 37,
+    "text": "I used to think I had to choose: between the mission and my men. Now I know I can put my men first — and still complete the mission.",
+    "character_id": 15,
+    "film_id": 12,
+    "context": "Captain Rex reflects on his evolution as a leader during the Umbara campaign, after defying General Krell's suicidal orders",
+    "is_iconic": false,
+    "canon": true,
+    "url": "http://localhost:3001/quotes/37"
+  },
+  {
+    "id": 38,
+    "text": "At last we will reveal ourselves to the Jedi. At last we will have revenge.",
+    "character_id": 51,
+    "film_id": 1,
+    "context": "Darth Maul gazes at Coruscant from his ship, speaking to his master Darth Sidious — the first hint of the Sith's return in a millennium",
+    "is_iconic": true,
+    "canon": true,
+    "url": "http://localhost:3001/quotes/38"
+  },
+  {
+    "id": 39,
+    "text": "I'm not afraid.",
+    "character_id": 17,
+    "film_id": 5,
+    "context": "Luke tells Yoda he's not afraid to enter the dark side cave on Dagobah — Yoda's reply: 'You will be. You will be.'",
+    "is_iconic": true,
+    "canon": true,
+    "url": "http://localhost:3001/quotes/39"
+  },
+  {
+    "id": 40,
+    "text": "Chewie, we're home.",
+    "character_id": 19,
+    "film_id": 7,
+    "context": "Han Solo and Chewbacca step aboard the Millennium Falcon for the first time in years — a moment of pure nostalgia for a generation",
+    "is_iconic": true,
+    "canon": true,
+    "url": "http://localhost:3001/quotes/40"
+  },
+  {
+    "id": 41,
+    "text": "That's not how the Force works!",
+    "character_id": 19,
+    "film_id": 7,
+    "context": "Han Solo frustratedly corrects Finn's naive plan to use the Force to disable Starkiller Base's shields",
+    "is_iconic": true,
+    "canon": true,
+    "url": "http://localhost:3001/quotes/41"
+  },
+  {
+    "id": 42,
+    "text": "We are the spark that will light the fire that will burn the First Order down.",
+    "character_id": 40,
+    "film_id": 10,
+    "context": "Jyn Erso's passionate speech to the Rebel Alliance council, rallying them to fight even when the odds are hopeless",
+    "is_iconic": true,
+    "canon": true,
+    "url": "http://localhost:3001/quotes/42"
+  },
+  {
+    "id": 43,
+    "text": "I'm one with the Force. The Force is with me.",
+    "character_id": null,
+    "film_id": 10,
+    "context": "Chirrut Îmwe's mantra as he walks through the crossfire of Scarif to activate the master switch — his faith made manifest",
+    "is_iconic": true,
+    "canon": true,
+    "url": "http://localhost:3001/quotes/43"
+  },
+  {
+    "id": 44,
+    "text": "If you define yourself by the power to take life — the desire to dominate, to possess — then you have nothing.",
+    "character_id": 41,
+    "film_id": 13,
+    "context": "Kanan Jarrus confronts the Inquisitor about the hollowness of the dark side as a philosophy of pure destruction",
+    "is_iconic": false,
+    "canon": true,
+    "url": "http://localhost:3001/quotes/44"
+  },
+  {
+    "id": 45,
+    "text": "There's more than one way to lead. Soldiers follow orders; leaders inspire.",
+    "character_id": 44,
+    "film_id": 13,
+    "context": "Hera Syndulla to Kanan, on the nature of command and why the Ghost crew fights not out of duty but out of belief",
+    "is_iconic": false,
+    "canon": true,
+    "url": "http://localhost:3001/quotes/45"
+  },
+  {
+    "id": 46,
+    "text": "The Empire doesn't consider a small one-man fighter to be any threat, or they'd have a tighter defense.",
+    "character_id": 17,
+    "film_id": 4,
+    "context": "Luke observes the Death Star's tactical blind spot during the Rebel briefing — foreshadowing his impossible shot",
+    "is_iconic": false,
+    "canon": true,
+    "url": "http://localhost:3001/quotes/46"
+  },
+  {
+    "id": 47,
+    "text": "Your training is complete. In time you will learn to trust your feelings. Then, truly powerful you will be.",
+    "character_id": 3,
+    "film_id": 5,
+    "context": "Yoda bids farewell to Anakin before the Battle of Geonosis — a bittersweet moment given what the future holds",
+    "is_iconic": false,
+    "canon": true,
+    "url": "http://localhost:3001/quotes/47"
+  },
+  {
+    "id": 48,
+    "text": "I'm no one.",
+    "character_id": 29,
+    "film_id": 8,
+    "context": "Rey answers Kylo Ren's probing question about her identity — a line that carries the weight of belonging and self-worth at the core of the sequel trilogy",
+    "is_iconic": true,
+    "canon": true,
+    "url": "http://localhost:3001/quotes/48"
+  },
+  {
+    "id": 49,
+    "text": "Strike me down, and I will become more powerful than you can possibly imagine.",
+    "character_id": 2,
+    "film_id": 4,
+    "context": "Obi-Wan's calm final words to Darth Vader — fulfilled when he becomes a Force ghost and guides Luke from beyond death",
+    "is_iconic": true,
+    "canon": true,
+    "url": "http://localhost:3001/quotes/49"
+  },
+  {
+    "id": 50,
+    "text": "I don't want your war. I want my child back.",
+    "character_id": 35,
+    "film_id": 14,
+    "context": "Din Djarin refuses Bo-Katan's offer to join the Mandalorian liberation fight — his only mission is protecting Grogu",
+    "is_iconic": false,
+    "canon": true,
+    "url": "http://localhost:3001/quotes/50"
+  },
+  {
+    "id": 51,
+    "text": "Mandalorians don't run.",
+    "character_id": 37,
+    "film_id": 14,
+    "context": "Bo-Katan Kryze rallies her Nite Owls during the assault on the Imperial light cruiser to reclaim stolen Mandalorian weapons",
+    "is_iconic": true,
+    "canon": true,
+    "url": "http://localhost:3001/quotes/51"
+  },
+  {
+    "id": 52,
+    "text": "Every time you fight for someone, or something, you're using the Force.",
+    "character_id": 41,
+    "film_id": 13,
+    "context": "Kanan Jarrus explains the living Force to Ezra Bridger — that connection to life itself is the true source of a Jedi's strength",
+    "is_iconic": false,
+    "canon": true,
+    "url": "http://localhost:3001/quotes/52"
+  },
+  {
+    "id": 53,
+    "text": "We have hope. Rebellions are built on hope.",
+    "character_id": 40,
+    "film_id": 10,
+    "context": "Jyn Erso's defiant restatement to Cassian Andor — the line that defines all of Rogue One's sacrifice",
+    "is_iconic": true,
+    "canon": true,
+    "url": "http://localhost:3001/quotes/53"
+  },
+  {
+    "id": 54,
+    "text": "You don't know the power of the dark side.",
+    "character_id": 1,
+    "film_id": 6,
+    "context": "Darth Vader tells Luke that he must obey the Emperor — yet his voice betrays a faint, desperate sorrow",
+    "is_iconic": true,
+    "canon": true,
+    "url": "http://localhost:3001/quotes/54"
+  },
+  {
+    "id": 55,
+    "text": "Anakin, my allegiance is to the Republic — to democracy!",
+    "character_id": 2,
+    "film_id": 3,
+    "context": "Obi-Wan's anguished declaration on Mustafar as Anakin demands he choose a side in a battle that has no good option",
+    "is_iconic": true,
+    "canon": true,
+    "url": "http://localhost:3001/quotes/55"
+  }
+]

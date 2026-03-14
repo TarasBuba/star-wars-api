@@ -1,0 +1,1441 @@
+[
+  {
+    "id": 1,
+    "name": "Tatooine",
+    "climate": "arid",
+    "terrain": "desert, canyons, mesas",
+    "population": 200000,
+    "diameter": 10465,
+    "gravity": "1 standard",
+    "orbital_period": 304,
+    "rotation_period": 23,
+    "surface_water": 1,
+    "region": "Outer Rim Territories",
+    "sector": "Arkanis sector",
+    "system": "Tatoo system",
+    "suns": 2,
+    "moons": 3,
+    "affiliation": [
+      "Hutt Cartel",
+      "Galactic Empire"
+    ],
+    "notable_locations": [
+      "Mos Eisley",
+      "Mos Espa",
+      "Beggar's Canyon",
+      "Jabba's Palace",
+      "Lars Homestead"
+    ],
+    "native_species": [],
+    "canon": true,
+    "url": "http://localhost:3001/planets/1"
+  },
+  {
+    "id": 2,
+    "name": "Coruscant",
+    "climate": "temperate",
+    "terrain": "cityscape, skyscrapers",
+    "population": 1000000000000,
+    "diameter": 12240,
+    "gravity": "1 standard",
+    "orbital_period": 368,
+    "rotation_period": 24,
+    "surface_water": 0,
+    "region": "Core Worlds",
+    "sector": "Coruscant sector",
+    "system": "Coruscant system",
+    "suns": 1,
+    "moons": 4,
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire",
+      "New Republic"
+    ],
+    "notable_locations": [
+      "Jedi Temple",
+      "Senate District",
+      "Coruscant Underworld",
+      "Palpatine's Office"
+    ],
+    "native_species": [
+      1
+    ],
+    "canon": true,
+    "url": "http://localhost:3001/planets/2"
+  },
+  {
+    "id": 3,
+    "name": "Naboo",
+    "climate": "temperate",
+    "terrain": "grassy hills, swamps, forests, mountains",
+    "population": 4500000000,
+    "diameter": 12120,
+    "gravity": "1 standard",
+    "orbital_period": 312,
+    "rotation_period": 26,
+    "surface_water": 69,
+    "region": "Mid Rim",
+    "sector": "Chommell sector",
+    "system": "Naboo system",
+    "suns": 1,
+    "moons": 3,
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire"
+    ],
+    "notable_locations": [
+      "Theed",
+      "Otoh Gunga",
+      "Lake Country",
+      "Plasma Mines"
+    ],
+    "native_species": [
+      11
+    ],
+    "canon": true,
+    "url": "http://localhost:3001/planets/3"
+  },
+  {
+    "id": 4,
+    "name": "Hoth",
+    "climate": "frozen",
+    "terrain": "tundra, ice caves, mountain ranges",
+    "population": null,
+    "diameter": 7200,
+    "gravity": "1.1 standard",
+    "orbital_period": 549,
+    "rotation_period": 23,
+    "surface_water": 100,
+    "region": "Outer Rim Territories",
+    "sector": "Anoat sector",
+    "system": "Hoth system",
+    "suns": 1,
+    "moons": 3,
+    "affiliation": [
+      "Rebel Alliance"
+    ],
+    "notable_locations": [
+      "Echo Base",
+      "Clabburn Range",
+      "Cirque Glacier"
+    ],
+    "native_species": [],
+    "canon": true,
+    "url": "http://localhost:3001/planets/4"
+  },
+  {
+    "id": 5,
+    "name": "Dagobah",
+    "climate": "murky",
+    "terrain": "swamp, jungles, bogs, forests",
+    "population": null,
+    "diameter": 8900,
+    "gravity": "0.9 standard",
+    "orbital_period": 341,
+    "rotation_period": 23,
+    "surface_water": 8,
+    "region": "Outer Rim Territories",
+    "sector": "Sluis sector",
+    "system": "Dagobah system",
+    "suns": 1,
+    "moons": 0,
+    "affiliation": [],
+    "notable_locations": [
+      "Yoda's Hut",
+      "Cave of Evil"
+    ],
+    "native_species": [],
+    "canon": true,
+    "url": "http://localhost:3001/planets/5"
+  },
+  {
+    "id": 6,
+    "name": "Bespin",
+    "climate": "temperate",
+    "terrain": "gas giant, cloud layers",
+    "population": 6000000,
+    "diameter": 118000,
+    "gravity": "1.5 standard",
+    "orbital_period": 5110,
+    "rotation_period": 12,
+    "surface_water": 0,
+    "region": "Outer Rim Territories",
+    "sector": "Anoat sector",
+    "system": "Bespin system",
+    "suns": 1,
+    "moons": 2,
+    "affiliation": [
+      "Galactic Empire"
+    ],
+    "notable_locations": [
+      "Cloud City",
+      "Ugnaught Surface",
+      "Carbon-Freezing Chamber"
+    ],
+    "native_species": [],
+    "canon": true,
+    "url": "http://localhost:3001/planets/6"
+  },
+  {
+    "id": 7,
+    "name": "Forest Moon of Endor",
+    "climate": "temperate",
+    "terrain": "forests, mountains, lakes",
+    "population": 30000000,
+    "diameter": 4900,
+    "gravity": "0.85 standard",
+    "orbital_period": 402,
+    "rotation_period": 18,
+    "surface_water": 8,
+    "region": "Outer Rim Territories",
+    "sector": "Moddell sector",
+    "system": "Endor system",
+    "suns": 1,
+    "moons": 0,
+    "affiliation": [
+      "Rebel Alliance"
+    ],
+    "notable_locations": [
+      "Bright Tree Village",
+      "Imperial Shield Generator Bunker"
+    ],
+    "native_species": [
+      12
+    ],
+    "canon": true,
+    "url": "http://localhost:3001/planets/7"
+  },
+  {
+    "id": 8,
+    "name": "Jakku",
+    "climate": "arid",
+    "terrain": "desert, badlands, rocky crags",
+    "population": 4295,
+    "diameter": 6400,
+    "gravity": "1 standard",
+    "orbital_period": null,
+    "rotation_period": null,
+    "surface_water": 1,
+    "region": "Outer Rim Territories",
+    "sector": "Western Reaches",
+    "system": "Jakku system",
+    "suns": 1,
+    "moons": 1,
+    "affiliation": [
+      "Galactic Empire",
+      "First Order"
+    ],
+    "notable_locations": [
+      "Niima Outpost",
+      "Graveyard of Giants",
+      "Plutt's Salvage Yard"
+    ],
+    "native_species": [],
+    "canon": true,
+    "url": "http://localhost:3001/planets/8"
+  },
+  {
+    "id": 9,
+    "name": "Ahch-To",
+    "climate": "temperate",
+    "terrain": "islands, ocean",
+    "population": null,
+    "diameter": null,
+    "gravity": "1 standard",
+    "orbital_period": null,
+    "rotation_period": null,
+    "surface_water": 100,
+    "region": "Unknown Regions",
+    "sector": null,
+    "system": "Ahch-To system",
+    "suns": 1,
+    "moons": 1,
+    "affiliation": [],
+    "notable_locations": [
+      "First Jedi Temple",
+      "Caretaker Village",
+      "Mirror Cave"
+    ],
+    "native_species": [],
+    "canon": true,
+    "url": "http://localhost:3001/planets/9"
+  },
+  {
+    "id": 10,
+    "name": "Exegol",
+    "climate": "stormy",
+    "terrain": "barren, rocky, stormy plains",
+    "population": null,
+    "diameter": null,
+    "gravity": "1 standard",
+    "orbital_period": null,
+    "rotation_period": null,
+    "surface_water": 0,
+    "region": "Unknown Regions",
+    "sector": null,
+    "system": "Exegol system",
+    "suns": 1,
+    "moons": 0,
+    "affiliation": [
+      "Sith Eternal",
+      "First Order"
+    ],
+    "notable_locations": [
+      "Sith Citadel",
+      "Sith Eternal Fleet Hangar"
+    ],
+    "native_species": [],
+    "canon": true,
+    "url": "http://localhost:3001/planets/10"
+  },
+  {
+    "id": 11,
+    "name": "Mustafar",
+    "climate": "hot",
+    "terrain": "volcanoes, lava rivers, obsidian fields",
+    "population": 20000,
+    "diameter": 4200,
+    "gravity": "1 standard",
+    "orbital_period": 412,
+    "rotation_period": 36,
+    "surface_water": 0,
+    "region": "Outer Rim Territories",
+    "sector": "Atravis sector",
+    "system": "Mustafar system",
+    "suns": 2,
+    "moons": 0,
+    "affiliation": [
+      "Galactic Empire",
+      "Darth Vader"
+    ],
+    "notable_locations": [
+      "Vader's Castle",
+      "Klegger Corp Mining Facility",
+      "Fralideja"
+    ],
+    "native_species": [],
+    "canon": true,
+    "url": "http://localhost:3001/planets/11"
+  },
+  {
+    "id": 12,
+    "name": "Kamino",
+    "climate": "temperate, stormy",
+    "terrain": "ocean, cliffs",
+    "population": 1000000000,
+    "diameter": 19270,
+    "gravity": "1 standard",
+    "orbital_period": 463,
+    "rotation_period": 27,
+    "surface_water": 100,
+    "region": "Outer Rim Territories",
+    "sector": "Abrion sector",
+    "system": "Kamino system",
+    "suns": 1,
+    "moons": 3,
+    "affiliation": [
+      "Galactic Republic"
+    ],
+    "notable_locations": [
+      "Tipoca City",
+      "Cloning Facilities"
+    ],
+    "native_species": [],
+    "canon": true,
+    "url": "http://localhost:3001/planets/12"
+  },
+  {
+    "id": 13,
+    "name": "Geonosis",
+    "climate": "arid",
+    "terrain": "rock, desert, canyons, hills",
+    "population": 100000000000,
+    "diameter": 11370,
+    "gravity": "0.9 standard",
+    "orbital_period": 256,
+    "rotation_period": 30,
+    "surface_water": 5,
+    "region": "Outer Rim Territories",
+    "sector": "Arkanis sector",
+    "system": "Geonosis system",
+    "suns": 2,
+    "moons": 3,
+    "affiliation": [
+      "Confederacy of Independent Systems"
+    ],
+    "notable_locations": [
+      "Petranaki Arena",
+      "Geonosis droid foundries",
+      "Progate Temple"
+    ],
+    "native_species": [],
+    "canon": true,
+    "url": "http://localhost:3001/planets/13"
+  },
+  {
+    "id": 14,
+    "name": "Alderaan",
+    "climate": "temperate",
+    "terrain": "grasslands, mountains, forests",
+    "population": 2000000000,
+    "diameter": 12500,
+    "gravity": "1 standard",
+    "orbital_period": 364,
+    "rotation_period": 24,
+    "surface_water": 40,
+    "region": "Core Worlds",
+    "sector": "Alderaan sector",
+    "system": "Alderaan system",
+    "suns": 1,
+    "moons": 1,
+    "affiliation": [
+      "Galactic Republic",
+      "Rebel Alliance"
+    ],
+    "notable_locations": [
+      "Aldera",
+      "Appenza Peak",
+      "Cathedral of Winds"
+    ],
+    "native_species": [
+      1
+    ],
+    "canon": true,
+    "url": "http://localhost:3001/planets/14"
+  },
+  {
+    "id": 15,
+    "name": "Kashyyyk",
+    "climate": "tropical",
+    "terrain": "jungles, forests, wroshyr trees",
+    "population": 45000000,
+    "diameter": 12765,
+    "gravity": "1 standard",
+    "orbital_period": 381,
+    "rotation_period": 26,
+    "surface_water": 60,
+    "region": "Mid Rim",
+    "sector": "Mytaranor sector",
+    "system": "Kashyyyk system",
+    "suns": 1,
+    "moons": 3,
+    "affiliation": [
+      "Galactic Republic",
+      "Wookiees"
+    ],
+    "notable_locations": [
+      "Kachirho",
+      "Rwookrrorro",
+      "Shadowlands"
+    ],
+    "native_species": [
+      2
+    ],
+    "canon": true,
+    "url": "http://localhost:3001/planets/15"
+  },
+  {
+    "id": 16,
+    "name": "Mandalore",
+    "climate": "arid",
+    "terrain": "white desert, domed cities, plains",
+    "population": 4000000,
+    "diameter": 9200,
+    "gravity": "1 standard",
+    "orbital_period": 366,
+    "rotation_period": 19,
+    "surface_water": 0,
+    "region": "Outer Rim Territories",
+    "sector": "Mandalore sector",
+    "system": "Mandalore system",
+    "suns": 1,
+    "moons": 2,
+    "affiliation": [
+      "Mandalorian Clans",
+      "Galactic Empire"
+    ],
+    "notable_locations": [
+      "Sundari",
+      "The Great Forge",
+      "Mines of Mandalore"
+    ],
+    "native_species": [
+      1
+    ],
+    "canon": true,
+    "url": "http://localhost:3001/planets/16"
+  },
+  {
+    "id": 17,
+    "name": "Lothal",
+    "climate": "temperate",
+    "terrain": "grasslands, plains, industrial zones",
+    "population": 4000000,
+    "diameter": 9600,
+    "gravity": "1 standard",
+    "orbital_period": null,
+    "rotation_period": null,
+    "surface_water": 20,
+    "region": "Outer Rim Territories",
+    "sector": "Lothal sector",
+    "system": "Lothal system",
+    "suns": 1,
+    "moons": 1,
+    "affiliation": [
+      "Galactic Empire",
+      "Rebel Alliance"
+    ],
+    "notable_locations": [
+      "Lothal City",
+      "Jedi Temple of Lothal",
+      "Imperial HQ"
+    ],
+    "native_species": [
+      1
+    ],
+    "canon": true,
+    "url": "http://localhost:3001/planets/17"
+  },
+  {
+    "id": 18,
+    "name": "Scarif",
+    "climate": "tropical",
+    "terrain": "beaches, ocean, jungle, Imperial complex",
+    "population": null,
+    "diameter": null,
+    "gravity": "1 standard",
+    "orbital_period": null,
+    "rotation_period": null,
+    "surface_water": 80,
+    "region": "Outer Rim Territories",
+    "sector": "Abrion sector",
+    "system": "Scarif system",
+    "suns": 1,
+    "moons": 0,
+    "affiliation": [
+      "Galactic Empire"
+    ],
+    "notable_locations": [
+      "Citadel Tower",
+      "Imperial Security Complex",
+      "Scarif Beach"
+    ],
+    "native_species": [],
+    "canon": true,
+    "url": "http://localhost:3001/planets/18"
+  },
+  {
+    "id": 19,
+    "name": "Jedha",
+    "climate": "cold",
+    "terrain": "icy desert, ancient ruins, canyons",
+    "population": 11000000,
+    "diameter": null,
+    "gravity": "1 standard",
+    "orbital_period": null,
+    "rotation_period": null,
+    "surface_water": 0,
+    "region": "Outer Rim Territories",
+    "sector": "NaJedha sector",
+    "system": "NaJedha system",
+    "suns": 1,
+    "moons": 0,
+    "affiliation": [
+      "Galactic Empire",
+      "Saw Gerrera's Partisans"
+    ],
+    "notable_locations": [
+      "Holy City of NiJedha",
+      "Temple of the Kyber",
+      "Catacombs of Cadera"
+    ],
+    "native_species": [],
+    "canon": true,
+    "url": "http://localhost:3001/planets/19"
+  },
+  {
+    "id": 20,
+    "name": "Corellia",
+    "climate": "temperate",
+    "terrain": "plains, urban, ocean, forests",
+    "population": 3000000000,
+    "diameter": 11000,
+    "gravity": "1 standard",
+    "orbital_period": 329,
+    "rotation_period": 25,
+    "surface_water": 65,
+    "region": "Core Worlds",
+    "sector": "Corellian sector",
+    "system": "Corellian system",
+    "suns": 1,
+    "moons": 4,
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire"
+    ],
+    "notable_locations": [
+      "Coronet City",
+      "Coronet City Spaceport",
+      "White Worms HQ"
+    ],
+    "native_species": [
+      1
+    ],
+    "canon": true,
+    "url": "http://localhost:3001/planets/20"
+  },
+  {
+    "id": 21,
+    "name": "Crait",
+    "climate": "arid",
+    "terrain": "salt flats, mineral caves, crystal fox burrows",
+    "population": null,
+    "diameter": null,
+    "gravity": "1 standard",
+    "orbital_period": null,
+    "rotation_period": null,
+    "surface_water": 0,
+    "region": "Outer Rim Territories",
+    "sector": null,
+    "system": "Crait system",
+    "suns": 1,
+    "moons": 0,
+    "affiliation": [
+      "Rebel Alliance",
+      "Resistance"
+    ],
+    "notable_locations": [
+      "Crait outpost",
+      "Old Rebel base"
+    ],
+    "native_species": [],
+    "canon": true,
+    "url": "http://localhost:3001/planets/21"
+  },
+  {
+    "id": 22,
+    "name": "Ilum",
+    "climate": "frigid",
+    "terrain": "ice, mountains, crystal caves",
+    "population": null,
+    "diameter": null,
+    "gravity": "1 standard",
+    "orbital_period": null,
+    "rotation_period": null,
+    "surface_water": 100,
+    "region": "Unknown Regions",
+    "sector": "7G sector",
+    "system": "Ilum system",
+    "suns": 1,
+    "moons": 0,
+    "affiliation": [
+      "Jedi Order",
+      "Galactic Empire",
+      "First Order"
+    ],
+    "notable_locations": [
+      "Crystal Caves",
+      "Jedi Temple on Ilum",
+      "Starkiller Base (later)"
+    ],
+    "native_species": [],
+    "canon": true,
+    "url": "http://localhost:3001/planets/22"
+  },
+  {
+    "id": 23,
+    "name": "Ryloth",
+    "climate": "arid, temperate, frigid",
+    "terrain": "mountains, valleys, deserts, lava fields",
+    "population": 1500000000,
+    "diameter": 10600,
+    "gravity": "1 standard",
+    "orbital_period": 305,
+    "rotation_period": 0,
+    "surface_water": 5,
+    "region": "Outer Rim Territories",
+    "sector": "Ryloth sector",
+    "system": "Ryloth system",
+    "suns": 1,
+    "moons": 5,
+    "affiliation": [
+      "Galactic Republic",
+      "Ryloth Free Army"
+    ],
+    "notable_locations": [
+      "Lessu",
+      "Cazne",
+      "Guermessa"
+    ],
+    "native_species": [
+      3
+    ],
+    "canon": true,
+    "url": "http://localhost:3001/planets/23"
+  },
+  {
+    "id": 24,
+    "name": "Shili",
+    "climate": "temperate",
+    "terrain": "turu-grass plains, forests, redbark forests",
+    "population": null,
+    "diameter": null,
+    "gravity": "1 standard",
+    "orbital_period": null,
+    "rotation_period": null,
+    "surface_water": 30,
+    "region": "Expansion Region",
+    "sector": "Shili sector",
+    "system": "Shili system",
+    "suns": 1,
+    "moons": 1,
+    "affiliation": [],
+    "notable_locations": [
+      "Togruta tribal villages"
+    ],
+    "native_species": [
+      4
+    ],
+    "canon": true,
+    "url": "http://localhost:3001/planets/24"
+  },
+  {
+    "id": 25,
+    "name": "Iridonia",
+    "climate": "harsh, arid",
+    "terrain": "rocky wasteland, canyons",
+    "population": null,
+    "diameter": null,
+    "gravity": "1 standard",
+    "orbital_period": null,
+    "rotation_period": null,
+    "surface_water": 2,
+    "region": "Mid Rim",
+    "sector": "Iridonia sector",
+    "system": "Iridonia system",
+    "suns": 1,
+    "moons": 0,
+    "affiliation": [],
+    "notable_locations": [],
+    "native_species": [
+      5
+    ],
+    "canon": true,
+    "url": "http://localhost:3001/planets/25"
+  },
+  {
+    "id": 26,
+    "name": "Rodia",
+    "climate": "hot, humid",
+    "terrain": "jungles, rain forests, oceans, urban domes",
+    "population": 1300000000,
+    "diameter": 7549,
+    "gravity": "1 standard",
+    "orbital_period": 305,
+    "rotation_period": 29,
+    "surface_water": 60,
+    "region": "Outer Rim Territories",
+    "sector": "Tyrius sector",
+    "system": "Tyrius system",
+    "suns": 1,
+    "moons": 1,
+    "affiliation": [
+      "Galactic Republic"
+    ],
+    "notable_locations": [
+      "Iskaayuma",
+      "Rodian gladiatorial arenas"
+    ],
+    "native_species": [
+      7
+    ],
+    "canon": true,
+    "url": "http://localhost:3001/planets/26"
+  },
+  {
+    "id": 27,
+    "name": "Nal Hutta",
+    "climate": "humid",
+    "terrain": "bogs, swamps, urban sprawl",
+    "population": 7000000000,
+    "diameter": 12150,
+    "gravity": "1 standard",
+    "orbital_period": 413,
+    "rotation_period": 87,
+    "surface_water": 55,
+    "region": "Outer Rim Territories",
+    "sector": "Hutt Space",
+    "system": "Y'Toub system",
+    "suns": 1,
+    "moons": 1,
+    "affiliation": [
+      "Hutt Cartel"
+    ],
+    "notable_locations": [
+      "Nar Shaddaa",
+      "Nor Domia",
+      "Y'Toub spaceport"
+    ],
+    "native_species": [
+      9
+    ],
+    "canon": true,
+    "url": "http://localhost:3001/planets/27"
+  },
+  {
+    "id": 28,
+    "name": "Felucia",
+    "climate": "hot, humid",
+    "terrain": "bioluminescent jungle, fungi forests",
+    "population": 8500000,
+    "diameter": 9100,
+    "gravity": "0.9 standard",
+    "orbital_period": 231,
+    "rotation_period": 34,
+    "surface_water": 70,
+    "region": "Outer Rim Territories",
+    "sector": "Thanium sector",
+    "system": "Felucia system",
+    "suns": 1,
+    "moons": 0,
+    "affiliation": [
+      "Galactic Republic",
+      "Confederacy of Independent Systems"
+    ],
+    "notable_locations": [
+      "Nysillin farms",
+      "Felucian settlements"
+    ],
+    "native_species": [],
+    "canon": true,
+    "url": "http://localhost:3001/planets/28"
+  },
+  {
+    "id": 29,
+    "name": "Utapau",
+    "climate": "arid, windy",
+    "terrain": "sinkholes, rock, plains",
+    "population": 95000000,
+    "diameter": 12900,
+    "gravity": "1 standard",
+    "orbital_period": 351,
+    "rotation_period": 27,
+    "surface_water": 0,
+    "region": "Outer Rim Territories",
+    "sector": "Tarabba sector",
+    "system": "Utapau system",
+    "suns": 9,
+    "moons": 2,
+    "affiliation": [
+      "Galactic Republic",
+      "Confederacy of Independent Systems"
+    ],
+    "notable_locations": [
+      "Pau City",
+      "Tibidon Station"
+    ],
+    "native_species": [],
+    "canon": true,
+    "url": "http://localhost:3001/planets/29"
+  },
+  {
+    "id": 30,
+    "name": "Mygeeto",
+    "climate": "frigid",
+    "terrain": "crystalline cities, glaciers, icy terrain",
+    "population": 19000000,
+    "diameter": 10088,
+    "gravity": "1 standard",
+    "orbital_period": 167,
+    "rotation_period": 12,
+    "surface_water": 100,
+    "region": "Outer Rim Territories",
+    "sector": "Mirgoshir sector",
+    "system": "Mygeeto system",
+    "suns": 3,
+    "moons": 0,
+    "affiliation": [
+      "Confederacy of Independent Systems",
+      "InterGalactic Banking Clan"
+    ],
+    "notable_locations": [
+      "IBC headquarters",
+      "Crystal bridges"
+    ],
+    "native_species": [],
+    "canon": true,
+    "url": "http://localhost:3001/planets/30"
+  },
+  {
+    "id": 31,
+    "name": "Cato Neimoidia",
+    "climate": "temperate",
+    "terrain": "bridge cities, rock arches, chasms",
+    "population": 10000000,
+    "diameter": null,
+    "gravity": "1 standard",
+    "orbital_period": 278,
+    "rotation_period": 25,
+    "surface_water": 40,
+    "region": "Outer Rim Territories",
+    "sector": "Quellor sector",
+    "system": "Cato Neimoidia system",
+    "suns": 1,
+    "moons": 0,
+    "affiliation": [
+      "Trade Federation",
+      "Confederacy of Independent Systems",
+      "Galactic Empire"
+    ],
+    "notable_locations": [
+      "Tarko-se",
+      "Neimoidian bridge cities"
+    ],
+    "native_species": [
+      42
+    ],
+    "canon": true,
+    "url": "http://localhost:3001/planets/31"
+  },
+  {
+    "id": 32,
+    "name": "Saleucami",
+    "climate": "hot",
+    "terrain": "craters, oasis farms, desert plains",
+    "population": 1400000000,
+    "diameter": 14920,
+    "gravity": "1 standard",
+    "orbital_period": 392,
+    "rotation_period": 26,
+    "surface_water": 3,
+    "region": "Outer Rim Territories",
+    "sector": "Suolriep sector",
+    "system": "Saleucami system",
+    "suns": 5,
+    "moons": 0,
+    "affiliation": [
+      "Galactic Republic",
+      "Confederacy of Independent Systems"
+    ],
+    "notable_locations": [
+      "Cut Lawquane's farm",
+      "Saleucami farms"
+    ],
+    "native_species": [],
+    "canon": true,
+    "url": "http://localhost:3001/planets/32"
+  },
+  {
+    "id": 33,
+    "name": "Christophsis",
+    "climate": "temperate",
+    "terrain": "crystal plains, crystal forests, urban ruins",
+    "population": 2000000000,
+    "diameter": null,
+    "gravity": "1 standard",
+    "orbital_period": null,
+    "rotation_period": null,
+    "surface_water": 10,
+    "region": "Outer Rim Territories",
+    "sector": "Savareen sector",
+    "system": "Christoph system",
+    "suns": 1,
+    "moons": 0,
+    "affiliation": [
+      "Galactic Republic",
+      "Confederacy of Independent Systems"
+    ],
+    "notable_locations": [
+      "Crystal city",
+      "Christophsis Capital"
+    ],
+    "native_species": [],
+    "canon": true,
+    "url": "http://localhost:3001/planets/33"
+  },
+  {
+    "id": 34,
+    "name": "Umbara",
+    "climate": "dark, cold",
+    "terrain": "dark plains, shadowy jungles, subterranean tunnels",
+    "population": null,
+    "diameter": null,
+    "gravity": "1 standard",
+    "orbital_period": null,
+    "rotation_period": null,
+    "surface_water": 5,
+    "region": "Outer Rim Territories",
+    "sector": "Ghost Nebula",
+    "system": "Umbara system",
+    "suns": 0,
+    "moons": 0,
+    "affiliation": [
+      "Confederacy of Independent Systems"
+    ],
+    "notable_locations": [
+      "Umbaran military base",
+      "Umbaran airbase",
+      "Umbaran capital"
+    ],
+    "native_species": [
+      34
+    ],
+    "canon": true,
+    "url": "http://localhost:3001/planets/34"
+  },
+  {
+    "id": 35,
+    "name": "Onderon",
+    "climate": "hot",
+    "terrain": "jungles, rainforests, walled city",
+    "population": 40000000,
+    "diameter": 11965,
+    "gravity": "1 standard",
+    "orbital_period": 378,
+    "rotation_period": 26,
+    "surface_water": 60,
+    "region": "Mid Rim",
+    "sector": "Japrael sector",
+    "system": "Japrael system",
+    "suns": 1,
+    "moons": 1,
+    "affiliation": [
+      "Galactic Republic",
+      "Confederacy of Independent Systems",
+      "Rebel Alliance"
+    ],
+    "notable_locations": [
+      "Iziz",
+      "Iziz Royal Palace",
+      "Onderon jungle biomes"
+    ],
+    "native_species": [
+      1
+    ],
+    "canon": true,
+    "url": "http://localhost:3001/planets/35"
+  },
+  {
+    "id": 36,
+    "name": "Dantooine",
+    "climate": "temperate",
+    "terrain": "grasslands, savannas, hills, rivers",
+    "population": 1000,
+    "diameter": 9830,
+    "gravity": "1 standard",
+    "orbital_period": 378,
+    "rotation_period": 25,
+    "surface_water": 100,
+    "region": "Outer Rim Territories",
+    "sector": "Raioballo sector",
+    "system": "Dantooine system",
+    "suns": 2,
+    "moons": 3,
+    "affiliation": [
+      "Rebel Alliance"
+    ],
+    "notable_locations": [
+      "Abandoned Rebel base",
+      "Jedi ruins",
+      "Khoonda settlement"
+    ],
+    "native_species": [],
+    "canon": true,
+    "url": "http://localhost:3001/planets/36"
+  },
+  {
+    "id": 37,
+    "name": "Malachor",
+    "climate": "hot",
+    "terrain": "barren flatlands, Sith ruins, petrified warriors",
+    "population": null,
+    "diameter": null,
+    "gravity": "1 standard",
+    "orbital_period": null,
+    "rotation_period": null,
+    "surface_water": 0,
+    "region": "Outer Rim Territories",
+    "sector": null,
+    "system": "Malachor system",
+    "suns": 1,
+    "moons": 0,
+    "affiliation": [
+      "Sith"
+    ],
+    "notable_locations": [
+      "Malachor Sith Temple",
+      "Great Scourge battlefield"
+    ],
+    "native_species": [],
+    "canon": true,
+    "url": "http://localhost:3001/planets/37"
+  },
+  {
+    "id": 38,
+    "name": "Lah'mu",
+    "climate": "temperate",
+    "terrain": "black beaches, mountains, fertile plains",
+    "population": null,
+    "diameter": null,
+    "gravity": "1 standard",
+    "orbital_period": null,
+    "rotation_period": null,
+    "surface_water": 50,
+    "region": "Outer Rim Territories",
+    "sector": null,
+    "system": "Lah'mu system",
+    "suns": 1,
+    "moons": 0,
+    "affiliation": [],
+    "notable_locations": [
+      "Erso family homestead"
+    ],
+    "native_species": [],
+    "canon": true,
+    "url": "http://localhost:3001/planets/38"
+  },
+  {
+    "id": 39,
+    "name": "Ferrix",
+    "climate": "temperate, arid",
+    "terrain": "industrial plains, scrapyards, urban blocks",
+    "population": 800000,
+    "diameter": null,
+    "gravity": "1 standard",
+    "orbital_period": null,
+    "rotation_period": null,
+    "surface_water": 5,
+    "region": "Outer Rim Territories",
+    "sector": "Morlana sector",
+    "system": "Morlana system",
+    "suns": 1,
+    "moons": 0,
+    "affiliation": [
+      "Galactic Empire",
+      "ISB"
+    ],
+    "notable_locations": [
+      "Ferrix town square",
+      "Preox-Morlana facility",
+      "Maarva Andor's house"
+    ],
+    "native_species": [],
+    "canon": true,
+    "url": "http://localhost:3001/planets/39"
+  },
+  {
+    "id": 40,
+    "name": "Chandrila",
+    "climate": "temperate",
+    "terrain": "rolling hills, meadows, sea cliffs, cities",
+    "population": 1200000000,
+    "diameter": 13500,
+    "gravity": "1 standard",
+    "orbital_period": 368,
+    "rotation_period": 20,
+    "surface_water": 60,
+    "region": "Core Worlds",
+    "sector": "Bormea sector",
+    "system": "Chandrila system",
+    "suns": 1,
+    "moons": 1,
+    "affiliation": [
+      "Galactic Republic",
+      "New Republic"
+    ],
+    "notable_locations": [
+      "Hanna City",
+      "New Republic Senate chambers",
+      "Liberation Day Monument"
+    ],
+    "native_species": [
+      1
+    ],
+    "canon": true,
+    "url": "http://localhost:3001/planets/40"
+  },
+  {
+    "id": 41,
+    "name": "Hosnian Prime",
+    "climate": "temperate",
+    "terrain": "cities, forests, seas",
+    "population": 2000000000,
+    "diameter": 13500,
+    "gravity": "1 standard",
+    "orbital_period": 375,
+    "rotation_period": 24,
+    "surface_water": 35,
+    "region": "Core Worlds",
+    "sector": "Hosnian sector",
+    "system": "Hosnian system",
+    "suns": 1,
+    "moons": 4,
+    "affiliation": [
+      "New Republic"
+    ],
+    "notable_locations": [
+      "Republic Senate",
+      "Senate Plaza",
+      "Naval Command HQ"
+    ],
+    "native_species": [
+      1
+    ],
+    "canon": true,
+    "url": "http://localhost:3001/planets/41"
+  },
+  {
+    "id": 42,
+    "name": "D'Qar",
+    "climate": "temperate",
+    "terrain": "jungles, forests, mountains",
+    "population": null,
+    "diameter": null,
+    "gravity": "1 standard",
+    "orbital_period": null,
+    "rotation_period": null,
+    "surface_water": 60,
+    "region": "Outer Rim Territories",
+    "sector": "Ileenium sector",
+    "system": "Ileenium system",
+    "suns": 1,
+    "moons": 0,
+    "affiliation": [
+      "Resistance"
+    ],
+    "notable_locations": [
+      "Resistance base",
+      "Resistance hangar"
+    ],
+    "native_species": [],
+    "canon": true,
+    "url": "http://localhost:3001/planets/42"
+  },
+  {
+    "id": 43,
+    "name": "Takodana",
+    "climate": "temperate",
+    "terrain": "forests, lakes, rivers",
+    "population": null,
+    "diameter": null,
+    "gravity": "1 standard",
+    "orbital_period": null,
+    "rotation_period": null,
+    "surface_water": 80,
+    "region": "Mid Rim",
+    "sector": "Tashtor sector",
+    "system": "Takodana system",
+    "suns": 1,
+    "moons": 1,
+    "affiliation": [],
+    "notable_locations": [
+      "Maz Kanata's Castle",
+      "Takodana lakeside"
+    ],
+    "native_species": [],
+    "canon": true,
+    "url": "http://localhost:3001/planets/43"
+  },
+  {
+    "id": 44,
+    "name": "Batuu",
+    "climate": "temperate",
+    "terrain": "rocky spires, jungle, forests, town outpost",
+    "population": null,
+    "diameter": null,
+    "gravity": "1 standard",
+    "orbital_period": null,
+    "rotation_period": null,
+    "surface_water": 30,
+    "region": "Outer Rim Territories",
+    "sector": "Trilon sector",
+    "system": "Batuu system",
+    "suns": 1,
+    "moons": 3,
+    "affiliation": [],
+    "notable_locations": [
+      "Black Spire Outpost",
+      "Savi's Workshop",
+      "Oga's Cantina"
+    ],
+    "native_species": [],
+    "canon": true,
+    "url": "http://localhost:3001/planets/44"
+  },
+  {
+    "id": 45,
+    "name": "Nevarro",
+    "climate": "volcanic, arid",
+    "terrain": "lava flats, volcanic rock, canyon town",
+    "population": 5000,
+    "diameter": null,
+    "gravity": "1 standard",
+    "orbital_period": null,
+    "rotation_period": null,
+    "surface_water": 0,
+    "region": "Outer Rim Territories",
+    "sector": "Nevarro sector",
+    "system": "Nevarro system",
+    "suns": 1,
+    "moons": 0,
+    "affiliation": [
+      "Galactic Empire",
+      "Bounty Hunters Guild",
+      "New Republic"
+    ],
+    "notable_locations": [
+      "Nevarro city",
+      "Mandalorian Covert",
+      "Imperial remnant base"
+    ],
+    "native_species": [],
+    "canon": true,
+    "url": "http://localhost:3001/planets/45"
+  },
+  {
+    "id": 46,
+    "name": "Arvala-7",
+    "climate": "arid",
+    "terrain": "desert, rock formations, moisture farms",
+    "population": null,
+    "diameter": null,
+    "gravity": "1 standard",
+    "orbital_period": null,
+    "rotation_period": null,
+    "surface_water": 0,
+    "region": "Outer Rim Territories",
+    "sector": null,
+    "system": "Arvala system",
+    "suns": 1,
+    "moons": 0,
+    "affiliation": [],
+    "notable_locations": [
+      "Kuiil's moisture farm",
+      "Grogu's recovery location"
+    ],
+    "native_species": [],
+    "canon": true,
+    "url": "http://localhost:3001/planets/46"
+  },
+  {
+    "id": 47,
+    "name": "Tython",
+    "climate": "temperate",
+    "terrain": "forests, ancient ruins, Force nexus",
+    "population": null,
+    "diameter": null,
+    "gravity": "1 standard",
+    "orbital_period": null,
+    "rotation_period": null,
+    "surface_water": 40,
+    "region": "Deep Core",
+    "sector": null,
+    "system": "Tython system",
+    "suns": 1,
+    "moons": 0,
+    "affiliation": [
+      "Jedi Order"
+    ],
+    "notable_locations": [
+      "Ancient Jedi Temple",
+      "Force vergence",
+      "Seeing stone"
+    ],
+    "native_species": [],
+    "canon": true,
+    "url": "http://localhost:3001/planets/47"
+  },
+  {
+    "id": 48,
+    "name": "Dathomir",
+    "climate": "temperate",
+    "terrain": "jungle, swamps, red terrain, mountains",
+    "population": 6000,
+    "diameter": 9100,
+    "gravity": "0.9 standard",
+    "orbital_period": 491,
+    "rotation_period": 24,
+    "surface_water": 43,
+    "region": "Outer Rim Territories",
+    "sector": "Quelii sector",
+    "system": "Dathomir system",
+    "suns": 2,
+    "moons": 4,
+    "affiliation": [
+      "Nightsisters",
+      "Nightbrothers"
+    ],
+    "notable_locations": [
+      "Nightsister Lair",
+      "Nightbrother village"
+    ],
+    "native_species": [
+      39,
+      5
+    ],
+    "canon": true,
+    "url": "http://localhost:3001/planets/48"
+  },
+  {
+    "id": 49,
+    "name": "Serenno",
+    "climate": "temperate",
+    "terrain": "cliffs, forests, aristocratic estates, valleys",
+    "population": 50000000,
+    "diameter": null,
+    "gravity": "1 standard",
+    "orbital_period": null,
+    "rotation_period": null,
+    "surface_water": 25,
+    "region": "Outer Rim Territories",
+    "sector": "Serenno sector",
+    "system": "Serenno system",
+    "suns": 1,
+    "moons": 2,
+    "affiliation": [
+      "Confederacy of Independent Systems",
+      "House Dooku"
+    ],
+    "notable_locations": [
+      "Dooku's palace",
+      "Count's estates"
+    ],
+    "native_species": [
+      1
+    ],
+    "canon": true,
+    "url": "http://localhost:3001/planets/49"
+  },
+  {
+    "id": 50,
+    "name": "Sullust",
+    "climate": "hot",
+    "terrain": "volcanic mountains, subterranean cities, lava fields",
+    "population": 18500000,
+    "diameter": 12780,
+    "gravity": "1 standard",
+    "orbital_period": 263,
+    "rotation_period": 20,
+    "surface_water": 0,
+    "region": "Outer Rim Territories",
+    "sector": "Sullust sector",
+    "system": "Sullust system",
+    "suns": 1,
+    "moons": 0,
+    "affiliation": [
+      "Galactic Empire",
+      "Rebel Alliance",
+      "SoroSuub Corporation"
+    ],
+    "notable_locations": [
+      "Piata City",
+      "SoroSuub HQ",
+      "Nien Nunb's hometown"
+    ],
+    "native_species": [
+      19
+    ],
+    "canon": true,
+    "url": "http://localhost:3001/planets/50"
+  }
+]

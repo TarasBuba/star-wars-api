@@ -1,0 +1,627 @@
+[
+  {
+    "id": 1,
+    "name": "Jedi Order",
+    "type": "religious",
+    "founding_date": "25000BBY",
+    "dissolution_date": "19BBY",
+    "refounded_date": "4ABY",
+    "ideology": "Peace, knowledge, serenity, harmony with the Force; protection of the Galactic Republic",
+    "force_alignment": "light",
+    "headquarters_id": 2,
+    "leader_id": 3,
+    "notable_members": [
+      2,
+      3,
+      6,
+      7,
+      10,
+      11,
+      12,
+      13,
+      17,
+      29,
+      41,
+      42,
+      48,
+      52
+    ],
+    "era": [
+      "Old Republic",
+      "Fall of the Jedi",
+      "New Republic Era"
+    ],
+    "status": "restored",
+    "canon": true,
+    "url": "http://localhost:3001/organizations/1"
+  },
+  {
+    "id": 2,
+    "name": "Sith Order",
+    "type": "religious",
+    "founding_date": "7000BBY",
+    "dissolution_date": "35ABY",
+    "refounded_date": null,
+    "ideology": "Power through the dark side; Rule of Two — one Master, one Apprentice",
+    "force_alignment": "dark",
+    "headquarters_id": 10,
+    "leader_id": 5,
+    "notable_members": [
+      1,
+      5,
+      8,
+      30,
+      51
+    ],
+    "era": [
+      "Old Republic",
+      "Fall of the Jedi",
+      "Imperial Era",
+      "Rise of the First Order"
+    ],
+    "status": "dissolved",
+    "canon": true,
+    "url": "http://localhost:3001/organizations/2"
+  },
+  {
+    "id": 3,
+    "name": "Galactic Republic",
+    "type": "government",
+    "founding_date": "25000BBY",
+    "dissolution_date": "19BBY",
+    "refounded_date": null,
+    "ideology": "Democratic representation, peacekeeping through the Jedi Order, rule of law",
+    "force_alignment": "neutral",
+    "headquarters_id": 2,
+    "leader_id": 5,
+    "notable_members": [
+      4,
+      5,
+      6,
+      7,
+      14,
+      26
+    ],
+    "era": [
+      "Old Republic",
+      "Clone Wars",
+      "Fall of the Jedi"
+    ],
+    "status": "dissolved",
+    "canon": true,
+    "url": "http://localhost:3001/organizations/3"
+  },
+  {
+    "id": 4,
+    "name": "Confederacy of Independent Systems",
+    "type": "government",
+    "founding_date": "24BBY",
+    "dissolution_date": "19BBY",
+    "refounded_date": null,
+    "ideology": "Secession from the Republic; corporate and planetary sovereignty; anti-Republic sentiment",
+    "force_alignment": "dark",
+    "headquarters_id": 13,
+    "leader_id": 8,
+    "notable_members": [
+      8,
+      9,
+      50
+    ],
+    "era": [
+      "Clone Wars",
+      "Fall of the Jedi"
+    ],
+    "status": "dissolved",
+    "canon": true,
+    "url": "http://localhost:3001/organizations/4"
+  },
+  {
+    "id": 5,
+    "name": "Galactic Empire",
+    "type": "government",
+    "founding_date": "19BBY",
+    "dissolution_date": "5ABY",
+    "refounded_date": null,
+    "ideology": "Order and security through absolute authority; human supremacy; fear as governance",
+    "force_alignment": "dark",
+    "headquarters_id": 2,
+    "leader_id": 5,
+    "notable_members": [
+      1,
+      5,
+      16,
+      25,
+      38
+    ],
+    "era": [
+      "Imperial Era",
+      "Age of Rebellion"
+    ],
+    "status": "dissolved",
+    "canon": true,
+    "url": "http://localhost:3001/organizations/5"
+  },
+  {
+    "id": 6,
+    "name": "Rebel Alliance",
+    "type": "resistance",
+    "founding_date": "2BBY",
+    "dissolution_date": "5ABY",
+    "refounded_date": null,
+    "ideology": "Freedom, restoration of democracy and the Republic, opposition to Imperial tyranny",
+    "force_alignment": "light",
+    "headquarters_id": 36,
+    "leader_id": 26,
+    "notable_members": [
+      15,
+      17,
+      18,
+      19,
+      20,
+      23,
+      26,
+      27,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47
+    ],
+    "era": [
+      "Imperial Era",
+      "Age of Rebellion"
+    ],
+    "status": "dissolved",
+    "canon": true,
+    "url": "http://localhost:3001/organizations/6"
+  },
+  {
+    "id": 7,
+    "name": "New Republic",
+    "type": "government",
+    "founding_date": "4ABY",
+    "dissolution_date": "34ABY",
+    "refounded_date": null,
+    "ideology": "Democratic governance, demilitarization, freedom for all species",
+    "force_alignment": "neutral",
+    "headquarters_id": 40,
+    "leader_id": 26,
+    "notable_members": [
+      17,
+      18,
+      26,
+      27,
+      47
+    ],
+    "era": [
+      "New Republic Era"
+    ],
+    "status": "dissolved",
+    "canon": true,
+    "url": "http://localhost:3001/organizations/7"
+  },
+  {
+    "id": 8,
+    "name": "First Order",
+    "type": "government",
+    "founding_date": "5ABY",
+    "dissolution_date": "35ABY",
+    "refounded_date": null,
+    "ideology": "Imperial restoration, total galactic order, eradication of Republic remnants",
+    "force_alignment": "dark",
+    "headquarters_id": 22,
+    "leader_id": 33,
+    "notable_members": [
+      30,
+      33,
+      34,
+      38
+    ],
+    "era": [
+      "Rise of the First Order"
+    ],
+    "status": "dissolved",
+    "canon": true,
+    "url": "http://localhost:3001/organizations/8"
+  },
+  {
+    "id": 9,
+    "name": "Resistance",
+    "type": "resistance",
+    "founding_date": "28ABY",
+    "dissolution_date": null,
+    "refounded_date": null,
+    "ideology": "Opposition to the First Order; protection of the galaxy from authoritarian rule",
+    "force_alignment": "light",
+    "headquarters_id": 42,
+    "leader_id": 18,
+    "notable_members": [
+      18,
+      29,
+      31,
+      32,
+      46,
+      47
+    ],
+    "era": [
+      "Rise of the First Order"
+    ],
+    "status": "active",
+    "canon": true,
+    "url": "http://localhost:3001/organizations/9"
+  },
+  {
+    "id": 10,
+    "name": "Hutt Cartel",
+    "type": "criminal",
+    "founding_date": "25000BBY",
+    "dissolution_date": null,
+    "refounded_date": null,
+    "ideology": "Profit, territorial control of Outer Rim criminal enterprises, neutrality exploited for gain",
+    "force_alignment": "none",
+    "headquarters_id": 27,
+    "leader_id": 28,
+    "notable_members": [
+      28
+    ],
+    "era": [
+      "Old Republic",
+      "Clone Wars",
+      "Imperial Era",
+      "Age of Rebellion",
+      "New Republic Era"
+    ],
+    "status": "fractured",
+    "canon": true,
+    "url": "http://localhost:3001/organizations/10"
+  },
+  {
+    "id": 11,
+    "name": "Mandalorian Clans",
+    "type": "military",
+    "founding_date": "7000BBY",
+    "dissolution_date": null,
+    "refounded_date": null,
+    "ideology": "Honor, strength, protection of Mandalorian people, adherence to the Creed and the Resol'nare",
+    "force_alignment": "neutral",
+    "headquarters_id": 16,
+    "leader_id": 37,
+    "notable_members": [
+      24,
+      35,
+      37,
+      43
+    ],
+    "era": [
+      "Old Republic",
+      "Clone Wars",
+      "Imperial Era",
+      "New Republic Era"
+    ],
+    "status": "restored",
+    "canon": true,
+    "url": "http://localhost:3001/organizations/11"
+  },
+  {
+    "id": 12,
+    "name": "Death Watch",
+    "type": "military",
+    "founding_date": "40BBY",
+    "dissolution_date": "19BBY",
+    "refounded_date": null,
+    "ideology": "Restoration of ancient Mandalorian warrior traditions by any means; violent extremism",
+    "force_alignment": "dark",
+    "headquarters_id": 16,
+    "leader_id": null,
+    "notable_members": [
+      37
+    ],
+    "era": [
+      "Clone Wars",
+      "Fall of the Jedi"
+    ],
+    "status": "dissolved",
+    "canon": true,
+    "url": "http://localhost:3001/organizations/12"
+  },
+  {
+    "id": 13,
+    "name": "Bounty Hunters Guild",
+    "type": "criminal",
+    "founding_date": null,
+    "dissolution_date": null,
+    "refounded_date": null,
+    "ideology": "Neutrality, profit through contracts, enforcement of the Guild's code of conduct",
+    "force_alignment": "none",
+    "headquarters_id": 45,
+    "leader_id": null,
+    "notable_members": [
+      24,
+      35
+    ],
+    "era": [
+      "Clone Wars",
+      "Imperial Era",
+      "Age of Rebellion",
+      "New Republic Era"
+    ],
+    "status": "active",
+    "canon": true,
+    "url": "http://localhost:3001/organizations/13"
+  },
+  {
+    "id": 14,
+    "name": "Trade Federation",
+    "type": "corporate",
+    "founding_date": "350BBY",
+    "dissolution_date": "19BBY",
+    "refounded_date": null,
+    "ideology": "Commercial dominance through blockades and private droid armies; profit above all",
+    "force_alignment": "none",
+    "headquarters_id": 31,
+    "leader_id": null,
+    "notable_members": [],
+    "era": [
+      "Fall of the Jedi",
+      "Clone Wars"
+    ],
+    "status": "dissolved",
+    "canon": true,
+    "url": "http://localhost:3001/organizations/14"
+  },
+  {
+    "id": 15,
+    "name": "Nightsisters",
+    "type": "religious",
+    "founding_date": null,
+    "dissolution_date": "21BBY",
+    "refounded_date": "9ABY",
+    "ideology": "Ichor magick, matriarchal power through the dark side; revenge against all enemies",
+    "force_alignment": "dark",
+    "headquarters_id": 48,
+    "leader_id": null,
+    "notable_members": [
+      50
+    ],
+    "era": [
+      "Clone Wars",
+      "New Republic Era"
+    ],
+    "status": "restored",
+    "canon": true,
+    "url": "http://localhost:3001/organizations/15"
+  },
+  {
+    "id": 16,
+    "name": "InterGalactic Banking Clan",
+    "type": "corporate",
+    "founding_date": null,
+    "dissolution_date": "19BBY",
+    "refounded_date": null,
+    "ideology": "Financial control and profit through lending to both sides of galactic conflicts",
+    "force_alignment": "none",
+    "headquarters_id": 30,
+    "leader_id": null,
+    "notable_members": [],
+    "era": [
+      "Clone Wars",
+      "Fall of the Jedi"
+    ],
+    "status": "dissolved",
+    "canon": true,
+    "url": "http://localhost:3001/organizations/16"
+  },
+  {
+    "id": 17,
+    "name": "Crimson Dawn",
+    "type": "criminal",
+    "founding_date": "10BBY",
+    "dissolution_date": null,
+    "refounded_date": null,
+    "ideology": "Underworld dominance, opposition to Imperial control, criminal empire above politics",
+    "force_alignment": "dark",
+    "headquarters_id": null,
+    "leader_id": 51,
+    "notable_members": [
+      51
+    ],
+    "era": [
+      "Age of Rebellion"
+    ],
+    "status": "active",
+    "canon": true,
+    "url": "http://localhost:3001/organizations/17"
+  },
+  {
+    "id": 18,
+    "name": "Pyke Syndicate",
+    "type": "criminal",
+    "founding_date": null,
+    "dissolution_date": null,
+    "refounded_date": null,
+    "ideology": "Monopoly over the spice trade, Outer Rim criminal enterprises",
+    "force_alignment": "none",
+    "headquarters_id": null,
+    "leader_id": null,
+    "notable_members": [],
+    "era": [
+      "Clone Wars",
+      "Age of Rebellion",
+      "New Republic Era"
+    ],
+    "status": "fractured",
+    "canon": true,
+    "url": "http://localhost:3001/organizations/18"
+  },
+  {
+    "id": 19,
+    "name": "Grand Army of the Republic",
+    "type": "military",
+    "founding_date": "22BBY",
+    "dissolution_date": "19BBY",
+    "refounded_date": null,
+    "ideology": "Defense of the Galactic Republic through clone trooper forces led by Jedi Generals",
+    "force_alignment": "light",
+    "headquarters_id": 12,
+    "leader_id": 3,
+    "notable_members": [
+      3,
+      6,
+      15,
+      16
+    ],
+    "era": [
+      "Clone Wars",
+      "Fall of the Jedi"
+    ],
+    "status": "dissolved",
+    "canon": true,
+    "url": "http://localhost:3001/organizations/19"
+  },
+  {
+    "id": 20,
+    "name": "501st Legion",
+    "type": "military",
+    "founding_date": "22BBY",
+    "dissolution_date": null,
+    "refounded_date": null,
+    "ideology": "Elite front-line assault; absolute loyalty to the Supreme Commander, then the Emperor",
+    "force_alignment": "dark",
+    "headquarters_id": 2,
+    "leader_id": 1,
+    "notable_members": [
+      1,
+      15,
+      16
+    ],
+    "era": [
+      "Clone Wars",
+      "Imperial Era"
+    ],
+    "status": "active",
+    "canon": true,
+    "url": "http://localhost:3001/organizations/20"
+  },
+  {
+    "id": 21,
+    "name": "Partisans",
+    "type": "resistance",
+    "founding_date": "22BBY",
+    "dissolution_date": "0BBY",
+    "refounded_date": null,
+    "ideology": "Extreme resistance by any means necessary; willingness to use civilian harm to fight the Empire",
+    "force_alignment": "neutral",
+    "headquarters_id": 19,
+    "leader_id": 45,
+    "notable_members": [
+      39,
+      45
+    ],
+    "era": [
+      "Clone Wars",
+      "Imperial Era",
+      "Age of Rebellion"
+    ],
+    "status": "dissolved",
+    "canon": true,
+    "url": "http://localhost:3001/organizations/21"
+  },
+  {
+    "id": 22,
+    "name": "New Jedi Order",
+    "type": "religious",
+    "founding_date": "4ABY",
+    "dissolution_date": "28ABY",
+    "refounded_date": null,
+    "ideology": "Restoration of the Jedi way; balance in the Force; openness to all Force-sensitive beings",
+    "force_alignment": "light",
+    "headquarters_id": null,
+    "leader_id": 17,
+    "notable_members": [
+      17,
+      29,
+      36
+    ],
+    "era": [
+      "New Republic Era",
+      "Rise of the First Order"
+    ],
+    "status": "fractured",
+    "canon": true,
+    "url": "http://localhost:3001/organizations/22"
+  },
+  {
+    "id": 23,
+    "name": "Knights of Ren",
+    "type": "military",
+    "founding_date": "28ABY",
+    "dissolution_date": "35ABY",
+    "refounded_date": null,
+    "ideology": "Pursuit of dark side power; allegiance to the Supreme Leader; disdain for Jedi and Sith ideals",
+    "force_alignment": "dark",
+    "headquarters_id": null,
+    "leader_id": 30,
+    "notable_members": [
+      30
+    ],
+    "era": [
+      "Rise of the First Order"
+    ],
+    "status": "dissolved",
+    "canon": true,
+    "url": "http://localhost:3001/organizations/23"
+  },
+  {
+    "id": 24,
+    "name": "Sith Eternal",
+    "type": "religious",
+    "founding_date": "19BBY",
+    "dissolution_date": "35ABY",
+    "refounded_date": null,
+    "ideology": "Resurrection of the Sith and the Final Order; Palpatine's galactic revenge from Exegol",
+    "force_alignment": "dark",
+    "headquarters_id": 10,
+    "leader_id": 5,
+    "notable_members": [
+      5,
+      33
+    ],
+    "era": [
+      "Imperial Era",
+      "New Republic Era",
+      "Rise of the First Order"
+    ],
+    "status": "dissolved",
+    "canon": true,
+    "url": "http://localhost:3001/organizations/24"
+  },
+  {
+    "id": 25,
+    "name": "Spectres",
+    "type": "resistance",
+    "founding_date": "5BBY",
+    "dissolution_date": "1ABY",
+    "refounded_date": null,
+    "ideology": "Resistance to Imperial occupation of Lothal; spark of the wider Rebellion",
+    "force_alignment": "light",
+    "headquarters_id": 17,
+    "leader_id": 44,
+    "notable_members": [
+      41,
+      42,
+      43,
+      44
+    ],
+    "era": [
+      "Imperial Era",
+      "Age of Rebellion"
+    ],
+    "status": "dissolved",
+    "canon": true,
+    "url": "http://localhost:3001/organizations/25"
+  }
+]
