@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "title": "Star Wars: Episode I – The Phantom Menace",
+    "name": "Star Wars: Episode I – The Phantom Menace",
     "episode_id": 1,
     "type": "film",
     "opening_crawl": "The galaxy is in turmoil. The Trade Federation blockades the planet Naboo. Two Jedi Knights are dispatched to negotiate, uncovering a deeper conspiracy that will change the galaxy forever.",
@@ -47,7 +47,7 @@
   },
   {
     "id": 2,
-    "title": "Star Wars: Episode II – Attack of the Clones",
+    "name": "Star Wars: Episode II – Attack of the Clones",
     "episode_id": 2,
     "type": "film",
     "opening_crawl": "The Republic is in crisis. A Separatist movement threatens democracy. Obi-Wan Kenobi discovers a secret clone army on Kamino while Anakin Skywalker falls forbidden love on Naboo.",
@@ -106,7 +106,7 @@
   },
   {
     "id": 3,
-    "title": "Star Wars: Episode III – Revenge of the Sith",
+    "name": "Star Wars: Episode III – Revenge of the Sith",
     "episode_id": 3,
     "type": "film",
     "opening_crawl": "War grips the galaxy. The Republic crumbles from within as Supreme Chancellor Palpatine tightens his grip, and Anakin Skywalker stands at the crossroads between light and darkness.",
@@ -171,7 +171,7 @@
   },
   {
     "id": 4,
-    "title": "Star Wars: Episode IV – A New Hope",
+    "name": "Star Wars: Episode IV – A New Hope",
     "episode_id": 4,
     "type": "film",
     "opening_crawl": "It is a dark time for the galaxy. The Galactic Empire rules through fear. A young farm boy on Tatooine discovers his destiny when he receives a desperate message from a captured Rebel princess.",
@@ -215,7 +215,7 @@
   },
   {
     "id": 5,
-    "title": "Star Wars: Episode V – The Empire Strikes Back",
+    "name": "Star Wars: Episode V – The Empire Strikes Back",
     "episode_id": 5,
     "type": "film",
     "opening_crawl": "The Empire strikes back with overwhelming force. The Rebel Alliance regroups on the frozen world of Hoth while Luke Skywalker journeys to a distant swamp planet to complete his Jedi training.",
@@ -258,7 +258,7 @@
   },
   {
     "id": 6,
-    "title": "Star Wars: Episode VI – Return of the Jedi",
+    "name": "Star Wars: Episode VI – Return of the Jedi",
     "episode_id": 6,
     "type": "film",
     "opening_crawl": "The Empire constructs a second, more powerful Death Star. The Rebel Alliance hatches a daring plan to destroy it while Luke Skywalker seeks to redeem his father from the dark side of the Force.",
@@ -311,7 +311,7 @@
   },
   {
     "id": 7,
-    "title": "Star Wars: Episode VII – The Force Awakens",
+    "name": "Star Wars: Episode VII – The Force Awakens",
     "episode_id": 7,
     "type": "film",
     "opening_crawl": "The First Order rises from the ashes of the Empire. Luke Skywalker has vanished. A young scavenger on Jakku stumbles onto a map that could reveal the last Jedi's location.",
@@ -361,7 +361,7 @@
   },
   {
     "id": 8,
-    "title": "Star Wars: Episode VIII – The Last Jedi",
+    "name": "Star Wars: Episode VIII – The Last Jedi",
     "episode_id": 8,
     "type": "film",
     "opening_crawl": "The Resistance flees the devastated Hosnian system. Rey seeks wisdom from Luke Skywalker on the ancient Jedi world of Ahch-To while Kylo Ren and Supreme Leader Snoke tighten their grip on the galaxy.",
@@ -402,7 +402,7 @@
   },
   {
     "id": 9,
-    "title": "Star Wars: Episode IX – The Rise of Skywalker",
+    "name": "Star Wars: Episode IX – The Rise of Skywalker",
     "episode_id": 9,
     "type": "film",
     "opening_crawl": "The dead speak. Emperor Palpatine's sinister broadcast echoes across the galaxy, threatening a Final Order. The Resistance races to find Exegol before the Sith Eternal destroys all hope.",
@@ -447,7 +447,7 @@
   },
   {
     "id": 10,
-    "title": "Rogue One: A Star Wars Story",
+    "name": "Rogue One: A Star Wars Story",
     "episode_id": null,
     "type": "film",
     "opening_crawl": null,
@@ -485,7 +485,7 @@
   },
   {
     "id": 11,
-    "title": "Solo: A Star Wars Story",
+    "name": "Solo: A Star Wars Story",
     "episode_id": null,
     "type": "film",
     "opening_crawl": null,
@@ -519,7 +519,7 @@
   },
   {
     "id": 12,
-    "title": "Star Wars: The Clone Wars",
+    "name": "Star Wars: The Clone Wars",
     "episode_id": null,
     "type": "series",
     "opening_crawl": null,
@@ -598,7 +598,7 @@
   },
   {
     "id": 13,
-    "title": "Star Wars: Rebels",
+    "name": "Star Wars: Rebels",
     "episode_id": null,
     "type": "series",
     "opening_crawl": null,
@@ -646,7 +646,7 @@
   },
   {
     "id": 14,
-    "title": "The Mandalorian",
+    "name": "The Mandalorian",
     "episode_id": null,
     "type": "series",
     "opening_crawl": null,
@@ -687,7 +687,7 @@
   },
   {
     "id": 15,
-    "title": "Andor",
+    "name": "Andor",
     "episode_id": null,
     "type": "series",
     "opening_crawl": null,
@@ -725,7 +725,7 @@
   },
   {
     "id": 16,
-    "title": "Obi-Wan Kenobi",
+    "name": "Obi-Wan Kenobi",
     "episode_id": null,
     "type": "series",
     "opening_crawl": null,
@@ -759,7 +759,7 @@
   },
   {
     "id": 17,
-    "title": "Star Wars: The Bad Batch",
+    "name": "Star Wars: The Bad Batch",
     "episode_id": null,
     "type": "series",
     "opening_crawl": null,
@@ -796,7 +796,7 @@
   },
   {
     "id": 18,
-    "title": "Ahsoka",
+    "name": "Ahsoka",
     "episode_id": null,
     "type": "series",
     "opening_crawl": null,
@@ -835,7 +835,7 @@
   },
   {
     "id": 19,
-    "title": "The Book of Boba Fett",
+    "name": "The Book of Boba Fett",
     "episode_id": null,
     "type": "series",
     "opening_crawl": null,
@@ -869,7 +869,7 @@
   },
   {
     "id": 20,
-    "title": "Star Wars: Resistance",
+    "name": "Star Wars: Resistance",
     "episode_id": null,
     "type": "series",
     "opening_crawl": null,
@@ -904,7 +904,7 @@
   },
   {
     "id": 21,
-    "title": "Star Wars: Tales of the Jedi",
+    "name": "Star Wars: Tales of the Jedi",
     "episode_id": null,
     "type": "short",
     "opening_crawl": null,
@@ -940,7 +940,7 @@
   },
   {
     "id": 22,
-    "title": "Star Wars: Visions – Volume 1",
+    "name": "Star Wars: Visions – Volume 1",
     "episode_id": null,
     "type": "short",
     "opening_crawl": null,
@@ -960,7 +960,7 @@
   },
   {
     "id": 23,
-    "title": "Star Wars: Visions – Volume 2",
+    "name": "Star Wars: Visions – Volume 2",
     "episode_id": null,
     "type": "short",
     "opening_crawl": null,
@@ -980,7 +980,7 @@
   },
   {
     "id": 24,
-    "title": "Star Wars: Tales of the Empire",
+    "name": "Star Wars: Tales of the Empire",
     "episode_id": null,
     "type": "short",
     "opening_crawl": null,
@@ -1016,7 +1016,7 @@
   },
   {
     "id": 25,
-    "title": "Star Wars: Young Jedi Adventures",
+    "name": "Star Wars: Young Jedi Adventures",
     "episode_id": null,
     "type": "series",
     "opening_crawl": null,
@@ -1045,7 +1045,7 @@
   },
   {
     "id": 26,
-    "title": "The Acolyte",
+    "name": "The Acolyte",
     "episode_id": null,
     "type": "series",
     "opening_crawl": null,
@@ -1076,7 +1076,7 @@
   },
   {
     "id": 27,
-    "title": "Star Wars: Skeleton Crew",
+    "name": "Star Wars: Skeleton Crew",
     "episode_id": null,
     "type": "series",
     "opening_crawl": null,
