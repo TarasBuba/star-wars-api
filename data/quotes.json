@@ -7,7 +7,8 @@
     "context": "Obi-Wan's farewell blessing before the Battle of Yavin — became the eternal motto of the Jedi and the Rebellion",
     "is_iconic": true,
     "canon": true,
-    "url": "http://localhost:3001/quotes/1"
+    "url": "http://localhost:3001/quotes/1",
+    "image": null
   },
   {
     "id": 2,
@@ -17,7 +18,8 @@
     "context": "Darth Vader reveals his true identity to Luke Skywalker in the carbon-freezing chamber of Cloud City",
     "is_iconic": true,
     "canon": true,
-    "url": "http://localhost:3001/quotes/2"
+    "url": "http://localhost:3001/quotes/2",
+    "image": null
   },
   {
     "id": 3,
@@ -27,7 +29,8 @@
     "context": "Yoda instructs Luke during his Jedi training on Dagobah when Luke doubts his ability to lift his X-Wing",
     "is_iconic": true,
     "canon": true,
-    "url": "http://localhost:3001/quotes/3"
+    "url": "http://localhost:3001/quotes/3",
+    "image": null
   },
   {
     "id": 4,
@@ -37,7 +40,8 @@
     "context": "Princess Leia's holographic message hidden inside R2-D2, recorded before her capture by Darth Vader",
     "is_iconic": true,
     "canon": true,
-    "url": "http://localhost:3001/quotes/4"
+    "url": "http://localhost:3001/quotes/4",
+    "image": null
   },
   {
     "id": 5,
@@ -47,7 +51,8 @@
     "context": "Admiral Ackbar realizes the Rebel fleet has flown into an Imperial ambush above the Forest Moon of Endor",
     "is_iconic": true,
     "canon": true,
-    "url": "http://localhost:3001/quotes/5"
+    "url": "http://localhost:3001/quotes/5",
+    "image": null
   },
   {
     "id": 6,
@@ -57,7 +62,8 @@
     "context": "Darth Vader Force-chokes Admiral Motti aboard the Death Star after he mocks the power of the Force",
     "is_iconic": true,
     "canon": true,
-    "url": "http://localhost:3001/quotes/6"
+    "url": "http://localhost:3001/quotes/6",
+    "image": null
   },
   {
     "id": 7,
@@ -67,7 +73,8 @@
     "context": "Obi-Wan Kenobi's final words to Luke as a physical being, moments before he allows Vader to strike him down",
     "is_iconic": true,
     "canon": true,
-    "url": "http://localhost:3001/quotes/7"
+    "url": "http://localhost:3001/quotes/7",
+    "image": null
   },
   {
     "id": 8,
@@ -77,7 +84,8 @@
     "context": "Han Solo dismisses C-3PO's calculation of the near-impossible odds of surviving the Hoth asteroid field",
     "is_iconic": true,
     "canon": true,
-    "url": "http://localhost:3001/quotes/8"
+    "url": "http://localhost:3001/quotes/8",
+    "image": null
   },
   {
     "id": 9,
@@ -87,7 +95,8 @@
     "context": "Padmé watches in horror as the entire Galactic Senate erupts in celebration of Palpatine declaring the Galactic Empire",
     "is_iconic": true,
     "canon": true,
-    "url": "http://localhost:3001/quotes/9"
+    "url": "http://localhost:3001/quotes/9",
+    "image": null
   },
   {
     "id": 10,
@@ -97,7 +106,8 @@
     "context": "Palpatine responds to Mace Windu's declaration that the Senate will decide his fate — a chilling assertion of absolute power",
     "is_iconic": true,
     "canon": true,
-    "url": "http://localhost:3001/quotes/10"
+    "url": "http://localhost:3001/quotes/10",
+    "image": null
   },
   {
     "id": 11,
@@ -107,7 +117,8 @@
     "context": "Obi-Wan's anguished cry on the shores of Mustafar after defeating Anakin — the culmination of their brotherly bond",
     "is_iconic": true,
     "canon": true,
-    "url": "http://localhost:3001/quotes/11"
+    "url": "http://localhost:3001/quotes/11",
+    "image": null
   },
   {
     "id": 12,
@@ -117,7 +128,8 @@
     "context": "Yoda warns the Jedi Council about young Anakin Skywalker's fear regarding his mother on Tatooine",
     "is_iconic": true,
     "canon": true,
-    "url": "http://localhost:3001/quotes/12"
+    "url": "http://localhost:3001/quotes/12",
+    "image": null
   },
   {
     "id": 13,
@@ -127,7 +139,8 @@
     "context": "Palpatine seduces Anakin at the opera on Coruscant, hinting at the secret of cheating death",
     "is_iconic": true,
     "canon": true,
-    "url": "http://localhost:3001/quotes/13"
+    "url": "http://localhost:3001/quotes/13",
+    "image": null
   },
   {
     "id": 14,
@@ -137,7 +150,8 @@
     "context": "The sacred oath and acknowledgment of the Mandalorian Creed, repeated throughout Din Djarin's journey",
     "is_iconic": true,
     "canon": true,
-    "url": "http://localhost:3001/quotes/14"
+    "url": "http://localhost:3001/quotes/14",
+    "image": null
   },
   {
     "id": 15,
@@ -147,7 +161,8 @@
     "context": "Ahsoka Tano faces Darth Vader on Malachor, rejecting the identity that once defined her — a moment of profound self-determination",
     "is_iconic": true,
     "canon": true,
-    "url": "http://localhost:3001/quotes/15"
+    "url": "http://localhost:3001/quotes/15",
+    "image": null
   },
   {
     "id": 16,
@@ -157,7 +172,8 @@
     "context": "Qui-Gon Jinn counsels young Anakin Skywalker on Tatooine before the Boonta Eve Podrace",
     "is_iconic": true,
     "canon": true,
-    "url": "http://localhost:3001/quotes/16"
+    "url": "http://localhost:3001/quotes/16",
+    "image": null
   },
   {
     "id": 17,
@@ -167,7 +183,8 @@
     "context": "Jyn Erso rallies the Rebel council on Yavin 4, inspiring them to attempt the impossible theft of the Death Star plans",
     "is_iconic": true,
     "canon": true,
-    "url": "http://localhost:3001/quotes/17"
+    "url": "http://localhost:3001/quotes/17",
+    "image": null
   },
   {
     "id": 18,
@@ -177,7 +194,8 @@
     "context": "Darth Vader Force-chokes Director Krennic on the beach of Scarif — a cold, darkly ironic remark",
     "is_iconic": true,
     "canon": true,
-    "url": "http://localhost:3001/quotes/18"
+    "url": "http://localhost:3001/quotes/18",
+    "image": null
   },
   {
     "id": 19,
@@ -187,7 +205,8 @@
     "context": "Obi-Wan confronts Anakin on Mustafar after Anakin declares anyone who is not with him is his enemy",
     "is_iconic": true,
     "canon": true,
-    "url": "http://localhost:3001/quotes/19"
+    "url": "http://localhost:3001/quotes/19",
+    "image": null
   },
   {
     "id": 20,
@@ -197,7 +216,8 @@
     "context": "Yoda's final words to Luke on Dagobah, a flash of his characteristic humor even in his dying moments",
     "is_iconic": true,
     "canon": true,
-    "url": "http://localhost:3001/quotes/20"
+    "url": "http://localhost:3001/quotes/20",
+    "image": null
   },
   {
     "id": 21,
@@ -207,7 +227,8 @@
     "context": "Han Solo's iconic response to Leia's 'I love you' as he is lowered into the carbon-freezing chamber — calm defiance in the face of death",
     "is_iconic": true,
     "canon": true,
-    "url": "http://localhost:3001/quotes/21"
+    "url": "http://localhost:3001/quotes/21",
+    "image": null
   },
   {
     "id": 22,
@@ -217,7 +238,8 @@
     "context": "Palpatine urges Anakin to execute the disarmed Count Dooku — testing his willingness to murder in cold blood",
     "is_iconic": true,
     "canon": true,
-    "url": "http://localhost:3001/quotes/22"
+    "url": "http://localhost:3001/quotes/22",
+    "image": null
   },
   {
     "id": 23,
@@ -227,7 +249,8 @@
     "context": "Luke refuses to turn to the dark side before Emperor Palpatine, asserting his identity and his father's redeemable light",
     "is_iconic": true,
     "canon": true,
-    "url": "http://localhost:3001/quotes/23"
+    "url": "http://localhost:3001/quotes/23",
+    "image": null
   },
   {
     "id": 24,
@@ -237,7 +260,8 @@
     "context": "Han Solo voices the galaxy's most repeated premonition aboard the Millennium Falcon approaching the Death Star",
     "is_iconic": true,
     "canon": true,
-    "url": "http://localhost:3001/quotes/24"
+    "url": "http://localhost:3001/quotes/24",
+    "image": null
   },
   {
     "id": 25,
@@ -247,7 +271,8 @@
     "context": "Obi-Wan uses a Jedi mind trick on a stormtrooper checkpoint in Mos Eisley — the definitive demonstration of the Force's subtle power",
     "is_iconic": true,
     "canon": true,
-    "url": "http://localhost:3001/quotes/25"
+    "url": "http://localhost:3001/quotes/25",
+    "image": null
   },
   {
     "id": 26,
@@ -257,7 +282,8 @@
     "context": "Yoda rebukes Luke's doubt about lifting the X-Wing from the Dagobah swamp — then effortlessly does it himself",
     "is_iconic": true,
     "canon": true,
-    "url": "http://localhost:3001/quotes/26"
+    "url": "http://localhost:3001/quotes/26",
+    "image": null
   },
   {
     "id": 27,
@@ -267,7 +293,8 @@
     "context": "Kylo Ren urges Rey to abandon her attachment to the past and join him in reshaping the galaxy — a reflection of his own inner conflict",
     "is_iconic": true,
     "canon": true,
-    "url": "http://localhost:3001/quotes/27"
+    "url": "http://localhost:3001/quotes/27",
+    "image": null
   },
   {
     "id": 28,
@@ -277,7 +304,8 @@
     "context": "Force ghost Yoda appears to Luke on Ahch-To and burns the Jedi tree, teaching him that loss is the beginning of wisdom",
     "is_iconic": true,
     "canon": true,
-    "url": "http://localhost:3001/quotes/28"
+    "url": "http://localhost:3001/quotes/28",
+    "image": null
   },
   {
     "id": 29,
@@ -287,7 +315,8 @@
     "context": "Yoda pinches Luke's shoulder during his Dagobah training, illustrating that the Force transcends the physical body",
     "is_iconic": true,
     "canon": true,
-    "url": "http://localhost:3001/quotes/29"
+    "url": "http://localhost:3001/quotes/29",
+    "image": null
   },
   {
     "id": 30,
@@ -297,7 +326,8 @@
     "context": "Emperor Palpatine encourages Luke's anger during his duel with Vader aboard the second Death Star",
     "is_iconic": true,
     "canon": true,
-    "url": "http://localhost:3001/quotes/30"
+    "url": "http://localhost:3001/quotes/30",
+    "image": null
   },
   {
     "id": 31,
@@ -307,7 +337,8 @@
     "context": "Obi-Wan Kenobi's breezy greeting to General Grievous after a dramatic drop from the ceiling of the Utapau sinkhole — became the internet's most beloved Star Wars meme",
     "is_iconic": true,
     "canon": true,
-    "url": "http://localhost:3001/quotes/31"
+    "url": "http://localhost:3001/quotes/31",
+    "image": null
   },
   {
     "id": 32,
@@ -317,7 +348,8 @@
     "context": "General Grievous responds to Obi-Wan's audacious solo appearance on Utapau — the canonical complement to the 'Hello there' meme",
     "is_iconic": true,
     "canon": true,
-    "url": "http://localhost:3001/quotes/32"
+    "url": "http://localhost:3001/quotes/32",
+    "image": null
   },
   {
     "id": 33,
@@ -327,7 +359,8 @@
     "context": "C-3PO frantically warns Han Solo about the astronomical odds against flying through the Hoth asteroid field",
     "is_iconic": true,
     "canon": true,
-    "url": "http://localhost:3001/quotes/33"
+    "url": "http://localhost:3001/quotes/33",
+    "image": null
   },
   {
     "id": 34,
@@ -337,7 +370,8 @@
     "context": "Princess Leia defies Grand Moff Tarkin aboard the Death Star, predicting that Imperial oppression will only fuel the Rebellion",
     "is_iconic": true,
     "canon": true,
-    "url": "http://localhost:3001/quotes/34"
+    "url": "http://localhost:3001/quotes/34",
+    "image": null
   },
   {
     "id": 35,
@@ -347,7 +381,8 @@
     "context": "Grand Moff Tarkin dismisses the Imperial Senate and reveals his strategy of ruling the galaxy through terror and the Death Star",
     "is_iconic": true,
     "canon": true,
-    "url": "http://localhost:3001/quotes/35"
+    "url": "http://localhost:3001/quotes/35",
+    "image": null
   },
   {
     "id": 36,
@@ -357,7 +392,8 @@
     "context": "Han Solo dismisses Luke's belief in the Force — a cynicism he will spend the rest of his life reconsidering",
     "is_iconic": true,
     "canon": true,
-    "url": "http://localhost:3001/quotes/36"
+    "url": "http://localhost:3001/quotes/36",
+    "image": null
   },
   {
     "id": 37,
@@ -367,7 +403,8 @@
     "context": "Captain Rex reflects on his evolution as a leader during the Umbara campaign, after defying General Krell's suicidal orders",
     "is_iconic": false,
     "canon": true,
-    "url": "http://localhost:3001/quotes/37"
+    "url": "http://localhost:3001/quotes/37",
+    "image": null
   },
   {
     "id": 38,
@@ -377,7 +414,8 @@
     "context": "Darth Maul gazes at Coruscant from his ship, speaking to his master Darth Sidious — the first hint of the Sith's return in a millennium",
     "is_iconic": true,
     "canon": true,
-    "url": "http://localhost:3001/quotes/38"
+    "url": "http://localhost:3001/quotes/38",
+    "image": null
   },
   {
     "id": 39,
@@ -387,7 +425,8 @@
     "context": "Luke tells Yoda he's not afraid to enter the dark side cave on Dagobah — Yoda's reply: 'You will be. You will be.'",
     "is_iconic": true,
     "canon": true,
-    "url": "http://localhost:3001/quotes/39"
+    "url": "http://localhost:3001/quotes/39",
+    "image": null
   },
   {
     "id": 40,
@@ -397,7 +436,8 @@
     "context": "Han Solo and Chewbacca step aboard the Millennium Falcon for the first time in years — a moment of pure nostalgia for a generation",
     "is_iconic": true,
     "canon": true,
-    "url": "http://localhost:3001/quotes/40"
+    "url": "http://localhost:3001/quotes/40",
+    "image": null
   },
   {
     "id": 41,
@@ -407,7 +447,8 @@
     "context": "Han Solo frustratedly corrects Finn's naive plan to use the Force to disable Starkiller Base's shields",
     "is_iconic": true,
     "canon": true,
-    "url": "http://localhost:3001/quotes/41"
+    "url": "http://localhost:3001/quotes/41",
+    "image": null
   },
   {
     "id": 42,
@@ -417,7 +458,8 @@
     "context": "Jyn Erso's passionate speech to the Rebel Alliance council, rallying them to fight even when the odds are hopeless",
     "is_iconic": true,
     "canon": true,
-    "url": "http://localhost:3001/quotes/42"
+    "url": "http://localhost:3001/quotes/42",
+    "image": null
   },
   {
     "id": 43,
@@ -427,7 +469,8 @@
     "context": "Chirrut Îmwe's mantra as he walks through the crossfire of Scarif to activate the master switch — his faith made manifest",
     "is_iconic": true,
     "canon": true,
-    "url": "http://localhost:3001/quotes/43"
+    "url": "http://localhost:3001/quotes/43",
+    "image": null
   },
   {
     "id": 44,
@@ -437,7 +480,8 @@
     "context": "Kanan Jarrus confronts the Inquisitor about the hollowness of the dark side as a philosophy of pure destruction",
     "is_iconic": false,
     "canon": true,
-    "url": "http://localhost:3001/quotes/44"
+    "url": "http://localhost:3001/quotes/44",
+    "image": null
   },
   {
     "id": 45,
@@ -447,7 +491,8 @@
     "context": "Hera Syndulla to Kanan, on the nature of command and why the Ghost crew fights not out of duty but out of belief",
     "is_iconic": false,
     "canon": true,
-    "url": "http://localhost:3001/quotes/45"
+    "url": "http://localhost:3001/quotes/45",
+    "image": null
   },
   {
     "id": 46,
@@ -457,7 +502,8 @@
     "context": "Luke observes the Death Star's tactical blind spot during the Rebel briefing — foreshadowing his impossible shot",
     "is_iconic": false,
     "canon": true,
-    "url": "http://localhost:3001/quotes/46"
+    "url": "http://localhost:3001/quotes/46",
+    "image": null
   },
   {
     "id": 47,
@@ -467,7 +513,8 @@
     "context": "Yoda bids farewell to Anakin before the Battle of Geonosis — a bittersweet moment given what the future holds",
     "is_iconic": false,
     "canon": true,
-    "url": "http://localhost:3001/quotes/47"
+    "url": "http://localhost:3001/quotes/47",
+    "image": null
   },
   {
     "id": 48,
@@ -477,7 +524,8 @@
     "context": "Rey answers Kylo Ren's probing question about her identity — a line that carries the weight of belonging and self-worth at the core of the sequel trilogy",
     "is_iconic": true,
     "canon": true,
-    "url": "http://localhost:3001/quotes/48"
+    "url": "http://localhost:3001/quotes/48",
+    "image": null
   },
   {
     "id": 49,
@@ -487,7 +535,8 @@
     "context": "Obi-Wan's calm final words to Darth Vader — fulfilled when he becomes a Force ghost and guides Luke from beyond death",
     "is_iconic": true,
     "canon": true,
-    "url": "http://localhost:3001/quotes/49"
+    "url": "http://localhost:3001/quotes/49",
+    "image": null
   },
   {
     "id": 50,
@@ -497,7 +546,8 @@
     "context": "Din Djarin refuses Bo-Katan's offer to join the Mandalorian liberation fight — his only mission is protecting Grogu",
     "is_iconic": false,
     "canon": true,
-    "url": "http://localhost:3001/quotes/50"
+    "url": "http://localhost:3001/quotes/50",
+    "image": null
   },
   {
     "id": 51,
@@ -507,7 +557,8 @@
     "context": "Bo-Katan Kryze rallies her Nite Owls during the assault on the Imperial light cruiser to reclaim stolen Mandalorian weapons",
     "is_iconic": true,
     "canon": true,
-    "url": "http://localhost:3001/quotes/51"
+    "url": "http://localhost:3001/quotes/51",
+    "image": null
   },
   {
     "id": 52,
@@ -517,7 +568,8 @@
     "context": "Kanan Jarrus explains the living Force to Ezra Bridger — that connection to life itself is the true source of a Jedi's strength",
     "is_iconic": false,
     "canon": true,
-    "url": "http://localhost:3001/quotes/52"
+    "url": "http://localhost:3001/quotes/52",
+    "image": null
   },
   {
     "id": 53,
@@ -527,7 +579,8 @@
     "context": "Jyn Erso's defiant restatement to Cassian Andor — the line that defines all of Rogue One's sacrifice",
     "is_iconic": true,
     "canon": true,
-    "url": "http://localhost:3001/quotes/53"
+    "url": "http://localhost:3001/quotes/53",
+    "image": null
   },
   {
     "id": 54,
@@ -537,7 +590,8 @@
     "context": "Darth Vader tells Luke that he must obey the Emperor — yet his voice betrays a faint, desperate sorrow",
     "is_iconic": true,
     "canon": true,
-    "url": "http://localhost:3001/quotes/54"
+    "url": "http://localhost:3001/quotes/54",
+    "image": null
   },
   {
     "id": 55,
@@ -547,6 +601,7 @@
     "context": "Obi-Wan's anguished declaration on Mustafar as Anakin demands he choose a side in a battle that has no good option",
     "is_iconic": true,
     "canon": true,
-    "url": "http://localhost:3001/quotes/55"
+    "url": "http://localhost:3001/quotes/55",
+    "image": null
   }
 ]

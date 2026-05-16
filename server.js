@@ -3,9 +3,9 @@
 // Запуск: cd star-wars/api && node server.js
 
 const jsonServer = require('json-server');
-const path       = require('path');
+const path = require('path');
 
-const app    = jsonServer.create();
+const app = jsonServer.create();
 const router = jsonServer.router(require('./db.js')());
 const routes = require('./routes.json');
 
@@ -15,9 +15,15 @@ app.use(middlewares);
 
 // ── CORS ────────────────────────────────────────────────
 app.use((req, res, next) => {
-  res.header('Access-Control-Allow-Origin',  '*');
-  res.header('Access-Control-Allow-Headers', 'Origin, X-Requested-With, Content-Type, Accept');
-  res.header('Access-Control-Allow-Methods', 'GET, POST, PUT, PATCH, DELETE, OPTIONS');
+  res.header('Access-Control-Allow-Origin', '*');
+  res.header(
+    'Access-Control-Allow-Headers',
+    'Origin, X-Requested-With, Content-Type, Accept'
+  );
+  res.header(
+    'Access-Control-Allow-Methods',
+    'GET, POST, PUT, PATCH, DELETE, OPTIONS'
+  );
   if (req.method === 'OPTIONS') return res.sendStatus(200);
   next();
 });
@@ -27,7 +33,7 @@ app.use(jsonServer.rewriter(routes));
 
 // ── Custom response: додаємо meta обгортку ───────────────
 router.render = (req, res) => {
-  const data  = res.locals.data;
+  const data = res.locals.data;
   const isArr = Array.isArray(data);
   res.header('X-Total-Count', isArr ? data.length : 1);
   res.jsonp(isArr ? { data, meta: { total: data.length } } : data);

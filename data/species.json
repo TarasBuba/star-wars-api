@@ -30,7 +30,8 @@
     "homeworld_id": 2,
     "force_sensitivity": "rare",
     "canon": true,
-    "url": "http://localhost:3001/species/1"
+    "url": "http://localhost:3001/species/1",
+    "image": null
   },
   {
     "id": 2,
@@ -58,7 +59,8 @@
     "homeworld_id": 15,
     "force_sensitivity": "rare",
     "canon": true,
-    "url": "http://localhost:3001/species/2"
+    "url": "http://localhost:3001/species/2",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/wookiees-main-b_fc850c5b.jpeg"
   },
   {
     "id": 3,
@@ -90,7 +92,8 @@
     "homeworld_id": 23,
     "force_sensitivity": "rare",
     "canon": true,
-    "url": "http://localhost:3001/species/3"
+    "url": "http://localhost:3001/species/3",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/twi-lek-main_93917d40.jpeg"
   },
   {
     "id": 4,
@@ -118,7 +121,8 @@
     "homeworld_id": 24,
     "force_sensitivity": "rare",
     "canon": true,
-    "url": "http://localhost:3001/species/4"
+    "url": "http://localhost:3001/species/4",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/databank_togruta_01_169_4618d329.jpeg"
   },
   {
     "id": 5,
@@ -150,7 +154,8 @@
     "homeworld_id": 25,
     "force_sensitivity": "rare",
     "canon": true,
-    "url": "http://localhost:3001/species/5"
+    "url": "http://localhost:3001/species/5",
+    "image": null
   },
   {
     "id": 6,
@@ -173,7 +178,8 @@
     "homeworld_id": null,
     "force_sensitivity": "rare",
     "canon": true,
-    "url": "http://localhost:3001/species/6"
+    "url": "http://localhost:3001/species/6",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/databank_nautolan_01_169_9be3d603.jpeg"
   },
   {
     "id": 7,
@@ -196,7 +202,8 @@
     "homeworld_id": 26,
     "force_sensitivity": "none",
     "canon": true,
-    "url": "http://localhost:3001/species/7"
+    "url": "http://localhost:3001/species/7",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/rodian-main_de29c78f.jpeg"
   },
   {
     "id": 8,
@@ -221,7 +228,8 @@
     "homeworld_id": null,
     "force_sensitivity": "none",
     "canon": true,
-    "url": "http://localhost:3001/species/8"
+    "url": "http://localhost:3001/species/8",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/trandoshian-main_19804be7.jpeg"
   },
   {
     "id": 9,
@@ -246,7 +254,8 @@
     "homeworld_id": 27,
     "force_sensitivity": "none",
     "canon": true,
-    "url": "http://localhost:3001/species/9"
+    "url": "http://localhost:3001/species/9",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/databank_hutt_01_169_5d0535d2.jpeg"
   },
   {
     "id": 10,
@@ -272,7 +281,8 @@
     "homeworld_id": null,
     "force_sensitivity": "rare",
     "canon": true,
-    "url": "http://localhost:3001/species/10"
+    "url": "http://localhost:3001/species/10",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/databank_moncalamari_01_169_135967d9.jpeg"
   },
   {
     "id": 11,
@@ -295,7 +305,8 @@
     "homeworld_id": 3,
     "force_sensitivity": "none",
     "canon": true,
-    "url": "http://localhost:3001/species/11"
+    "url": "http://localhost:3001/species/11",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/ep1_ia_70138_bd7b9296.jpeg"
   },
   {
     "id": 12,
@@ -322,7 +333,8 @@
     "homeworld_id": 7,
     "force_sensitivity": "none",
     "canon": true,
-    "url": "http://localhost:3001/species/12"
+    "url": "http://localhost:3001/species/12",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/databank_ewok_01_169_747db03a.jpeg"
   },
   {
     "id": 13,
@@ -351,7 +363,8 @@
     "homeworld_id": null,
     "force_sensitivity": "common",
     "canon": true,
-    "url": "http://localhost:3001/species/13"
+    "url": "http://localhost:3001/species/13",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/databank_mirialan_01_169_958106f8.jpeg"
   },
   {
     "id": 14,
@@ -374,7 +387,8 @@
     "homeworld_id": null,
     "force_sensitivity": "rare",
     "canon": true,
-    "url": "http://localhost:3001/species/14"
+    "url": "http://localhost:3001/species/14",
+    "image": null
   },
   {
     "id": 15,
@@ -401,7 +415,8 @@
     "homeworld_id": null,
     "force_sensitivity": "common",
     "canon": true,
-    "url": "http://localhost:3001/species/15"
+    "url": "http://localhost:3001/species/15",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/databank_cerean_01_169_61617903.jpeg"
   },
   {
     "id": 16,
@@ -425,7 +440,8 @@
     "homeworld_id": null,
     "force_sensitivity": "rare",
     "canon": true,
-    "url": "http://localhost:3001/species/16"
+    "url": "http://localhost:3001/species/16",
+    "image": null
   },
   {
     "id": 17,
@@ -448,7 +464,8 @@
     "homeworld_id": null,
     "force_sensitivity": "rare",
     "canon": true,
-    "url": "http://localhost:3001/species/17"
+    "url": "http://localhost:3001/species/17",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/databank_duros_01_169_9a7854b9.jpeg"
   },
   {
     "id": 18,
@@ -473,7 +490,8 @@
     "homeworld_id": null,
     "force_sensitivity": "common",
     "canon": true,
-    "url": "http://localhost:3001/species/18"
+    "url": "http://localhost:3001/species/18",
+    "image": null
   },
   {
     "id": 19,
@@ -496,7 +514,8 @@
     "homeworld_id": 50,
     "force_sensitivity": "none",
     "canon": true,
-    "url": "http://localhost:3001/species/19"
+    "url": "http://localhost:3001/species/19",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/databank_sullustan_01_169_01e4c3e0.jpeg"
   },
   {
     "id": 20,
@@ -525,7 +544,8 @@
     "homeworld_id": null,
     "force_sensitivity": "rare",
     "canon": true,
-    "url": "http://localhost:3001/species/20"
+    "url": "http://localhost:3001/species/20",
+    "image": null
   },
   {
     "id": 21,
@@ -553,7 +573,8 @@
     "homeworld_id": null,
     "force_sensitivity": "rare",
     "canon": true,
-    "url": "http://localhost:3001/species/21"
+    "url": "http://localhost:3001/species/21",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/devaronian_51b6f148.jpeg"
   },
   {
     "id": 22,
@@ -579,7 +600,8 @@
     "homeworld_id": null,
     "force_sensitivity": "none",
     "canon": true,
-    "url": "http://localhost:3001/species/22"
+    "url": "http://localhost:3001/species/22",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/weequay-main-bobf-b_be593098.jpeg"
   },
   {
     "id": 23,
@@ -605,7 +627,8 @@
     "homeworld_id": null,
     "force_sensitivity": "none",
     "canon": true,
-    "url": "http://localhost:3001/species/23"
+    "url": "http://localhost:3001/species/23",
+    "image": null
   },
   {
     "id": 24,
@@ -627,7 +650,8 @@
     "homeworld_id": null,
     "force_sensitivity": "none",
     "canon": true,
-    "url": "http://localhost:3001/species/24"
+    "url": "http://localhost:3001/species/24",
+    "image": null
   },
   {
     "id": 25,
@@ -652,7 +676,8 @@
     "homeworld_id": null,
     "force_sensitivity": "none",
     "canon": true,
-    "url": "http://localhost:3001/species/25"
+    "url": "http://localhost:3001/species/25",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/databank_quarren_01_169_5fb52f4f.jpeg"
   },
   {
     "id": 26,
@@ -676,7 +701,8 @@
     "homeworld_id": null,
     "force_sensitivity": "none",
     "canon": true,
-    "url": "http://localhost:3001/species/26"
+    "url": "http://localhost:3001/species/26",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/gran_857179a3.jpeg"
   },
   {
     "id": 27,
@@ -700,7 +726,8 @@
     "homeworld_id": null,
     "force_sensitivity": "none",
     "canon": true,
-    "url": "http://localhost:3001/species/27"
+    "url": "http://localhost:3001/species/27",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/databank_besalisk_01_169_875a3eee.jpeg"
   },
   {
     "id": 28,
@@ -724,7 +751,8 @@
     "homeworld_id": null,
     "force_sensitivity": "rare",
     "canon": true,
-    "url": "http://localhost:3001/species/28"
+    "url": "http://localhost:3001/species/28",
+    "image": null
   },
   {
     "id": 29,
@@ -747,7 +775,8 @@
     "homeworld_id": 12,
     "force_sensitivity": "none",
     "canon": true,
-    "url": "http://localhost:3001/species/29"
+    "url": "http://localhost:3001/species/29",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/kaminoan-main-image_8f582a48.jpeg"
   },
   {
     "id": 30,
@@ -771,7 +800,8 @@
     "homeworld_id": 13,
     "force_sensitivity": "none",
     "canon": true,
-    "url": "http://localhost:3001/species/30"
+    "url": "http://localhost:3001/species/30",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/databank_geonosian_01_169_c6020111.jpeg"
   },
   {
     "id": 31,
@@ -794,7 +824,8 @@
     "homeworld_id": null,
     "force_sensitivity": "rare",
     "canon": true,
-    "url": "http://localhost:3001/species/31"
+    "url": "http://localhost:3001/species/31",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/databank_chagrain_01_169_e8ce3def.jpeg"
   },
   {
     "id": 32,
@@ -823,7 +854,8 @@
     "homeworld_id": null,
     "force_sensitivity": "rare",
     "canon": true,
-    "url": "http://localhost:3001/species/32"
+    "url": "http://localhost:3001/species/32",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/databank_pantoran_01_169_59541909.jpeg"
   },
   {
     "id": 33,
@@ -846,7 +878,8 @@
     "homeworld_id": null,
     "force_sensitivity": "none",
     "canon": true,
-    "url": "http://localhost:3001/species/33"
+    "url": "http://localhost:3001/species/33",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/databank_toydarian_01_169_748d4d11.jpeg"
   },
   {
     "id": 34,
@@ -874,7 +907,8 @@
     "homeworld_id": 34,
     "force_sensitivity": "rare",
     "canon": true,
-    "url": "http://localhost:3001/species/34"
+    "url": "http://localhost:3001/species/34",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/umbaran_b03d331e.jpeg"
   },
   {
     "id": 35,
@@ -903,7 +937,8 @@
     "homeworld_id": null,
     "force_sensitivity": "rare",
     "canon": true,
-    "url": "http://localhost:3001/species/35"
+    "url": "http://localhost:3001/species/35",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/image_6378e65d.jpeg"
   },
   {
     "id": 36,
@@ -926,7 +961,8 @@
     "homeworld_id": null,
     "force_sensitivity": "none",
     "canon": true,
-    "url": "http://localhost:3001/species/36"
+    "url": "http://localhost:3001/species/36",
+    "image": null
   },
   {
     "id": 37,
@@ -950,7 +986,8 @@
     "homeworld_id": null,
     "force_sensitivity": "none",
     "canon": true,
-    "url": "http://localhost:3001/species/37"
+    "url": "http://localhost:3001/species/37",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/talz_596c05e8.jpeg"
   },
   {
     "id": 38,
@@ -973,7 +1010,8 @@
     "homeworld_id": null,
     "force_sensitivity": "rare",
     "canon": true,
-    "url": "http://localhost:3001/species/38"
+    "url": "http://localhost:3001/species/38",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/bith_998c8489.jpeg"
   },
   {
     "id": 39,
@@ -1002,7 +1040,8 @@
     "homeworld_id": 48,
     "force_sensitivity": "common",
     "canon": true,
-    "url": "http://localhost:3001/species/39"
+    "url": "http://localhost:3001/species/39",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/databank_dathomirian_01_169_7cb460fd.jpeg"
   },
   {
     "id": 40,
@@ -1025,7 +1064,8 @@
     "homeworld_id": null,
     "force_sensitivity": "none",
     "canon": true,
-    "url": "http://localhost:3001/species/40"
+    "url": "http://localhost:3001/species/40",
+    "image": null
   },
   {
     "id": 41,
@@ -1049,7 +1089,8 @@
     "homeworld_id": null,
     "force_sensitivity": "none",
     "canon": true,
-    "url": "http://localhost:3001/species/41"
+    "url": "http://localhost:3001/species/41",
+    "image": null
   },
   {
     "id": 42,
@@ -1073,7 +1114,8 @@
     "homeworld_id": 31,
     "force_sensitivity": "none",
     "canon": true,
-    "url": "http://localhost:3001/species/42"
+    "url": "http://localhost:3001/species/42",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/databank_neimoidian_01_169_f4d61512.jpeg"
   },
   {
     "id": 43,
@@ -1103,7 +1145,8 @@
     "homeworld_id": null,
     "force_sensitivity": "rare",
     "canon": true,
-    "url": "http://localhost:3001/species/43"
+    "url": "http://localhost:3001/species/43",
+    "image": null
   },
   {
     "id": 44,
@@ -1130,7 +1173,8 @@
     "homeworld_id": null,
     "force_sensitivity": "none",
     "canon": true,
-    "url": "http://localhost:3001/species/44"
+    "url": "http://localhost:3001/species/44",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/chadra-fan_6bd45a26.jpeg"
   },
   {
     "id": 45,
@@ -1158,7 +1202,8 @@
     "homeworld_id": null,
     "force_sensitivity": "none",
     "canon": true,
-    "url": "http://localhost:3001/species/45"
+    "url": "http://localhost:3001/species/45",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/tlj-abednedo-databank-main-image_bd8babfb.jpeg"
   },
   {
     "id": 46,
@@ -1185,7 +1230,8 @@
     "homeworld_id": null,
     "force_sensitivity": "common",
     "canon": true,
-    "url": "http://localhost:3001/species/46"
+    "url": "http://localhost:3001/species/46",
+    "image": null
   },
   {
     "id": 47,
@@ -1209,7 +1255,8 @@
     "homeworld_id": null,
     "force_sensitivity": "none",
     "canon": true,
-    "url": "http://localhost:3001/species/47"
+    "url": "http://localhost:3001/species/47",
+    "image": null
   },
   {
     "id": 48,
@@ -1236,7 +1283,8 @@
     "homeworld_id": null,
     "force_sensitivity": "none",
     "canon": true,
-    "url": "http://localhost:3001/species/48"
+    "url": "http://localhost:3001/species/48",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/screen_shot_2015-05-26_at_6_df8983c8.png"
   },
   {
     "id": 49,
@@ -1263,7 +1311,8 @@
     "homeworld_id": null,
     "force_sensitivity": "none",
     "canon": true,
-    "url": "http://localhost:3001/species/49"
+    "url": "http://localhost:3001/species/49",
+    "image": null
   },
   {
     "id": 50,
@@ -1285,6 +1334,7 @@
     "homeworld_id": null,
     "force_sensitivity": "none",
     "canon": true,
-    "url": "http://localhost:3001/species/50"
+    "url": "http://localhost:3001/species/50",
+    "image": null
   }
 ]

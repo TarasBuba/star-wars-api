@@ -1,7 +1,7 @@
 {
   "name": "star-wars-api",
   "version": "1.0.0",
-  "description": "Mock REST API for Star Wars Universe \u2014 powered by json-server",
+  "description": "Mock REST API for Star Wars Universe — powered by json-server",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
@@ -19,6 +19,6 @@
   "engines": {
     "node": ">=18.0.0"
   },
-  "author": "Star Wars API \u2014 Disney Canon 2014+",
+  "author": "Star Wars API — Disney Canon 2014+",
   "license": "MIT"
 }

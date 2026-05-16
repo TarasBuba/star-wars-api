@@ -21,7 +21,8 @@
       "Galactic Empire"
     ],
     "canon": true,
-    "url": "http://localhost:3001/vehicles/1"
+    "url": "http://localhost:3001/vehicles/1",
+    "image": null
   },
   {
     "id": 2,
@@ -46,7 +47,8 @@
       "Galactic Empire"
     ],
     "canon": true,
-    "url": "http://localhost:3001/vehicles/2"
+    "url": "http://localhost:3001/vehicles/2",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/e6d_ia_5724_a150e6d4.jpeg"
   },
   {
     "id": 3,
@@ -55,7 +57,7 @@
     "manufacturer": "Aratech Repulsor Company",
     "class": "Speeder bike",
     "cost_in_credits": 8000,
-    "length": 3.0,
+    "length": 3,
     "max_atmosphering_speed": 500,
     "crew": 1,
     "passengers": 1,
@@ -70,7 +72,8 @@
       "Rebel Alliance"
     ],
     "canon": true,
-    "url": "http://localhost:3001/vehicles/3"
+    "url": "http://localhost:3001/vehicles/3",
+    "image": null
   },
   {
     "id": 4,
@@ -96,7 +99,8 @@
       "Confederacy of Independent Systems"
     ],
     "canon": true,
-    "url": "http://localhost:3001/vehicles/4"
+    "url": "http://localhost:3001/vehicles/4",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/databank_aatbattletank_01_169_9de46aea.jpeg"
   },
   {
     "id": 5,
@@ -123,7 +127,8 @@
       "Grand Army of the Republic"
     ],
     "canon": true,
-    "url": "http://localhost:3001/vehicles/5"
+    "url": "http://localhost:3001/vehicles/5",
+    "image": null
   },
   {
     "id": 6,
@@ -147,7 +152,8 @@
       "Rebel Alliance"
     ],
     "canon": true,
-    "url": "http://localhost:3001/vehicles/6"
+    "url": "http://localhost:3001/vehicles/6",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/snowspeeder_ef2f9334.jpeg"
   },
   {
     "id": 7,
@@ -171,7 +177,8 @@
       "Confederacy of Independent Systems"
     ],
     "canon": true,
-    "url": "http://localhost:3001/vehicles/7"
+    "url": "http://localhost:3001/vehicles/7",
+    "image": null
   },
   {
     "id": 8,
@@ -195,7 +202,8 @@
       "Galactic Republic"
     ],
     "canon": true,
-    "url": "http://localhost:3001/vehicles/8"
+    "url": "http://localhost:3001/vehicles/8",
+    "image": null
   },
   {
     "id": 9,
@@ -220,7 +228,8 @@
       "Bounty Hunters Guild"
     ],
     "canon": true,
-    "url": "http://localhost:3001/vehicles/9"
+    "url": "http://localhost:3001/vehicles/9",
+    "image": null
   },
   {
     "id": 10,
@@ -244,7 +253,8 @@
       "Galactic Empire"
     ],
     "canon": true,
-    "url": "http://localhost:3001/vehicles/10"
+    "url": "http://localhost:3001/vehicles/10",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/databank_barcspeeder_01_169_5fd4ce29.jpeg"
   },
   {
     "id": 11,
@@ -253,7 +263,7 @@
     "manufacturer": "Baktoid Armor Workshop",
     "class": "Transport",
     "cost_in_credits": null,
-    "length": 31.0,
+    "length": 31,
     "max_atmosphering_speed": 35,
     "crew": 4,
     "passengers": 112,
@@ -269,7 +279,8 @@
       "Confederacy of Independent Systems"
     ],
     "canon": true,
-    "url": "http://localhost:3001/vehicles/11"
+    "url": "http://localhost:3001/vehicles/11",
+    "image": null
   },
   {
     "id": 12,
@@ -291,7 +302,8 @@
       "Civilians"
     ],
     "canon": true,
-    "url": "http://localhost:3001/vehicles/12"
+    "url": "http://localhost:3001/vehicles/12",
+    "image": null
   },
   {
     "id": 13,
@@ -317,7 +329,8 @@
       "Grand Army of the Republic"
     ],
     "canon": true,
-    "url": "http://localhost:3001/vehicles/13"
+    "url": "http://localhost:3001/vehicles/13",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/at-te-main_09471f2b.jpeg"
   },
   {
     "id": 14,
@@ -340,7 +353,8 @@
       "Galactic Empire"
     ],
     "canon": true,
-    "url": "http://localhost:3001/vehicles/14"
+    "url": "http://localhost:3001/vehicles/14",
+    "image": null
   },
   {
     "id": 15,
@@ -363,6 +377,7 @@
       "Galactic Empire"
     ],
     "canon": true,
-    "url": "http://localhost:3001/vehicles/15"
+    "url": "http://localhost:3001/vehicles/15",
+    "image": null
   }
 ]

@@ -24,7 +24,8 @@
     ],
     "first_appearance_film_id": 2,
     "canon": true,
-    "url": "http://localhost:3001/weapons/1"
+    "url": "http://localhost:3001/weapons/1",
+    "image": null
   },
   {
     "id": 2,
@@ -49,7 +50,8 @@
     ],
     "first_appearance_film_id": 6,
     "canon": true,
-    "url": "http://localhost:3001/weapons/2"
+    "url": "http://localhost:3001/weapons/2",
+    "image": null
   },
   {
     "id": 3,
@@ -74,7 +76,8 @@
     ],
     "first_appearance_film_id": 1,
     "canon": true,
-    "url": "http://localhost:3001/weapons/3"
+    "url": "http://localhost:3001/weapons/3",
+    "image": null
   },
   {
     "id": 4,
@@ -100,7 +103,8 @@
     ],
     "first_appearance_film_id": 4,
     "canon": true,
-    "url": "http://localhost:3001/weapons/4"
+    "url": "http://localhost:3001/weapons/4",
+    "image": null
   },
   {
     "id": 5,
@@ -125,7 +129,8 @@
     ],
     "first_appearance_film_id": 2,
     "canon": true,
-    "url": "http://localhost:3001/weapons/5"
+    "url": "http://localhost:3001/weapons/5",
+    "image": null
   },
   {
     "id": 6,
@@ -151,7 +156,8 @@
     ],
     "first_appearance_film_id": 2,
     "canon": true,
-    "url": "http://localhost:3001/weapons/6"
+    "url": "http://localhost:3001/weapons/6",
+    "image": null
   },
   {
     "id": 7,
@@ -176,7 +182,8 @@
     ],
     "first_appearance_film_id": 1,
     "canon": true,
-    "url": "http://localhost:3001/weapons/7"
+    "url": "http://localhost:3001/weapons/7",
+    "image": null
   },
   {
     "id": 8,
@@ -202,7 +209,8 @@
     ],
     "first_appearance_film_id": 2,
     "canon": true,
-    "url": "http://localhost:3001/weapons/8"
+    "url": "http://localhost:3001/weapons/8",
+    "image": null
   },
   {
     "id": 9,
@@ -228,7 +236,8 @@
     ],
     "first_appearance_film_id": 13,
     "canon": true,
-    "url": "http://localhost:3001/weapons/9"
+    "url": "http://localhost:3001/weapons/9",
+    "image": null
   },
   {
     "id": 10,
@@ -255,7 +264,8 @@
     ],
     "first_appearance_film_id": 1,
     "canon": true,
-    "url": "http://localhost:3001/weapons/10"
+    "url": "http://localhost:3001/weapons/10",
+    "image": null
   },
   {
     "id": 11,
@@ -281,7 +291,8 @@
     ],
     "first_appearance_film_id": 7,
     "canon": true,
-    "url": "http://localhost:3001/weapons/11"
+    "url": "http://localhost:3001/weapons/11",
+    "image": null
   },
   {
     "id": 12,
@@ -307,7 +318,8 @@
     ],
     "first_appearance_film_id": 9,
     "canon": true,
-    "url": "http://localhost:3001/weapons/12"
+    "url": "http://localhost:3001/weapons/12",
+    "image": null
   },
   {
     "id": 13,
@@ -335,7 +347,8 @@
     ],
     "first_appearance_film_id": 12,
     "canon": true,
-    "url": "http://localhost:3001/weapons/13"
+    "url": "http://localhost:3001/weapons/13",
+    "image": null
   },
   {
     "id": 14,
@@ -362,7 +375,8 @@
     ],
     "first_appearance_film_id": 13,
     "canon": true,
-    "url": "http://localhost:3001/weapons/14"
+    "url": "http://localhost:3001/weapons/14",
+    "image": null
   },
   {
     "id": 15,
@@ -389,7 +403,8 @@
     ],
     "first_appearance_film_id": 13,
     "canon": true,
-    "url": "http://localhost:3001/weapons/15"
+    "url": "http://localhost:3001/weapons/15",
+    "image": null
   },
   {
     "id": 16,
@@ -416,7 +431,8 @@
     ],
     "first_appearance_film_id": 12,
     "canon": true,
-    "url": "http://localhost:3001/weapons/16"
+    "url": "http://localhost:3001/weapons/16",
+    "image": null
   },
   {
     "id": 17,
@@ -441,7 +457,8 @@
     ],
     "first_appearance_film_id": 12,
     "canon": true,
-    "url": "http://localhost:3001/weapons/17"
+    "url": "http://localhost:3001/weapons/17",
+    "image": null
   },
   {
     "id": 18,
@@ -468,7 +485,8 @@
     ],
     "first_appearance_film_id": 9,
     "canon": true,
-    "url": "http://localhost:3001/weapons/18"
+    "url": "http://localhost:3001/weapons/18",
+    "image": null
   },
   {
     "id": 19,
@@ -496,7 +514,8 @@
     ],
     "first_appearance_film_id": 4,
     "canon": true,
-    "url": "http://localhost:3001/weapons/19"
+    "url": "http://localhost:3001/weapons/19",
+    "image": null
   },
   {
     "id": 20,
@@ -523,7 +542,8 @@
     ],
     "first_appearance_film_id": 4,
     "canon": true,
-    "url": "http://localhost:3001/weapons/20"
+    "url": "http://localhost:3001/weapons/20",
+    "image": null
   },
   {
     "id": 21,
@@ -549,7 +569,8 @@
     ],
     "first_appearance_film_id": 10,
     "canon": true,
-    "url": "http://localhost:3001/weapons/21"
+    "url": "http://localhost:3001/weapons/21",
+    "image": null
   },
   {
     "id": 22,
@@ -575,7 +596,8 @@
     ],
     "first_appearance_film_id": 10,
     "canon": true,
-    "url": "http://localhost:3001/weapons/22"
+    "url": "http://localhost:3001/weapons/22",
+    "image": null
   },
   {
     "id": 23,
@@ -602,7 +624,8 @@
     ],
     "first_appearance_film_id": 14,
     "canon": true,
-    "url": "http://localhost:3001/weapons/23"
+    "url": "http://localhost:3001/weapons/23",
+    "image": null
   },
   {
     "id": 24,
@@ -627,7 +650,8 @@
     ],
     "first_appearance_film_id": 7,
     "canon": true,
-    "url": "http://localhost:3001/weapons/24"
+    "url": "http://localhost:3001/weapons/24",
+    "image": null
   },
   {
     "id": 25,
@@ -654,7 +678,8 @@
     ],
     "first_appearance_film_id": 12,
     "canon": true,
-    "url": "http://localhost:3001/weapons/25"
+    "url": "http://localhost:3001/weapons/25",
+    "image": null
   },
   {
     "id": 26,
@@ -679,7 +704,8 @@
     ],
     "first_appearance_film_id": 7,
     "canon": true,
-    "url": "http://localhost:3001/weapons/26"
+    "url": "http://localhost:3001/weapons/26",
+    "image": null
   },
   {
     "id": 27,
@@ -707,7 +733,8 @@
     ],
     "first_appearance_film_id": 4,
     "canon": true,
-    "url": "http://localhost:3001/weapons/27"
+    "url": "http://localhost:3001/weapons/27",
+    "image": null
   },
   {
     "id": 28,
@@ -733,7 +760,8 @@
     ],
     "first_appearance_film_id": 6,
     "canon": true,
-    "url": "http://localhost:3001/weapons/28"
+    "url": "http://localhost:3001/weapons/28",
+    "image": null
   },
   {
     "id": 29,
@@ -760,7 +788,8 @@
     ],
     "first_appearance_film_id": 2,
     "canon": true,
-    "url": "http://localhost:3001/weapons/29"
+    "url": "http://localhost:3001/weapons/29",
+    "image": null
   },
   {
     "id": 30,
@@ -786,7 +815,8 @@
     ],
     "first_appearance_film_id": 7,
     "canon": true,
-    "url": "http://localhost:3001/weapons/30"
+    "url": "http://localhost:3001/weapons/30",
+    "image": null
   },
   {
     "id": 31,
@@ -813,7 +843,8 @@
     ],
     "first_appearance_film_id": 5,
     "canon": true,
-    "url": "http://localhost:3001/weapons/31"
+    "url": "http://localhost:3001/weapons/31",
+    "image": null
   },
   {
     "id": 32,
@@ -839,7 +870,8 @@
     ],
     "first_appearance_film_id": 14,
     "canon": true,
-    "url": "http://localhost:3001/weapons/32"
+    "url": "http://localhost:3001/weapons/32",
+    "image": null
   },
   {
     "id": 33,
@@ -866,7 +898,8 @@
     ],
     "first_appearance_film_id": 10,
     "canon": true,
-    "url": "http://localhost:3001/weapons/33"
+    "url": "http://localhost:3001/weapons/33",
+    "image": null
   },
   {
     "id": 34,
@@ -894,7 +927,8 @@
     ],
     "first_appearance_film_id": 5,
     "canon": true,
-    "url": "http://localhost:3001/weapons/34"
+    "url": "http://localhost:3001/weapons/34",
+    "image": null
   },
   {
     "id": 35,
@@ -922,7 +956,8 @@
     ],
     "first_appearance_film_id": 12,
     "canon": true,
-    "url": "http://localhost:3001/weapons/35"
+    "url": "http://localhost:3001/weapons/35",
+    "image": null
   },
   {
     "id": 36,
@@ -948,7 +983,8 @@
     ],
     "first_appearance_film_id": 5,
     "canon": true,
-    "url": "http://localhost:3001/weapons/36"
+    "url": "http://localhost:3001/weapons/36",
+    "image": null
   },
   {
     "id": 37,
@@ -975,7 +1011,8 @@
     ],
     "first_appearance_film_id": 4,
     "canon": true,
-    "url": "http://localhost:3001/weapons/37"
+    "url": "http://localhost:3001/weapons/37",
+    "image": null
   },
   {
     "id": 38,
@@ -1002,7 +1039,8 @@
     ],
     "first_appearance_film_id": 4,
     "canon": true,
-    "url": "http://localhost:3001/weapons/38"
+    "url": "http://localhost:3001/weapons/38",
+    "image": null
   },
   {
     "id": 39,
@@ -1026,7 +1064,8 @@
     "affiliation": [],
     "first_appearance_film_id": 4,
     "canon": true,
-    "url": "http://localhost:3001/weapons/39"
+    "url": "http://localhost:3001/weapons/39",
+    "image": null
   },
   {
     "id": 40,
@@ -1052,7 +1091,8 @@
     ],
     "first_appearance_film_id": 3,
     "canon": true,
-    "url": "http://localhost:3001/weapons/40"
+    "url": "http://localhost:3001/weapons/40",
+    "image": null
   },
   {
     "id": 41,
@@ -1076,7 +1116,8 @@
     "affiliation": [],
     "first_appearance_film_id": 4,
     "canon": true,
-    "url": "http://localhost:3001/weapons/41"
+    "url": "http://localhost:3001/weapons/41",
+    "image": null
   },
   {
     "id": 42,
@@ -1102,7 +1143,8 @@
     ],
     "first_appearance_film_id": 14,
     "canon": true,
-    "url": "http://localhost:3001/weapons/42"
+    "url": "http://localhost:3001/weapons/42",
+    "image": null
   },
   {
     "id": 43,
@@ -1128,7 +1170,8 @@
     ],
     "first_appearance_film_id": 6,
     "canon": true,
-    "url": "http://localhost:3001/weapons/43"
+    "url": "http://localhost:3001/weapons/43",
+    "image": null
   },
   {
     "id": 44,
@@ -1154,7 +1197,8 @@
     ],
     "first_appearance_film_id": 6,
     "canon": true,
-    "url": "http://localhost:3001/weapons/44"
+    "url": "http://localhost:3001/weapons/44",
+    "image": null
   },
   {
     "id": 45,
@@ -1181,7 +1225,8 @@
     ],
     "first_appearance_film_id": 5,
     "canon": true,
-    "url": "http://localhost:3001/weapons/45"
+    "url": "http://localhost:3001/weapons/45",
+    "image": null
   },
   {
     "id": 46,
@@ -1207,7 +1252,8 @@
     ],
     "first_appearance_film_id": 2,
     "canon": true,
-    "url": "http://localhost:3001/weapons/46"
+    "url": "http://localhost:3001/weapons/46",
+    "image": null
   },
   {
     "id": 47,
@@ -1234,7 +1280,8 @@
     ],
     "first_appearance_film_id": 8,
     "canon": true,
-    "url": "http://localhost:3001/weapons/47"
+    "url": "http://localhost:3001/weapons/47",
+    "image": null
   },
   {
     "id": 48,
@@ -1261,7 +1308,8 @@
     ],
     "first_appearance_film_id": 14,
     "canon": true,
-    "url": "http://localhost:3001/weapons/48"
+    "url": "http://localhost:3001/weapons/48",
+    "image": null
   },
   {
     "id": 49,
@@ -1287,7 +1335,8 @@
     ],
     "first_appearance_film_id": 14,
     "canon": true,
-    "url": "http://localhost:3001/weapons/49"
+    "url": "http://localhost:3001/weapons/49",
+    "image": null
   },
   {
     "id": 50,
@@ -1316,7 +1365,8 @@
     ],
     "first_appearance_film_id": 3,
     "canon": true,
-    "url": "http://localhost:3001/weapons/50"
+    "url": "http://localhost:3001/weapons/50",
+    "image": null
   },
   {
     "id": 51,
@@ -1343,7 +1393,8 @@
     ],
     "first_appearance_film_id": 14,
     "canon": true,
-    "url": "http://localhost:3001/weapons/51"
+    "url": "http://localhost:3001/weapons/51",
+    "image": null
   },
   {
     "id": 52,
@@ -1372,6 +1423,7 @@
     ],
     "first_appearance_film_id": 10,
     "canon": true,
-    "url": "http://localhost:3001/weapons/52"
+    "url": "http://localhost:3001/weapons/52",
+    "image": null
   }
 ]

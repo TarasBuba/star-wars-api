@@ -33,7 +33,8 @@
     ],
     "status": "restored",
     "canon": true,
-    "url": "http://localhost:3001/organizations/1"
+    "url": "http://localhost:3001/organizations/1",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/Jedi-Order_c0dfa281.jpeg"
   },
   {
     "id": 2,
@@ -61,7 +62,8 @@
     ],
     "status": "dissolved",
     "canon": true,
-    "url": "http://localhost:3001/organizations/2"
+    "url": "http://localhost:3001/organizations/2",
+    "image": null
   },
   {
     "id": 3,
@@ -89,7 +91,8 @@
     ],
     "status": "dissolved",
     "canon": true,
-    "url": "http://localhost:3001/organizations/3"
+    "url": "http://localhost:3001/organizations/3",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/Galactic_Republic-1_69f82abe.jpeg"
   },
   {
     "id": 4,
@@ -113,7 +116,8 @@
     ],
     "status": "dissolved",
     "canon": true,
-    "url": "http://localhost:3001/organizations/4"
+    "url": "http://localhost:3001/organizations/4",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/confederacy-of-independent-systems_27125097.jpeg"
   },
   {
     "id": 5,
@@ -139,7 +143,8 @@
     ],
     "status": "dissolved",
     "canon": true,
-    "url": "http://localhost:3001/organizations/5"
+    "url": "http://localhost:3001/organizations/5",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/Galactic-Empire_ee15e2e7.jpeg"
   },
   {
     "id": 6,
@@ -177,7 +182,8 @@
     ],
     "status": "dissolved",
     "canon": true,
-    "url": "http://localhost:3001/organizations/6"
+    "url": "http://localhost:3001/organizations/6",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/Rebel-Alliance_96d56058.jpeg"
   },
   {
     "id": 7,
@@ -202,7 +208,8 @@
     ],
     "status": "dissolved",
     "canon": true,
-    "url": "http://localhost:3001/organizations/7"
+    "url": "http://localhost:3001/organizations/7",
+    "image": null
   },
   {
     "id": 8,
@@ -226,7 +233,8 @@
     ],
     "status": "dissolved",
     "canon": true,
-    "url": "http://localhost:3001/organizations/8"
+    "url": "http://localhost:3001/organizations/8",
+    "image": null
   },
   {
     "id": 9,
@@ -252,7 +260,8 @@
     ],
     "status": "active",
     "canon": true,
-    "url": "http://localhost:3001/organizations/9"
+    "url": "http://localhost:3001/organizations/9",
+    "image": null
   },
   {
     "id": 10,
@@ -277,7 +286,8 @@
     ],
     "status": "fractured",
     "canon": true,
-    "url": "http://localhost:3001/organizations/10"
+    "url": "http://localhost:3001/organizations/10",
+    "image": null
   },
   {
     "id": 11,
@@ -304,7 +314,8 @@
     ],
     "status": "restored",
     "canon": true,
-    "url": "http://localhost:3001/organizations/11"
+    "url": "http://localhost:3001/organizations/11",
+    "image": null
   },
   {
     "id": 12,
@@ -326,7 +337,8 @@
     ],
     "status": "dissolved",
     "canon": true,
-    "url": "http://localhost:3001/organizations/12"
+    "url": "http://localhost:3001/organizations/12",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/Death-Watch_624f6efa.jpeg"
   },
   {
     "id": 13,
@@ -351,7 +363,8 @@
     ],
     "status": "active",
     "canon": true,
-    "url": "http://localhost:3001/organizations/13"
+    "url": "http://localhost:3001/organizations/13",
+    "image": null
   },
   {
     "id": 14,
@@ -371,7 +384,8 @@
     ],
     "status": "dissolved",
     "canon": true,
-    "url": "http://localhost:3001/organizations/14"
+    "url": "http://localhost:3001/organizations/14",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/databank_tradefederation_01_169_4d5122ac.jpeg"
   },
   {
     "id": 15,
@@ -393,7 +407,8 @@
     ],
     "status": "restored",
     "canon": true,
-    "url": "http://localhost:3001/organizations/15"
+    "url": "http://localhost:3001/organizations/15",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/acw_ia_62085_00883f8c.jpeg"
   },
   {
     "id": 16,
@@ -413,7 +428,8 @@
     ],
     "status": "dissolved",
     "canon": true,
-    "url": "http://localhost:3001/organizations/16"
+    "url": "http://localhost:3001/organizations/16",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/databank_intergalacticbankingclan_01_169_7d04659f.jpeg"
   },
   {
     "id": 17,
@@ -434,7 +450,8 @@
     ],
     "status": "active",
     "canon": true,
-    "url": "http://localhost:3001/organizations/17"
+    "url": "http://localhost:3001/organizations/17",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/crimson-dawn-main-b_edc99197.jpeg"
   },
   {
     "id": 18,
@@ -455,7 +472,8 @@
     ],
     "status": "fractured",
     "canon": true,
-    "url": "http://localhost:3001/organizations/18"
+    "url": "http://localhost:3001/organizations/18",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/pyke-syndicate-main_26c5afa9.jpeg"
   },
   {
     "id": 19,
@@ -480,7 +498,8 @@
     ],
     "status": "dissolved",
     "canon": true,
-    "url": "http://localhost:3001/organizations/19"
+    "url": "http://localhost:3001/organizations/19",
+    "image": null
   },
   {
     "id": 20,
@@ -504,7 +523,8 @@
     ],
     "status": "active",
     "canon": true,
-    "url": "http://localhost:3001/organizations/20"
+    "url": "http://localhost:3001/organizations/20",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/501st-stormtroopers-main_525e6786.jpeg"
   },
   {
     "id": 21,
@@ -528,7 +548,8 @@
     ],
     "status": "dissolved",
     "canon": true,
-    "url": "http://localhost:3001/organizations/21"
+    "url": "http://localhost:3001/organizations/21",
+    "image": null
   },
   {
     "id": 22,
@@ -552,7 +573,8 @@
     ],
     "status": "fractured",
     "canon": true,
-    "url": "http://localhost:3001/organizations/22"
+    "url": "http://localhost:3001/organizations/22",
+    "image": null
   },
   {
     "id": 23,
@@ -573,7 +595,8 @@
     ],
     "status": "dissolved",
     "canon": true,
-    "url": "http://localhost:3001/organizations/23"
+    "url": "http://localhost:3001/organizations/23",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/knights-of-ren-main_17fe248a.jpeg"
   },
   {
     "id": 24,
@@ -597,7 +620,8 @@
     ],
     "status": "dissolved",
     "canon": true,
-    "url": "http://localhost:3001/organizations/24"
+    "url": "http://localhost:3001/organizations/24",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/sith-eternal-main_b6eb45e8.jpeg"
   },
   {
     "id": 25,
@@ -622,6 +646,7 @@
     ],
     "status": "dissolved",
     "canon": true,
-    "url": "http://localhost:3001/organizations/25"
+    "url": "http://localhost:3001/organizations/25",
+    "image": null
   }
 ]
