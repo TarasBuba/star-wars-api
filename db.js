@@ -16,6 +16,8 @@ function getDatabase() {
     events: load('events.json'),
     weapons: load('weapons.json'),
     quotes: load('quotes.json'),
+    droids: load('droids.json'),
+    creatures: load('creatures.json'),
   };
 }
 

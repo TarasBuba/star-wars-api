@@ -1,5 +1,16 @@
 import fs from 'fs/promises';
 
+async function fetchAndSave(section) {
+  try {
+      const data = await fetchAllFromDatabank(section);
+      await fs.writeFile(`./data/${section}.json`, JSON.stringify(data, null, 2));
+      return data;
+      
+    } catch (error) {
+      console.error(`Error fetching data for ${section}:`, error);
+    }
+}
+
 async function fetchAllFromDatabank(
  section, url = `https://starwars-databank-server.onrender.com/api/v1/${section}?page=1&limit=100`
 ) {
@@ -19,28 +30,28 @@ async function fetchAllFromDatabank(
   return allData;
 }
 
-async function enrichWithImages(section) {
-  const charactersData = JSON.parse(
-    await fs.readFile(`./data/${section}.json`, 'utf-8')
-  );
+// async function enrichWithImages(section) {
+//   const charactersData = JSON.parse(
+//     await fs.readFile(`./data/${section}.json`, 'utf-8')
+//   );
 
-  const allData = await fetchAllFromDatabank(section);
+//   const allData = await fetchAllFromDatabank(section);
 
-  const enrichedData = charactersData.map((character) => {
-    const foundCharacter = allData.find((item) => item.name === character.name);
-    return {
-      ...character,
-      image: character.image || foundCharacter?.image || null,
-    };
-  });
+//   const enrichedData = charactersData.map((character) => {
+//     const foundCharacter = allData.find((item) => item.name === character.name);
+//     return {
+//       ...character,
+//       image: character.image || foundCharacter?.image || null,
+//     };
+//   });
 
-  await fs.writeFile(
-    `./data/${section}.json`,
-    JSON.stringify(enrichedData, null, 2)
-  );
+//   await fs.writeFile(
+//     `./data/${section}.json`,
+//     JSON.stringify(enrichedData, null, 2)
+//   );
 
-  return enrichedData;
-}
+//   return enrichedData;
+// }
 
 
 
@@ -48,20 +59,22 @@ async function enrichWithImages(section) {
 
  async function runAll() {
   const sections = [
-    'characters',
-    'films',
-    'planets',
-    'species',
-    'starships',
-    'vehicles',
-    'organizations',
-    'events',
-    'weapons',
-    'quotes',
+    // 'characters',
+    // 'films',
+    // 'planets',
+    // 'species',
+    // 'starships',
+    // 'vehicles',
+    // 'organizations',
+    // 'events',
+    // 'weapons',
+    // 'quotes',
+      'droids',
+      'creatures',
   ];
 
   for (const section of sections) {
-    await enrichWithImages(section);
+    await fetchAndSave(section);
   }
  }
 
